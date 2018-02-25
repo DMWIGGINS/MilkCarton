@@ -4,8 +4,9 @@
   "description": "database to search for missing persons",
   "main": "server.js",
   "scripts": {
+    "client": "node scripts/start-client.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "concurrently \"nodemon server.js\" \"npm run client\""
   },
   "repository": {
     "type": "git",
@@ -19,8 +20,17 @@
   ],
   "author": "Lauren Moore, Katie DeAngelis, Helen Pitt, Doreen Wiggins",
   "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^3.5.0",
+    "nodemon": "^1.11.0"
+  },
   "bugs": {
     "url": "https://github.com/DMWIGGINS/MilkCarton/issues"
   },
-  "homepage": "https://github.com/DMWIGGINS/MilkCarton#readme"
+  "homepage": "https://github.com/DMWIGGINS/MilkCarton#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
 }
