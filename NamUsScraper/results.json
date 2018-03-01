@@ -1,0 +1,76 @@
+{"35725": {
+    "circumstances": {
+        "zip": "03878",
+        "circumstances": "Left her home in the early morning hours on foot without her ID, credit cards, or money. Did not take her phone and has not checked into social media since.",
+        "city": "Somersworth",
+        "county": "Strafford",
+        "state": "New Hampshire"
+    },
+    "characteristics": {
+        "piercings": "",
+        "otherCharacteristics": "",
+        "facialHair": "",
+        "skeletalInformation": "",
+        "leftEyeColor": "Blue",
+        "fingersAndToeNails": "",
+        "eyeDescription": "",
+        "bodyHair": "",
+        "amputations": "",
+        "scarsAndMarks": "On bilateral hips, scar on throat",
+        "prosthetics": "",
+        "tattoos": "",
+        "foreignObjects": "",
+        "hairColor": "Brown",
+        "headHair": "Has a short pixie cut",
+        "rightEyeColor": "Blue",
+        "deformities": ""
+    },
+    "caseManager": {
+        "firstName": "Lori",
+        "lastName": "Bruski",
+        "phone": "817-718-7904"
+    },
+    "investigatingAgency": {
+        "zip": "03878",
+        "lastName": "Sunderland",
+        "website": "",
+        "comments": "",
+        "agency": "Somersworth Police Department",
+        "address2": "",
+        "city": "Somersworth",
+        "address1": "12 Lilac Ln",
+        "jurisdiction": "Local",
+        "title": "Detective Sergeant",
+        "firstName": "John",
+        "phone": "603-692-3131",
+        "caseNumber": "16-1207-OF",
+        "dateReported": "",
+        "state": "New Hampshire"
+    },
+    "photos": {
+        "0": "https://www.findthemissing.org/en/photos/thumb/67339",
+        "1": "https://www.findthemissing.org/en/photos/thumb/67349"
+    },
+    "caseInfo": {
+        "lastName": "Bean",
+        "ageLastSeen": "65 to years old",
+        "race": "White",
+        "ethnicity": "Other",
+        "sex": "Female",
+        "weight": "130.0 to 140.0",
+        "firstName": "Denise",
+        "dateEntered": "10/18/2016",
+        "lastSeen": "June 03, 2016 05:00",
+        "ageNow": "66 years old",
+        "nickname": "Mikal",
+        "middleName": "Mikal",
+        "status": "Missing",
+        "height": "60.0"
+    },
+    "regionalAdministrator": {
+        "firstName": "Lori",
+        "lastName": "Bruski",
+        "phone": "817-718-7904",
+        "email": "Lori.Bruski@unthsc.edu"
+    }
+}}
