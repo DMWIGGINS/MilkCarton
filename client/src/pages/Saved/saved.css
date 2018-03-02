@@ -1,0 +1,12 @@
+.card.saved-case > .card-image {
+    display: inline-block;
+    vertical-align: top;
+    margin: 10px;
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+}
+
+.card.saved-case > .card-image > img {
+    width: 100%;
+}
