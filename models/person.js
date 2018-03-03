@@ -70,7 +70,7 @@ module.exports = function (sequelize, DataTypes) {
 
 
 
-};
+
 // "caseInfo": {
 //     "lastName": "Deveau",
 //     "ageLastSeen": "49 to years old",
