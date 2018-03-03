@@ -9,7 +9,7 @@ class Landing extends Component {
                 <Row>
                     <Col s={12} className="center-align">
                         <div className="section">
-                            <h1>Milk Carton</h1>
+                            <h1 class="milkcartontitel">Milk Carton</h1>
                             <h2># / #</h2>
                         </div>
                     </Col>
