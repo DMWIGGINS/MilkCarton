@@ -2,3 +2,12 @@ logo{
     font-family: 'Times New Roman', Times, serif;
 }
 
+.nav-wrapper{
+    background-color: lightgrey
+}
+.brand{
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-stretch: wider;
+font-size-adjust: inherit;
+-webkit-text-fill-color: black;
+}
