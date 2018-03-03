@@ -6,7 +6,6 @@ module.exports = (sequelize, DataTypes) => {
 
   Sightings.associate = function (models) {
     models.Sightings.belongsTo(models.Person, {
-      onDelete: "CASCADE",
       foreignKey: {
         allowNull: false
       }
