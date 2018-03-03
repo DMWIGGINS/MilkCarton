@@ -55,9 +55,21 @@ module.exports = function (sequelize, DataTypes) {
         middleName: {
             type: DataTypes.STRING,
             allowNull: true
-        }
+        },
     });
+    Person.associate = function (models) {
+        models.Person.hasMany(models.Images);
+    };
+    Person.associate = function (models) {
+        models.Person.hasMany(models.Sightings);
+    };
+    return Person;
 };
+
+
+
+
+
 
 // "caseInfo": {
 //     "lastName": "Deveau",
