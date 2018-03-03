@@ -36,10 +36,6 @@
     "mysql": "^2.15.0",
     "mysql2": "^1.5.2",
     "path": "^0.12.7",
-    "react-google-maps": "^9.4.5",
-    "react-router": "^4.2.0",
-    "save": "^2.3.2",
-    "selenium-webdriver": "^4.0.0-alpha.1",
-    "sequelize": "^4.35.1"
+ 
   }
 }

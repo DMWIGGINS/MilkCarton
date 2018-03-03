@@ -5,7 +5,7 @@ class NavBar extends Component {
     render() {
         return (
             <Row>
-                <Col s={12} className='nav-bar-header'>
+                <Col s={12} className='nav-bar-header green'>
                     <Navbar brand='Milk Carton' left>
                         <NavItem href='/landing'>Landing</NavItem>
                     </Navbar>
