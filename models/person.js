@@ -14,11 +14,11 @@ module.exports = function (sequelize, DataTypes) {
         },
         ageLastSeen: {
             type: DataTypes.STRING,
-            allowNull: false
+            allowNull: true
         },
         ageNow: {
             type: DataTypes.STRING,
-            allowNull: false
+            allowNull: true
         },
         height: {
             type: DataTypes.INTEGER,
@@ -56,12 +56,20 @@ module.exports = function (sequelize, DataTypes) {
             type: DataTypes.STRING,
             allowNull: true
         },
+        caseNumber: {
+            type: DataTypes.INTEGER,
+            allowNull: false
+        }
     });
     Person.associate = function (models) {
-        models.Person.hasMany(models.Images);
+        models.Person.hasMany(models.Images, {
+            onDelete: "cascade"
+        });
     };
     Person.associate = function (models) {
-        models.Person.hasMany(models.Sightings);
+        models.Person.hasMany(models.Sightings, {
+            onDelete: "cascade"
+        });
     };
     return Person;
 };

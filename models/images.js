@@ -6,7 +6,6 @@ module.exports = (sequelize, DataTypes) => {
 
     Images.associate = function (models) {
         models.Images.belongsTo(models.Person, {
-            onDelete: "CASCADE",
             foreignKey: {
                 allowNull: false
             }
