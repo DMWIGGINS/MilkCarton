@@ -59,6 +59,26 @@ module.exports = function (sequelize, DataTypes) {
         caseNumber: {
             type: DataTypes.INTEGER,
             allowNull: false
+        },
+        zipCode: {
+            type: DataTypes.INTEGER,
+            allowNull: true
+        },
+        city: {
+            type: DataTypes.STRING,
+            allowNull: true
+        },
+        county: {
+            type: DataTypes.STRING,
+            allowNull: true
+        },
+        state: {
+            type: DataTypes.STRING,
+            allowNull: true
+        },
+        circumstances: {
+            type: DataTypes.STRING,
+            allowNull: true
         }
     });
     Person.associate = function (models) {
@@ -74,7 +94,11 @@ module.exports = function (sequelize, DataTypes) {
     return Person;
 };
 
-
+// "zip": "",
+// "circumstances": "Thomas Poirier was last seen in North Hampton, NH. Thomas may have gone to New York, Florida, or California.",
+// "city": "North Hampton",
+// "county": "Rockingham",
+// "state": "New Hampshire"
 
 
 
