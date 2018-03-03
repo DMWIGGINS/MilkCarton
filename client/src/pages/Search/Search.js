@@ -1,6 +1,7 @@
 import "./search.css";
 import React, { Component } from 'react';
-import {Row, Col, Button, Container, Input} from 'react-materialize'
+import {Row, Col, Button, Container, Input} from 'react-materialize';
+import MyMapComponent from "../../components/GoogleMaps/GoogleMaps.js";
 
 
 class Search extends Component {
