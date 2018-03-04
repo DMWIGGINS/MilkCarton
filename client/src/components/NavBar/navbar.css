@@ -1,19 +1,14 @@
-logo{
-    font-family: 'Times New Roman', Times, serif;
-}
-
 .nav-wrapper{
-    background-color: red
+    background-color:red
 }
 .brand{
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-stretch: wider;
 font-size-adjust: inherit;
-
 }
 .route{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: lighter;
-    color:white;
+    color: black;
     -webkit-text-fill-color: black;
 }

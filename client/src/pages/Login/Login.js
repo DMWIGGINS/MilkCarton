@@ -21,8 +21,8 @@ class Login extends Component {
                 </Row>
                 <Row>
                     <Col s={10} offset="s1" className="center-align login-buttons">
-                        <Button waves='light'>Sign In</Button>
-                        <Button waves='light'>New User</Button>
+                        <Button className="button" waves='light'>Sign In</Button>
+                        <Button className="button" waves='light'>New User</Button>
                     </Col>
                 </Row>
                 <Row>
