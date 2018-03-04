@@ -2,7 +2,7 @@ import "./search.css";
 import React, { Component } from 'react';
 import {Row, Col, Button, Container, Input} from 'react-materialize';
 import MyMapComponent from "../../components/GoogleMaps/GoogleMaps.js";
-import Carousel from "./components/Carousel";
+
 
 class Search extends Component {
     render() {
@@ -19,10 +19,6 @@ class Search extends Component {
                     </Col>
                 </Row>
                 <Row>
-                <Carousel>
-                </Carousel>
-                </Row>
-                <Row>
                 <MyMapComponent
   isMarkerShown
   googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places"
@@ -31,7 +27,7 @@ class Search extends Component {
   mapElement={<div style={{ height: `100%` }} />}
 />
 </Row>
-</Container>
+            </Container>
         );
     }
 }
