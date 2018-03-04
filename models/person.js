@@ -1,3 +1,4 @@
+'use strict';
 module.exports = function (sequelize, DataTypes) {
     var Person = sequelize.define("Person", {
         lastName: {
@@ -99,9 +100,6 @@ module.exports = function (sequelize, DataTypes) {
 // "city": "North Hampton",
 // "county": "Rockingham",
 // "state": "New Hampshire"
-
-
-
 
 // "caseInfo": {
 //     "lastName": "Deveau",
