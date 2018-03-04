@@ -12,6 +12,7 @@ class NavBar extends Component {
                         <NavItem className='route'href='/resources'>RESOURCES</NavItem>
                         <NavItem className='route'href='/saved'>SAVED CASES</NavItem>
                         <NavItem className='route'href='/search'>SEARCH MISSING PERSONS</NavItem>
+                        <NavItem className='route'href='/spotted'>SPOTTED</NavItem>
                     </Navbar>
                 </Col>
             </Row>
