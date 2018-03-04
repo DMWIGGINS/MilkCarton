@@ -1,4 +1,4 @@
-import "./search.css";
+import "./spotted.css";
 import React, { Component } from 'react';
 import {Row, Col, Button, Container, Input} from 'react-materialize';
 import MyMapComponent from "../../components/GoogleMaps/GoogleMaps.js";

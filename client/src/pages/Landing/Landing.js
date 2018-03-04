@@ -1,5 +1,6 @@
 import "./landing.css";
 import React, { Component } from 'react';
+import Heading from "../../components/Heading";
 import {Divider, Row, Col, Button, Container} from 'react-materialize'
 
 class Landing extends Component {
@@ -9,8 +10,8 @@ class Landing extends Component {
                 <Row>
                     <Col s={12} className="center-align">
                         <div className="section">
-                            <h1 class="milkcartontitel">Milk Carton</h1>
-                            <h2># / #</h2>
+                            <Heading level={1}>Milk Carton</Heading>
+                            <Heading level={3}>14105 / 28526</Heading>
                         </div>
                     </Col>
                     <Col s={6} className="right-align">
