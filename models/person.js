@@ -1,3 +1,4 @@
+'use strict';
 module.exports = function (sequelize, DataTypes) {
     var Person = sequelize.define("Person", {
         lastName: {
@@ -75,22 +76,3 @@ module.exports = function (sequelize, DataTypes) {
 };
 
 
-
-
-
-
-// "caseInfo": {
-//     "lastName": "Deveau",
-//     "ageLastSeen": "49 to years old",
-//     "race": "White",
-//     "ethnicity": "",
-//     "sex": "Male",
-//     "weight": "145.0 to 154.0",
-//     "firstName": "David",
-//     "dateEntered": "12/19/2013",
-//     "lastSeen": "May 09, 2011 00:00",
-//     "ageNow": "56 years old",
-//     "nickname": "",
-//     "middleName": "D.",
-//     "status": "Missing",
-//     "height": "66.0"
