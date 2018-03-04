@@ -1,8 +1,7 @@
 import "./search.css";
 import React, { Component } from 'react';
-import {Row, Col, Button, Container, Input} from 'react-materialize';
+import {Row, Col, Button, Container, Input, Carousel} from 'react-materialize';
 import MyMapComponent from "../../components/GoogleMaps/GoogleMaps.js";
-import Carousel from "./components/Carousel";
 
 class Search extends Component {
     render() {
@@ -19,8 +18,8 @@ class Search extends Component {
                     </Col>
                 </Row>
                 <Row>
-                <Carousel>
-                </Carousel>
+                <Carousel />
+
                 </Row>
                 <Row>
                 <MyMapComponent
