@@ -92,6 +92,13 @@ module.exports = function (sequelize, DataTypes) {
             onDelete: "cascade"
         });
     };
+    Person.associate = function (models) {
+      models.Person.belongsTo(models.User, {
+        foreignKey: {
+          allowNull: false
+        }
+      });
+    };
     return Person;
 };
 
