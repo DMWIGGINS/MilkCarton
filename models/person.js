@@ -60,6 +60,26 @@ module.exports = function (sequelize, DataTypes) {
         caseNumber: {
             type: DataTypes.INTEGER,
             allowNull: false
+        },
+        zipCode: {
+            type: DataTypes.INTEGER,
+            allowNull: true
+        },
+        city: {
+            type: DataTypes.STRING,
+            allowNull: true
+        },
+        county: {
+            type: DataTypes.STRING,
+            allowNull: true
+        },
+        state: {
+            type: DataTypes.STRING,
+            allowNull: true
+        },
+        circumstances: {
+            type: DataTypes.STRING,
+            allowNull: true
         }
     });
     Person.associate = function (models) {
@@ -75,4 +95,24 @@ module.exports = function (sequelize, DataTypes) {
     return Person;
 };
 
+// "zip": "",
+// "circumstances": "Thomas Poirier was last seen in North Hampton, NH. Thomas may have gone to New York, Florida, or California.",
+// "city": "North Hampton",
+// "county": "Rockingham",
+// "state": "New Hampshire"
 
+// "caseInfo": {
+//     "lastName": "Deveau",
+//     "ageLastSeen": "49 to years old",
+//     "race": "White",
+//     "ethnicity": "",
+//     "sex": "Male",
+//     "weight": "145.0 to 154.0",
+//     "firstName": "David",
+//     "dateEntered": "12/19/2013",
+//     "lastSeen": "May 09, 2011 00:00",
+//     "ageNow": "56 years old",
+//     "nickname": "",
+//     "middleName": "D.",
+//     "status": "Missing",
+//     "height": "66.0"

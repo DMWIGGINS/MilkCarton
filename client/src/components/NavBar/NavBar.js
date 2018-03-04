@@ -8,10 +8,10 @@ class NavBar extends Component {
             <Row>
                 <Col s={12} className='nav-wrapper'>
                     <Navbar className='brand' brand='MILK CARTON' left>
-                        <NavItem href='/landing'>LANDING PAGE</NavItem>
-                        <NavItem href='/resources'>RESOURCES</NavItem>
-                        <NavItem href='/saved'>SAVED CASES</NavItem>
-                        <NavItem href='/search'>SEARCH MISSING PERSONS</NavItem>
+                        <NavItem className='route'href='/landing'>LANDING PAGE</NavItem>
+                        <NavItem className='route'href='/resources'>RESOURCES</NavItem>
+                        <NavItem className='route'href='/saved'>SAVED CASES</NavItem>
+                        <NavItem className='route'href='/search'>SEARCH MISSING PERSONS</NavItem>
                     </Navbar>
                 </Col>
             </Row>
