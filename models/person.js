@@ -78,7 +78,7 @@ module.exports = function (sequelize, DataTypes) {
             allowNull: true
         },
         circumstances: {
-            type: DataTypes.STRING,
+            type: DataTypes.TEXT,
             allowNull: true
         }
     });
