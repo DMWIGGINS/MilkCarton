@@ -5,6 +5,19 @@ import {Row, Col, Button, Container, Input} from 'react-materialize'
 import GoogleLogin from 'react-google-login';
 
 class Login extends Component {
+    handleLoginResponse(response) {
+        if (response.error == null) {
+            fetch('api/user/login', {
+                method: 'POST',
+                body: JSON.stringify(response.profileObj),
+                headers: {
+                    'Content-Type': 'application/json'
+                }
+            }).then(res => {
+                return res
+            }).catch(err => err);
+        }
+    }
     render() {
         return (
             <Container>
@@ -32,8 +45,8 @@ class Login extends Component {
                         clientId="277659205285-9aqgv54koa3l693gcqcs2knt9lqrg9e9.apps.googleusercontent.com"
                         buttonText="Authenticate through gmail/google sign in."
                         className="google-login"
-                        //onSuccess={}
-                        //onFailure={}
+                        onSuccess={this.handleLoginResponse}
+                        onFailure={this.handleLoginResponse}
                         style={{}} // This clears out the style from the component
                     />
                     </Col>
