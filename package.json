@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "client": "node scripts/start-client.js",
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "concurrently \"nodemon server.js\" \"npm run client\"",
     "start": "concurrently \"nodemon server.js\" \"npm run client\"",
     "scrape": "node scripts/scrapeNamUs.js"
   },
