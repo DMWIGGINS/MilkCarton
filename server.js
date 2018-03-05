@@ -2,6 +2,7 @@
 //                             Dependencies & Variables                              //
 ///////////////////////////////////////////////////////////////////////////////////////
 const express = require("express");
+const session = require("express-session");
 const bodyParser = require("body-parser");
 const port = process.env.PORT || 3001;
 // Import routes and give the server access to them.
@@ -11,12 +12,17 @@ const app = express();
 ///////////////////////////////////////////////////////////////////////////////////////
 //                               App & Database Config                               //
 ///////////////////////////////////////////////////////////////////////////////////////
-
-// Serve static content for the app from the "public" directory in the application directory.
-app.use(express.static("client/build"));
-
+// Session management for gmail oauth
+app.use(session({
+    secret: 'XASDASDA'
+}));
 app.use(bodyParser.urlencoded({ extended: false }));
-var db = require("./models");
+app.use(bodyParser.json());
+// Serve up static assets
+app.use(express.static("client/build"));
+// Add routes, both API and view
+app.use(routes);
+
 
 //Models
 var models = require("./models");
@@ -31,10 +37,6 @@ models.sequelize.sync().then(function() {
     console.log(err, "Something went wrong with the Database Update!")
  
 });
-///////////////////////////////////////////////////////////////////////////////////////
-//                                       Routes                                      //
-///////////////////////////////////////////////////////////////////////////////////////
-app.use("/", routes);
 
 app.listen(port, function() {
     console.log("listening on port", port);
