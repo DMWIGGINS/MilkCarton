@@ -78,7 +78,7 @@ module.exports = function (sequelize, DataTypes) {
             allowNull: true
         },
         circumstances: {
-            type: DataTypes.STRING,
+            type: DataTypes.TEXT,
             allowNull: true
         }
     });
@@ -91,6 +91,13 @@ module.exports = function (sequelize, DataTypes) {
         models.Person.hasMany(models.Sightings, {
             onDelete: "cascade"
         });
+    };
+    Person.associate = function (models) {
+      models.Person.belongsTo(models.User, {
+        foreignKey: {
+          allowNull: false
+        }
+      });
     };
     return Person;
 };
