@@ -19,3 +19,5 @@ The app also provides additional resources for users. Some of these resources in
 ### The Tech
 
 On the server side, the application utilizes a Node + Express setup which connects to a MySQL database that stores the missing person data, as well as user information. The missing persons data is mined from the National Missing and Unidentified Persons System (NamUs) database using Selenium web automation. This information is being served up to the client side using AJAX. We’ve also integrated the Google Maps API so that users can easily pin locations of missing persons sightings. On the client side it is using React to provide speed, simplicity, and scalability to users.
+
+[Here's a link to our NamUs Scraper!](https://github.com/katiedeangelis/NamUsScraper "NamUs Scraper")
