@@ -182,7 +182,7 @@ module.exports = function (sequelize, DataTypes) {
             allowNull: true
         },
         firstName: {
-            type: DataTypes.TEXT,
+            type: DataTypes.STRING,
             allowNull: false,
         },
         dateEntered: {
