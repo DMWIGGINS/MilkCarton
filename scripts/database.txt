@@ -1,0 +1,99 @@
+
+find Person based on search field(s)
+
+Model.findAll({
+  attributes: ['foo', 'bar']
+});
+
+find Person saved to User
+
+Model.findAll({
+  where: {
+    authorId: 2
+  }
+});
+
+    // db.Person.bulkInsert('missingPersonData')
+
+post Sighting for Person ID
+Model.create
+
+User has Person
+Person has Images
+Person has Sightings
+
+"22998": {
+         "circumstances": {
+             "zip": "",
+             "circumstances": "Deveau left Goffstown last May, saying he was going to stay at a friend\u2019s house and his family hasn\u2019t seen him since.",
+             "city": "Goffstown",
+             "county": "Hillsborough",
+             "state": "New Hampshire"
+         },
+         "characteristics": {
+             "piercings": "",
+             "otherCharacteristics": "",
+             "facialHair": "",
+             "skeletalInformation": "",
+             "leftEyeColor": "Blue",
+             "fingersAndToeNails": "",
+             "eyeDescription": "",
+             "bodyHair": "",
+             "amputations": "",
+             "scarsAndMarks": "",
+             "prosthetics": "",
+             "tattoos": "",
+             "foreignObjects": "",
+             "hairColor": "Brown",
+             "headHair": "",
+             "rightEyeColor": "Blue",
+             "deformities": ""
+         },
+         "caseManager": {
+             "firstName": "Jason",
+             "lastName": "Ouellette",
+             "phone": "603-497-4858"
+         },
+         "investigatingAgency": {
+             "zip": "03045",
+             "lastName": "Ouellette",
+             "website": "",
+             "comments": "",
+             "agency": "Goffstown Police Department",
+             "address2": "",
+             "city": "Goffstown",
+             "address1": "326 Mast Road",
+             "jurisdiction": "Local",
+             "title": "Detective",
+             "firstName": "Jason",
+             "phone": "603-497-4858",
+             "caseNumber": "11-9491",
+             "dateReported": "",
+             "state": "New Hampshire"
+         },
+         "photos": {
+             "0": "https://www.findthemissing.org/en/photos/thumb/41403"
+         },
+         "caseInfo": {
+             "lastName": "Deveau",
+             "ageLastSeen": "49 to years old",
+             "race": "White",
+             "ethnicity": "",
+             "sex": "Male",
+             "weight": "145.0 to 154.0",
+             "firstName": "David",
+             "dateEntered": "12/19/2013",
+             "lastSeen": "May 09, 2011 00:00",
+             "ageNow": "56 years old",
+             "nickname": "",
+             "middleName": "D.",
+             "status": "Missing",
+             "height": "66.0"
+         },
+         "regionalAdministrator": {
+             "firstName": "Lori",
+             "lastName": "Bruski",
+             "phone": "817-718-7904",
+             "email": "Lori.Bruski@unthsc.edu"
+         }
+     },
