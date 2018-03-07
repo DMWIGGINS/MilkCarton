@@ -43,13 +43,13 @@ class Saved extends Component {
                                     <ul>Nancy Burgess</ul>
                                     <ul>48 years old</ul>
                                     <ul>Manchester, New Hampshire</ul>
-                                    <div class="fixed-action-btn horizontal">
-                                    <a class="btn-floating btn-large red">
-                                        <i class="large material-icons black">control_point</i>
+                                    <div className="fixed-action-btn horizontal">
+                                    <a className="btn-floating btn-large red">
+                                        <i className="large material-icons black">control_point</i>
                                     </a>
                                     <ul>
-                                        <li><a class="btn-floating blue"><i class="material-icons">visibility</i></a></li>
-                                        <li><a class="btn-floating red"><i class="material-icons">close</i></a></li>
+                                        <li><a className="btn-floating blue"><i className="material-icons">visibility</i></a></li>
+                                        <li><a className="btn-floating red"><i className="material-icons">close</i></a></li>
                                     </ul>
                                 </div> 
                                 </span>

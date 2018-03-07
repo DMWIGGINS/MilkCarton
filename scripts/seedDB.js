@@ -2,6 +2,12 @@ const Sequelize = require("sequelize");
 const db = require("../models");
 import "../results.json";
 
+// Read Synchrously
+var fs = require("fs");
+console.log("\n *START* \n");
+var content = fs.readFileSync("../results.json");
+console.log("Output Content : \n"+ content);
+console.log("\n *EXIT* \n");
 
 function gatherData() {
     const missingPersonData = [];
