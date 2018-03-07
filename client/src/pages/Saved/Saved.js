@@ -1,6 +1,6 @@
 import "./saved.css";
 import React, { Component } from 'react';
-import {Row, Col, Container, Card, CardTitle} from 'react-materialize'
+import {Row, Col, Container, Card} from 'react-materialize'
 
 class Saved extends Component {
         render() {
@@ -13,20 +13,20 @@ class Saved extends Component {
                         <Col s={8} offset="s2" className="center-align">
                             <Card className="horizontal saved-case grey lighten-4 valign-wrapper"
                             header={
-                                   <img className='responsive-image'src="https://www.findthemissing.org/en/photos/thumb/67349"></img>       
+                                   <img className='responsive-image'src="https://www.findthemissing.org/en/photos/thumb/67349"alt="missing person"></img>       
                                 }>
                                 <span className="left-align">
                                     <ul>Denise Bean</ul>
                                     <ul>66 years old</ul>
                                     <ul>Somersworth, New Hampshire</ul>
                                 </span>
-                                <div class="fixed-action-btn horizontal">
-                                    <a class="btn-floating btn-large red"> 
-                                    <i class="large material-icons black">control_point</i>
+                                <div className="fixed-action-btn horizontal">
+                                    <a className="btn-floating btn-large red"> 
+                                    <i className="large material-icons black">control_point</i>
                                     </a>
                                     <ul>
-                                        <li><a class="btn-floating blue"><i class="material-icons">visibility</i></a></li>
-                                        <li><a class="btn-floating red"><i class="material-icons">close</i></a></li>
+                                        <li><a className="btn-floating blue"><i className="material-icons">visibility</i></a></li>
+                                        <li><a className="btn-floating red"><i className="material-icons">close</i></a></li>
                                     </ul>
                                 </div>
                             </Card>
@@ -37,7 +37,7 @@ class Saved extends Component {
                         <Col s={8} offset="s2" className="center-align">
                             <Card className="horizontal saved-case grey lighten-4 valign-wrapper" 
                                     header={
-                                        <img className='responsive-image'src="https://www.findthemissing.org/en/photos/thumb/59767"></img>
+                                        <img className='responsive-image'src="https://www.findthemissing.org/en/photos/thumb/59767"alt="missing person"></img>
                             }>
                                 <span className="left-align">
                                     <ul>Nancy Burgess</ul>
