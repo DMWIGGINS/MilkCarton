@@ -22,20 +22,19 @@ class Login extends Component {
         return (
             <Container>
                 <Row>
-                    <Col s={12} className="center-align">
+                    <Col s={12} className="center-align title">
                         <Heading level={1}>Milk Carton</Heading>
                     </Col>
                 </Row>
-                <Row>
-                    <Col s={6} offset="s3" className="center-align">
-                        <Input s={12} label="Email" />
-                        <Input s={12} label="Password" />
+                    <Col s={10} offset="s1" className="center-align login-buttons">
+                        <Button className="button" waves='light'>Search</Button>
                     </Col>
-                </Row>
+
+                <Row>
+                </Row>    
                 <Row>
                     <Col s={10} offset="s1" className="center-align login-buttons">
-                        <Button className="button" waves='light'>Sign In</Button>
-                        <Button className="button" waves='light'>New User</Button>
+                        <Button className="button" waves='light'>Google Sign in</Button>
                     </Col>
                 </Row>
                 <Row>
@@ -50,6 +49,9 @@ class Login extends Component {
                         style={{}} // This clears out the style from the component
                     />
                     </Col>
+                </Row>
+                <Row>
+                    <div className="center-align">Help find the ones we've lost</div>
                 </Row>
                 
             </Container>

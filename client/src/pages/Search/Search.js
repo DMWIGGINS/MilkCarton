@@ -19,7 +19,6 @@ class Search extends Component {
                 </Row>
                 <Row>
                 <Carousel />
-
                 </Row>
                 <Row>
                 <MyMapComponent

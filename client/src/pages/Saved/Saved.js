@@ -10,7 +10,7 @@ class Saved extends Component {
                     <h1 className="title">Saved Cases</h1>
                     </Row>
                     <Row>
-                        <Col s={8} offset="s2" className="center-align">
+                        <Col s={12} l={8} offset="l2" className="center-align">
                             <Card className="horizontal saved-case grey lighten-4 valign-wrapper"
                             header={
                                    <img className='responsive-image'src="https://www.findthemissing.org/en/photos/thumb/67349"alt="missing person"></img>       
@@ -34,7 +34,7 @@ class Saved extends Component {
                     </Row>
     
                     <Row>
-                        <Col s={8} offset="s2" className="center-align">
+                        <Col s={12} l={8} offset="l2" className="center-align">
                             <Card className="horizontal saved-case grey lighten-4 valign-wrapper" 
                                     header={
                                         <img className='responsive-image'src="https://www.findthemissing.org/en/photos/thumb/59767"alt="missing person"></img>
@@ -43,6 +43,7 @@ class Saved extends Component {
                                     <ul>Nancy Burgess</ul>
                                     <ul>48 years old</ul>
                                     <ul>Manchester, New Hampshire</ul>
+
                                     <div className="fixed-action-btn horizontal">
                                     <a className="btn-floating btn-large red">
                                         <i className="large material-icons black">control_point</i>
@@ -53,7 +54,7 @@ class Saved extends Component {
                                     </ul>
                                 </div> 
                                 </span>
-                                   
+                       
                             </Card>
                         </Col>
                     </Row>
