@@ -6,6 +6,7 @@
   "scripts": {
     "client": "node scripts/start-client.js",
     "test": "cd client && npm install && npm run-script build",
+    "seed": "node scripts/seedDB.js",
     "start": "concurrently \"nodemon server.js\" \"npm run client\"",
     "scrape": "node scripts/scrapeNamUs.js"
   },

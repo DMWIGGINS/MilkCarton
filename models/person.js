@@ -3,10 +3,11 @@ module.exports = function (sequelize, DataTypes) {
     var Person = sequelize.define("Person", {
         caseNumber: {
             type: DataTypes.INTEGER,
+            primaryKey: true,
             allowNull: false
         },
         zip: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             allowNull: true
         },
         circumstances: {
@@ -159,7 +160,7 @@ module.exports = function (sequelize, DataTypes) {
         },
         lastName: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
         },
         ageLastSeen: {
             type: DataTypes.STRING,
@@ -175,15 +176,15 @@ module.exports = function (sequelize, DataTypes) {
         },
         sex: {
             type: DataTypes.STRING,
-            allowNull: false
+            allowNull: true
         },
         weight: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             allowNull: true
         },
         firstName: {
             type: DataTypes.STRING,
-            allowNull: false,
+            allowNull: true,
         },
         dateEntered: {
             type: DataTypes.STRING,
@@ -210,27 +211,28 @@ module.exports = function (sequelize, DataTypes) {
             allowNull: true
         },
         height: {
-            type: DataTypes.INTEGER,
+            type: DataTypes.STRING,
             allowNull: true
         },
 
     });
     Person.associate = function (models) {
         models.Person.hasMany(models.Images, {
+            foreignKey: "caseNumber",
             onDelete: "cascade"
         });
     };
-    Person.associate = function (models) {
-        models.Person.hasMany(models.Sightings, {
-            onDelete: "cascade"
-        });
-    };
-    Person.associate = function (models) {
-        models.Person.belongsTo(models.User, {
-            foreignKey: {
-                allowNull: false
-            }
-        });
-    };
+    // Person.associate = function (models) {
+    //     models.Person.hasMany(models.Sightings, {
+    //         onDelete: "cascade"
+    //     });
+    // };
+    // Person.associate = function (models) {
+    //     models.Person.belongsTo(models.User, {
+    //         foreignKey: {
+    //             allowNull: false
+    //         }
+    //     });
+    // };
     return Person;
 };
