@@ -1,0 +1,4417 @@
+{
+    "17321": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Maria was last seen in Lexington, NE on 05/27/2008. She may have her infant son, Darien Garcia, with her.",
+            "city": "Lexington",
+            "county": "Dawson",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        },
+        "investigatingAgency": {
+            "zip": "68850",
+            "lastName": "Schwarz",
+            "website": "",
+            "comments": "",
+            "agency": "Lexington Police Department",
+            "address2": "",
+            "city": "Lexington",
+            "address1": "406 E 7th St",
+            "jurisdiction": "Local",
+            "title": "Inv",
+            "firstName": "Paul",
+            "phone": "308 324-2317",
+            "caseNumber": "08051735",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {},
+        "caseInfo": {
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "160.0",
+            "height": "62.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "4690": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Angel was last seen on February 1, 2009 with his sister Alexandra. They maybe in the company of their mother. They may still be in NE or they may have traveled to Fl. or Mexico.",
+            "city": "Omaha",
+            "county": "Adams",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Black",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Angel has a scar on his left side.",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Black",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Keavy",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "",
+            "jurisdiction": "Local",
+            "title": "Officer",
+            "firstName": "Tom",
+            "phone": "402-444-4126",
+            "caseNumber": "48600-X",
+            "dateReported": "August 17, 2009",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/5925",
+            "1": "https://www.findthemissing.org/en/photos/thumb/19979",
+            "2": "https://www.findthemissing.org/en/photos/thumb/39188",
+            "3": "https://www.findthemissing.org/en/photos/thumb/39196",
+            "4": "https://www.findthemissing.org/en/photos/thumb/64472"
+        },
+        "caseInfo": {
+            "lastName": "Gallegos-Guzman",
+            "ageLastSeen": "2 to 2 years old",
+            "race": "Other",
+            "ethnicity": "Hispanic/Latino",
+            "sex": "Male",
+            "weight": "30.0",
+            "ncmec number": "1129845",
+            "firstName": "Angel",
+            "dateEntered": "01/12/2010",
+            "lastSeen": "February 01, 2009 00:00",
+            "ageNow": "11 years old",
+            "nickname": "",
+            "middleName": "",
+            "status": "Missing",
+            "height": "29.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "4693": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Brendan was last seen on January 6, 2003 in the company of his father, Ivan Henk. His father was later located but Brendan has not been seen since.",
+            "city": "Plattsmouth",
+            "county": "Cass",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68048",
+            "lastName": "Gudgell",
+            "website": "",
+            "comments": "Phone # listed above is direct line to officer in charge of case.",
+            "agency": "Plattsmouth Police Department",
+            "address2": "",
+            "city": "Plattsmouth",
+            "address1": "336 Main Street",
+            "jurisdiction": "Local",
+            "title": "Officer",
+            "firstName": "Amber",
+            "phone": "402.296.3311",
+            "caseNumber": "PP0300049",
+            "dateReported": "January 06, 2003",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/6070"},
+        "caseInfo": {
+            "ageLastSeen": "4 to years old",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "20 years old",
+            "sex": "Male",
+            "weight": "36.0",
+            "height": "42.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "5189": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Edger was last seen on August 22, 2003. He may be in the company of his non-custodial mother Valindia Andrews.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "Black",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Keavy",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 South 15th Street",
+            "jurisdiction": "Local",
+            "title": "",
+            "firstName": "Tom",
+            "phone": "402-444-5600",
+            "caseNumber": "RB43634F",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {},
+        "caseInfo": {
+            "dateEntered": "02/24/2010",
+            "ageLastSeen": "1 to 1 years old",
+            "lastSeen": "August 22, 2005 10:45",
+            "race": "Other",
+            "ethnicity": "Hispanic/Latino",
+            "ageNow": "14 years old",
+            "sex": "Male",
+            "weight": "25.0",
+            "height": "24.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "13240": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Wayne is an over-the-road truck driver and was last seen in the Kearney, Nebraska area, where he lived. His home and belongings all remained in Kearney after his disappearance.",
+            "city": "Kearney",
+            "county": "Buffalo",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "Wayne had previously broken his leg. This was healed when he was last seen.",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Green",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Blond/Strawberry",
+            "headHair": "",
+            "rightEyeColor": "Green",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "describe": "",
+            "relationship": "State Clearinghouse",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68521",
+            "lastName": "Meyer",
+            "website": "",
+            "comments": "",
+            "agency": "Nebraska State Patrol",
+            "address2": "Suite A",
+            "city": "Lincoln",
+            "address1": "3800 NW 12th Street",
+            "jurisdiction": "State",
+            "title": "Missing Persons Clea",
+            "firstName": "Audrey",
+            "phone": "402-479-4986",
+            "caseNumber": "C11-21264",
+            "dateReported": "December 12, 2011",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/24369",
+            "1": "https://www.findthemissing.org/en/photos/thumb/24370"
+        },
+        "caseInfo": {
+            "lastName": "Thompson",
+            "dateEntered": "12/14/2011",
+            "ageLastSeen": "32 to years old",
+            "lastSeen": "March 31, 1976 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "74 years old",
+            "sex": "Male",
+            "nickname": "",
+            "weight": "150.0 to 160.0",
+            "height": "69.0 to 71.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        }
+    },
+    "17320": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Thomas was last seen in Papillion, NE in 2004.",
+            "city": "Papillion",
+            "county": "Sarpy",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on right wrist",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        },
+        "investigatingAgency": {
+            "zip": "68046",
+            "lastName": "Erhart",
+            "website": "",
+            "comments": "",
+            "agency": "Sarpy County Sheriff's Office",
+            "address2": "",
+            "city": "Papillion",
+            "address1": "1208 Golden Gate Dr",
+            "jurisdiction": "County",
+            "title": "Inv",
+            "firstName": "Kathe",
+            "phone": "402 593-4111",
+            "caseNumber": "4934-0804",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/40325",
+            "1": "https://www.findthemissing.org/en/photos/thumb/40326",
+            "2": "https://www.findthemissing.org/en/photos/thumb/40329",
+            "3": "https://www.findthemissing.org/en/photos/thumb/40330"
+        },
+        "caseInfo": {
+            "firstName": "Thomas",
+            "lastName": "Grabenschroer",
+            "ageLastSeen": "44 to years old",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "58 years old",
+            "weight": "150.0",
+            "middleName": "P",
+            "height": "67.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "32680": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Merle was last seen in Omaha, NE in October 2015. Merle is homeless.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "Previous frostbite on foot makes it difficult for him to walk",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "Tip of nose is gone",
+            "scarsAndMarks": "Scar on forehead; Scar on left wrist; Scar on nose",
+            "prosthetics": "",
+            "tattoos": "Tattoo of \"Indian born\" on left arm; Unk tattoo on left finger; Unk tattoo on left forearm",
+            "foreignObjects": "",
+            "hairColor": "Gray or Partially Gray",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "James",
+            "lastName": "Reisinger",
+            "phone": "402-444-4127"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Dept",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "",
+            "jurisdiction": "Local",
+            "title": "Det.",
+            "firstName": "Jim",
+            "phone": "402-444-5839",
+            "caseNumber": "AH 54426",
+            "dateReported": "February 09, 2016",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/60596"},
+        "caseInfo": {
+            "lastName": "Saul",
+            "ageLastSeen": "55 to 55 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "180.0",
+            "firstName": "Merle",
+            "dateEntered": "02/24/2016",
+            "lastSeen": "October 01, 2015 00:00",
+            "ageNow": "58 years old",
+            "nickname": "Merrel Saul",
+            "middleName": "Glen",
+            "height": "68.0 to 70.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "40900": {
+        "circumstances": {
+            "zip": "68111",
+            "circumstances": "Raina was last seen on October 14, 2016. Her nose and lip are pieced and she has gages in her ears. Raina has multiple tattoos including a crown on her left arm, a smiley face on the inside of her left wrist, and a triangle and circle with a lightning bolt on her right forearm. When she was last seen, her hair was dyed with red streaks.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Gauged ears size of a quarter",
+            "otherCharacteristics": "Gauged ears size of a quarter; One looks like a crown on left arm, a smiley face on inside of left wrist, a big triangle with circle that has a lightning bolt through it on right forearm and others unknown",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "One looks like a crown on left arm, a smiley face on inside of left wrist, a big triangle with circle that has a lightning bolt through it on right forearm and others unknown",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "Hair dyed red when last seen.",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Keavy",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 South 15th Street",
+            "jurisdiction": "Local",
+            "title": "Officer",
+            "firstName": "",
+            "phone": "(402) 444-5600",
+            "caseNumber": "P0372865",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/79396"},
+        "caseInfo": {
+            "dateEntered": "11/20/2017",
+            "ageLastSeen": "16 to 16 years old",
+            "lastSeen": "October 14, 2016 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "18 years old",
+            "sex": "Female",
+            "nickname": "",
+            "weight": "140.0",
+            "ncmec number": "1279259",
+            "height": "64.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "28616": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Anwesha was last seen near 23rd and S Streets, possibly walking to the downtown area of Lincoln. Anwesha is from India. She has no vehicle.",
+            "city": "Lincoln",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Black birthmark on unknown hand or plam",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68508",
+            "lastName": "Koziol",
+            "website": "",
+            "comments": "Agency phone number is 402-441-6000",
+            "agency": "Lincoln Police Department",
+            "address2": "",
+            "city": "Lincoln",
+            "address1": "575 S. 10th St",
+            "jurisdiction": "Local",
+            "title": "Sgt",
+            "firstName": "Ken",
+            "phone": "402-441-6966",
+            "caseNumber": "B5-039487",
+            "dateReported": "May 06, 2015",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/53042"},
+        "caseInfo": {
+            "lastName": "Dey",
+            "ageLastSeen": "30 to years old",
+            "lastSeen": "May 03, 2015 19:00",
+            "race": "Other",
+            "ethnicity": "Other",
+            "ageNow": "33 years old",
+            "sex": "Female",
+            "nickname": "Rimi",
+            "middleName": "",
+            "height": "69.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "John",
+            "lastName": "Filippi",
+            "phone": "817-666-5424"
+        }
+    },
+    "27088": {
+        "circumstances": {
+            "zip": "68131",
+            "circumstances": "Last seen swimming in the Missouri River near Council Bluffs IA",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "brown, but clean shaven at the time of his disappearance",
+            "skeletalInformation": "",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "brown",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "numerous tattoos on arms, legs, and feet",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "short brown hair",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "39699-O",
+            "dateReported": "November 04, 2014",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/49423",
+            "1": "https://www.findthemissing.org/en/photos/thumb/49424",
+            "2": "https://www.findthemissing.org/en/photos/thumb/49425",
+            "3": "https://www.findthemissing.org/en/photos/thumb/49426",
+            "4": "https://www.findthemissing.org/en/photos/thumb/49427",
+            "5": "https://www.findthemissing.org/en/photos/thumb/49428"
+        },
+        "caseInfo": {
+            "lastName": "Ogborn",
+            "ageLastSeen": "22 to 22 years old",
+            "lastSeen": "October 29, 2014 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "26 years old",
+            "sex": "Male",
+            "nickname": "Michael Wayne Allmon",
+            "middleName": "Wayne",
+            "height": "69.0 to 71.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "1973": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Burns was living with a friend in the area of 800 Park Avenue in Omaha at the time she was reported missing. Burns left with an unknown friend and never returned home.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on abdomen",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha PD",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Det",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "60275-U",
+            "dateReported": "July 20, 2001",
+            "state": "Nebraska"
+        },
+        "photos": {},
+        "caseInfo": {
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "125.0",
+            "height": "67.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "3116": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Eugene was last seen in Lincoln, NE in 2003.",
+            "city": "Lincoln",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Gray",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on left cheek; Scar on right hand",
+            "prosthetics": "",
+            "tattoos": "Tattoo of a skeleton on left shoulder blade; Tattoo of a panther on right forearm; Tattoo of an eagle on left upper arm",
+            "foreignObjects": "",
+            "hairColor": "Gray or Partially Gray",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68508",
+            "lastName": "Koziol",
+            "website": "",
+            "comments": "",
+            "agency": "Lincoln Police Department",
+            "address2": "",
+            "city": "Lincoln",
+            "address1": "575 S 10th St",
+            "jurisdiction": "Local",
+            "title": "Sgt",
+            "firstName": "Ken",
+            "phone": "402-441-6966",
+            "caseNumber": "A3-001375",
+            "dateReported": "March 30, 2004",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/4730"},
+        "caseInfo": {
+            "ageLastSeen": "57 to 57 years old",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "71 years old",
+            "sex": "Male",
+            "weight": "150.0",
+            "height": "64.0 to 65.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Kenneth",
+            "lastName": "Koziol",
+            "phone": "402 441-6966"
+        }
+    },
+    "1972": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Kellar was last seen dropping off his son in the area of 132nd and Grover in Omaha. Kellar was driving a white and brown 1978 Monte Carlo that was found unoccupied at 10th and Hickory in June of 1986.",
+            "city": "Omaha",
+            "county": "Adams",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "Records from right leg surgery in 1970 are unavailable",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on left finger",
+            "prosthetics": "",
+            "tattoos": "Tattoo of woman riding either a snake or dragon on his left forearm-per sisters; Heart tattoo on right outer upper arm; Dagger tattoo on left outer forearm",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "71771-V",
+            "dateReported": "March 25, 1986",
+            "state": "Nebraska"
+        },
+        "photos": {},
+        "caseInfo": {
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "230.0",
+            "height": "72.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "1773": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Holbrook was last seen in the Omaha area in 2001. Holbrook was known to frequent the South Omaha area.",
+            "city": "Omaha",
+            "county": "Adams",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Gray or Partially Gray",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Resinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "38911-T",
+            "dateReported": "January 06, 2001",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/26891"},
+        "caseInfo": {
+            "lastName": "Holbrook",
+            "ageLastSeen": "73 to 73 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "145.0",
+            "firstName": "Victor",
+            "dateEntered": "03/31/2009",
+            "lastSeen": "January 06, 2001 00:00",
+            "ageNow": "83 years old",
+            "nickname": "",
+            "middleName": "Leandor",
+            "status": "Missing",
+            "height": "70.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "1971": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Davis was last seen in the Omaha area in 1980 and was reported as a missing person 2/19/91. Davis was last known to live in the 3200 block of Ohio Street in Omaha.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Black",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Black",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha PD",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "02177-G",
+            "dateReported": "February 19, 1991",
+            "state": "Nebraska"
+        },
+        "photos": {},
+        "caseInfo": {
+            "dateEntered": "04/24/2009",
+            "ageLastSeen": "43 to years old",
+            "lastSeen": "January 01, 1980 00:00",
+            "race": "Black/African American",
+            "ethnicity": "",
+            "ageNow": "64 years old",
+            "sex": "Male",
+            "weight": "165.0",
+            "height": "71.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "1772": {
+        "circumstances": {
+            "zip": "68134",
+            "circumstances": "Bozorov was last seen in the area of 3400 North 93rd Street in Omaha.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Black",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "Black",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "RB# 79167V",
+            "dateReported": "November 22, 2008",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/2409"},
+        "caseInfo": {
+            "lastName": "Bozorov",
+            "dateEntered": "03/31/2009",
+            "ageLastSeen": "24 to 24 years old",
+            "lastSeen": "November 18, 2008 00:00",
+            "race": "Other",
+            "ethnicity": "Other",
+            "ageNow": "34 years old",
+            "sex": "Male",
+            "nickname": "Sharif Shavkatovi Bozorov",
+            "weight": "140.0",
+            "middleName": "J",
+            "height": "67.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "1970": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Margaret was last known to have left her residence in the area of North 25th Street in Omaha. She had left a note saying she was going out with a boy she had recently met. The boy allegedly dropped her back off near her residence. Family and friends have not heard from or seen Margaret since that night.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Pierced ears",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "blue/hazel eyes",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "A small scar on center of forehead.",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Red/Auburn",
+            "headHair": "Long",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 South 15th Street",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "402-444-4128",
+            "caseNumber": "06330-K",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/2814",
+            "1": "https://www.findthemissing.org/en/photos/thumb/2815",
+            "2": "https://www.findthemissing.org/en/photos/thumb/34316",
+            "3": "https://www.findthemissing.org/en/photos/thumb/42939",
+            "4": "https://www.findthemissing.org/en/photos/thumb/42940",
+            "5": "https://www.findthemissing.org/en/photos/thumb/42941",
+            "6": "https://www.findthemissing.org/en/photos/thumb/48859"
+        },
+        "caseInfo": {
+            "lastName": "Holst",
+            "ageLastSeen": "18 to 18 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "125.0 to 130.0",
+            "ncmec number": "1097329",
+            "firstName": "Margaret",
+            "dateEntered": "04/24/2009",
+            "lastSeen": "August 04, 1977 00:00",
+            "ageNow": "59 years old",
+            "nickname": "Margie",
+            "middleName": "Kay",
+            "status": "Missing",
+            "height": "64.0 to 66.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "4688": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Alexandra was last seen on February 1, 2009 in Omaha,NE. She is with her brother Angel and they maybe in the company of their mother. They maybe still in NE or they may travel to Fl. or Mexico.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Both of Alexandra`s ears are pierced.",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Black",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Black",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Keavy",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Dept",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "",
+            "jurisdiction": "Local",
+            "title": "Officer",
+            "firstName": "Tom",
+            "phone": "(402) 444-5600",
+            "caseNumber": "48601-X",
+            "dateReported": "August 17, 2009",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/5910",
+            "1": "https://www.findthemissing.org/en/photos/thumb/19978",
+            "2": "https://www.findthemissing.org/en/photos/thumb/39195",
+            "3": "https://www.findthemissing.org/en/photos/thumb/64474"
+        },
+        "caseInfo": {
+            "ageLastSeen": "3 to 3 years old",
+            "ethnicity": "Hispanic/Latino",
+            "sex": "Female",
+            "weight": "35.0",
+            "status": "Missing",
+            "height": "36.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        }
+    },
+    "42162": {
+        "circumstances": {
+            "zip": "68826",
+            "circumstances": "David was last seen on the morning of 1/31/2018 at home when his wife left for work. All personal items were left at home. It is believed that he left on foot as his vehicle was still at home too.",
+            "city": "Central City",
+            "county": "Merrick",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Short beard; Brown with gray",
+            "skeletalInformation": "",
+            "leftEyeColor": "Green",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Shaved head; Brown with some gray",
+            "rightEyeColor": "Green",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "",
+            "website": "",
+            "comments": "",
+            "agency": "Merrick County Sheriff's Department",
+            "address2": "",
+            "city": "",
+            "address1": "",
+            "jurisdiction": "County",
+            "title": "",
+            "firstName": "",
+            "phone": "308-946-2345",
+            "caseNumber": "",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/82190",
+            "1": "https://www.findthemissing.org/en/photos/thumb/82192"
+        },
+        "caseInfo": {
+            "lastName": "Jansen",
+            "ageLastSeen": "51 to years old",
+            "race": "White",
+            "ethnicity": "Other",
+            "sex": "Male",
+            "weight": "190.0 to 195.0",
+            "firstName": "David",
+            "dateEntered": "02/09/2018",
+            "lastSeen": "January 31, 2018 00:00",
+            "ageNow": "52 years old",
+            "nickname": "Dave",
+            "middleName": "Eugene",
+            "height": "73.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "7132": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "May frequent homeless shelters or open door mission-type establishments",
+            "city": "Lincoln",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "False teeth",
+            "tattoos": "Naked woman on lower right arm; \"Ph\" on upper left arm; \"Jn\" or \"Jh\" on lower left arm",
+            "foreignObjects": "",
+            "hairColor": "Gray or Partially Gray",
+            "headHair": "Longer style",
+            "rightEyeColor": "Brown",
+            "deformities": "Both ankles had been fractured, walked with a limp, right knee injury, possible fracture"
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68025",
+            "lastName": "Henke",
+            "website": "",
+            "comments": "",
+            "agency": "Fremont Police Department",
+            "address2": "",
+            "city": "Fremont",
+            "address1": "725 N Park Ave",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Joyce",
+            "phone": "402-727-2677",
+            "caseNumber": "11FR93",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/62807",
+            "1": "https://www.findthemissing.org/en/photos/thumb/62809",
+            "2": "https://www.findthemissing.org/en/photos/thumb/62810",
+            "3": "https://www.findthemissing.org/en/photos/thumb/62844",
+            "4": "https://www.findthemissing.org/en/photos/thumb/62845"
+        },
+        "caseInfo": {
+            "lastName": "Grant",
+            "ageLastSeen": "61 to 62 years old",
+            "race": "Native American",
+            "ethnicity": "Other",
+            "sex": "Male",
+            "weight": "150.0 to 160.0",
+            "firstName": "Walter",
+            "dateEntered": "05/13/2010",
+            "lastSeen": "October 17, 1992 17:42",
+            "ageNow": "86 years old",
+            "nickname": "Uncle Bomber; Boomer Grant; Walter Zeke",
+            "middleName": "Sidney",
+            "height": "70.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        }
+    },
+    "40498": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Ricky was last seen in Hastings, NE where he walked away from his semi-truck without his phone or wallet.",
+            "city": "Hastings",
+            "county": "Adams",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Gray and black",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Gray or Partially Gray",
+            "headHair": "Gray",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "67202",
+            "lastName": "Schomaker",
+            "website": "",
+            "comments": "",
+            "agency": "Wichita Police Department",
+            "address2": "",
+            "city": "Wichita",
+            "address1": "455 N. Main",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Ryan",
+            "phone": "316-268-4387",
+            "caseNumber": "17C072192",
+            "dateReported": "October 19, 2017",
+            "state": "Kansas"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/78543"},
+        "caseInfo": {
+            "dateEntered": "10/27/2017",
+            "ageLastSeen": "58 to 58 years old",
+            "race": "White",
+            "ethnicity": "Other",
+            "ageNow": "58 years old",
+            "sex": "Male",
+            "weight": "175.0",
+            "height": "70.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "5476": {
+        "circumstances": {
+            "zip": "",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "She has pierced ears.",
+            "otherCharacteristics": "Jennifer has very large eyes.",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Jennifer has scars on the outside of her left ankle and on her right wrist. She has another scar above her left eye, close to the eyebrow.",
+            "prosthetics": "",
+            "tattoos": "Jennifer has a shamrock tattoo on her buttocks, a flower tattoo on her ankle and a salamander tattoo on her toe.",
+            "foreignObjects": "",
+            "hairColor": "Blond/Strawberry",
+            "headHair": "Jennifer has blonde, shoulder-length hair.",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68116",
+            "lastName": "Miller Jr.",
+            "website": "",
+            "comments": "",
+            "agency": "Douglas County Sheriff's Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "3601 N. 156th Street",
+            "jurisdiction": "Local",
+            "title": "Deputy",
+            "firstName": "Charles",
+            "phone": "402-444-7997",
+            "caseNumber": "B34667",
+            "dateReported": "March 09, 2010",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/7268",
+            "1": "https://www.findthemissing.org/en/photos/thumb/7269",
+            "2": "https://www.findthemissing.org/en/photos/thumb/7270"
+        },
+        "caseInfo": {
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "110.0 to 115.0",
+            "height": "67.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "John",
+            "lastName": "Pankonin",
+            "phone": "402-444-4358"
+        }
+    },
+    "21274": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Sometime between 20.00-21.00 on the night of July 28, 1973, Mary Oliva and her husband Frank left their house in their 1958 beige Chevrolet and drove away. They were never seen again.\nThey were reported missing on August 3, 1973, by their son.\n\nNothing had been disturbed at their home, and the front door was closed, but not locked. Mary Oliva left behind her purse, which she always carried, and her medicine.\n\nThe couple was declared legally dead seven years after they disappeared, though their bodies were never found.",
+            "city": "Wilber",
+            "county": "Saline",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Unknown or Missing",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Unknown or Completely Bald",
+            "headHair": "Dark hair",
+            "rightEyeColor": "Unknown or Missing",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Kalkwarf",
+            "website": "",
+            "comments": "http://www.sewardindependent.com/wilber/news/article_3abc144e-f955-11e2-b0b0-0019bb30f31a.html",
+            "agency": "Saline County Sheriff's Office",
+            "address2": "",
+            "city": "",
+            "address1": "",
+            "jurisdiction": "County",
+            "title": "Captain",
+            "firstName": "Russ",
+            "phone": "402-821-2111",
+            "caseNumber": "OI-82-00 follow-up inves",
+            "dateReported": "August 03, 1973",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/37723"},
+        "caseInfo": {
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "120.0 to 140.0",
+            "height": "65.0 to 68.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "25278": {
+        "circumstances": {
+            "zip": "68005",
+            "circumstances": "Ronald McCormick left his friend's home in Bellevue to go dumpster diving. His truck was located several days later near a dumpster in the area of 111 and Mockingbird Dr.",
+            "city": "Bellevue",
+            "county": "Sarpy",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Gray beard",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "Wears glasses",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on chest from heart by-pass surgery",
+            "prosthetics": "",
+            "tattoos": "\"Ron\" on left hand between thumb and forefinger",
+            "foreignObjects": "",
+            "hairColor": "Gray or Partially Gray",
+            "headHair": "Brown",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "08190-O",
+            "dateReported": "June 21, 2014",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/45879",
+            "1": "https://www.findthemissing.org/en/photos/thumb/45989",
+            "2": "https://www.findthemissing.org/en/photos/thumb/45990",
+            "3": "https://www.findthemissing.org/en/photos/thumb/46160",
+            "4": "https://www.findthemissing.org/en/photos/thumb/46161"
+        },
+        "caseInfo": {
+            "ageLastSeen": "57 to 57 years old",
+            "race": "White",
+            "ethnicity": "Other",
+            "ageNow": "61 years old",
+            "sex": "Male",
+            "weight": "110.0 to 140.0",
+            "height": "66.0 to 70.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "John",
+            "lastName": "Filippi",
+            "phone": "817-666-5424"
+        }
+    },
+    "40973": {
+        "circumstances": {
+            "zip": "68010",
+            "circumstances": "Armando was last seen on January 21, 2017. He may travel to Lincoln, Nebraska. Armando may use the alias last name Garza.",
+            "city": "Boys Town",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68010",
+            "lastName": "Hemmer",
+            "website": "",
+            "comments": "",
+            "agency": "Boys Town Police Department",
+            "address2": "",
+            "city": "Boys Town",
+            "address1": "13940 Gutowski Road",
+            "jurisdiction": "Local",
+            "title": "Officer",
+            "firstName": "Brian",
+            "phone": "(402) 498-1170",
+            "caseNumber": "CR-17-0055",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/79507"},
+        "caseInfo": {
+            "lastName": "Zuniga Jr.",
+            "ageLastSeen": "17 to 17 years old",
+            "race": "Other",
+            "ethnicity": "Hispanic/Latino",
+            "sex": "Male",
+            "weight": "200.0",
+            "ncmec number": "1287119",
+            "firstName": "Armando",
+            "dateEntered": "11/22/2017",
+            "lastSeen": "January 21, 2017 00:00",
+            "ageNow": "18 years old",
+            "nickname": "Garza",
+            "middleName": "",
+            "status": "Missing",
+            "height": "65.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "17172": {
+        "circumstances": {
+            "zip": "68039",
+            "circumstances": "Chauncey was last seen in Macy, NE in 1991-1992",
+            "city": "Macy",
+            "county": "Thurston",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Tattoo on left forearm",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68039",
+            "lastName": "Webster",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Tribal Police Department",
+            "address2": "P.O. Box 130",
+            "city": "Macy",
+            "address1": "100 Building 2 Indian Hills Drive",
+            "jurisdiction": "Local",
+            "title": "Police Officer",
+            "firstName": "William",
+            "phone": "402 837-5907",
+            "caseNumber": "M593891313",
+            "dateReported": "September 30, 1992",
+            "state": "Nebraska"
+        },
+        "photos": {},
+        "caseInfo": {
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "180.0",
+            "height": "68.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "41346": {
+        "circumstances": {
+            "zip": "",
+            "city": "Lincoln",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Beard stubble",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Facial acne scars",
+            "prosthetics": "",
+            "tattoos": "Tattoo of \"Anita\" inside a cross on right arm/shoulder; Full tattoo sleeves on right and left arms; Tattoo of a wolf with pointy ears on chest; Tattoo of \"Victory\" on right chest/shoulder; Tattoo of \"Jacquline\" on right arm\n\n*See images for additional information on tattoos",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "Afro, cut short to the scalp",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68508",
+            "lastName": "Vollmer",
+            "website": "",
+            "comments": "",
+            "agency": "Lincoln Police Department",
+            "address2": "",
+            "city": "Lincoln",
+            "address1": "575 S.10th St.",
+            "jurisdiction": "Local",
+            "title": "Investigator",
+            "firstName": "Chris",
+            "phone": "402-441-7718",
+            "caseNumber": "B7-060229",
+            "dateReported": "July 10, 2017",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/80134",
+            "1": "https://www.findthemissing.org/en/photos/thumb/80135",
+            "2": "https://www.findthemissing.org/en/photos/thumb/80136",
+            "3": "https://www.findthemissing.org/en/photos/thumb/80137",
+            "4": "https://www.findthemissing.org/en/photos/thumb/80138",
+            "5": "https://www.findthemissing.org/en/photos/thumb/80139"
+        },
+        "caseInfo": {
+            "dateEntered": "12/12/2017",
+            "ageLastSeen": "34 to 34 years old",
+            "lastSeen": "June 28, 2017 08:00",
+            "race": "Black/African American",
+            "ethnicity": "",
+            "ageNow": "35 years old",
+            "sex": "Male",
+            "nickname": "Phillip Webb",
+            "weight": "190.0 to 200.0",
+            "height": "69.0 to 71.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "2680": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "John was last seen on 02/08/2008 in Fullerton, NE",
+            "city": "Fullerton",
+            "county": "Nance",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Brown",
+            "skeletalInformation": "",
+            "leftEyeColor": "Green",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Discoloration on shoulder; Scar on right arm",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Brown Short",
+            "rightEyeColor": "Green",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68638",
+            "lastName": "Bakewell",
+            "website": "",
+            "comments": "",
+            "agency": "Nance Co Sheriff Dept.",
+            "address2": "",
+            "city": "Fullerton",
+            "address1": "",
+            "jurisdiction": "County",
+            "title": "Deputy",
+            "firstName": "",
+            "phone": "308-536-2452",
+            "caseNumber": "08-0271",
+            "dateReported": "February 12, 2008",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/3863"},
+        "caseInfo": {
+            "lastName": "Brown",
+            "ageLastSeen": "44 to 44 years old",
+            "lastSeen": "February 08, 2008 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "54 years old",
+            "sex": "Male",
+            "nickname": "",
+            "middleName": "A",
+            "height": "72.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "4817": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Vanderlei has been reported missing along with his wife, Jacqueline and 7 year old son. The son, Christopher was last seen at his school on Dec 17, 2009, where he was picked up by Jacqueline. They have not had contact with family or friends since that time.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Det",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "84146-X",
+            "dateReported": "January 08, 2010",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/6293",
+            "1": "https://www.findthemissing.org/en/photos/thumb/6591"
+        },
+        "caseInfo": {
+            "ageLastSeen": "43 to 43 years old",
+            "sex": "Female",
+            "weight": "140.0 to 150.0",
+            "status": "Missing",
+            "height": "66.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "2513": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "John walked away from family and has not been seen or heard from since.",
+            "city": "Gering",
+            "county": "Scotts Bluff",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "Missing right finger",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "Missing right finger",
+            "scarsAndMarks": "Scar on back; Scar on left finger; Scar on neck; Scar on upper left arm",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "69341",
+            "lastName": "Overman",
+            "website": "",
+            "comments": "",
+            "agency": "Scotts Bluff County Sheriff's Office",
+            "address2": "",
+            "city": "Gering",
+            "address1": "1825 10th St",
+            "jurisdiction": "County",
+            "title": "Sheriff",
+            "firstName": "Mark",
+            "phone": "308-436-6666",
+            "caseNumber": "80-00647",
+            "dateReported": "April 28, 1998",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/65233",
+            "1": "https://www.findthemissing.org/en/photos/thumb/65234"
+        },
+        "caseInfo": {
+            "firstName": "John",
+            "lastName": "Butler",
+            "ageLastSeen": "60 to 60 years old",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "98 years old",
+            "sex": "Male",
+            "nickname": "Donald Ray Warren",
+            "middleName": "C"
+        },
+        "regionalAdministrator": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        }
+    },
+    "2677": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Unknown",
+            "city": "Lincoln",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "small SCAR in the CENTER of his FOREHEAD, a SCAR on his UPPER RIGHT ARM, and MOLES/SCAR on his right cheek.",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Brown",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Kober",
+            "website": "",
+            "comments": "",
+            "agency": "Nebraska State Patrol, Investigative Services, HDQ Troop",
+            "address2": "",
+            "city": "Lincoln",
+            "address1": "",
+            "jurisdiction": "State",
+            "title": "Inv.",
+            "firstName": "Chris",
+            "phone": "402 471-4545",
+            "caseNumber": "H09-13937",
+            "dateReported": "July 15, 1967",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/3859",
+            "1": "https://www.findthemissing.org/en/photos/thumb/10628"
+        },
+        "caseInfo": {
+            "lastName": "Arnold",
+            "ageLastSeen": "24 to years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "155.0",
+            "firstName": "William",
+            "dateEntered": "08/09/2009",
+            "lastSeen": "July 15, 1967 00:00",
+            "ageNow": "75 years old",
+            "nickname": "William Lee Arnold",
+            "middleName": "Leslie",
+            "status": "Missing",
+            "height": "69.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "21273": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Sometime between 20.00-21.00 on the night of July 28, 1973, Frank Oliva and his wife Mary left their house in their 1958 beige Chevrolet and drove away. They were never seen again.\nThey were reported missing on August 3, 1973, by their son.\n\nNothing had been disturbed at their home, and the front door was closed, but not locked.\n\nThe couple was declared legally dead seven years after they disappeared, though their bodies were never found.",
+            "city": "Wilbur",
+            "county": "Saline",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Unknown or Missing",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Unknown or Completely Bald",
+            "headHair": "Dark",
+            "rightEyeColor": "Unknown or Missing",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Kalkwarf",
+            "website": "rkalkwarf@sclec-ne.org",
+            "comments": "Czech immigrant; http://www.sewardindependent.com/wilber/news/article_3abc144e-f955-11e2-b0b0-0019bb30f31a.html",
+            "agency": "Saline County Sheriff's Office",
+            "address2": "",
+            "city": "",
+            "address1": "",
+            "jurisdiction": "County",
+            "title": "Captain",
+            "firstName": "Russ",
+            "phone": "402-821-2111",
+            "caseNumber": "OI-82-00 follow-up inves",
+            "dateReported": "August 03, 1973",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/37722"},
+        "caseInfo": {
+            "dateEntered": "07/31/2013",
+            "ageLastSeen": "76 to years old",
+            "lastSeen": "July 28, 1973 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "120 years old",
+            "sex": "Male",
+            "weight": "150.0 to 170.0",
+            "height": "66.0 to 70.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "19639": {
+        "circumstances": {
+            "zip": "68627",
+            "circumstances": "Mr. Miller was working at the Cedar River Power Plant. The ice jam on the bridge gave way and took the bridge. Mr. Miller was last seen falling into the icy, fast moving water.",
+            "city": "Cedar Rapids",
+            "county": "Boone",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "Reported by family members memory, Mr. Miller had a gum disease causing all of his teeth to fall out or be pulled.",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Unknown or Missing",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "short",
+            "rightEyeColor": "Unknown or Missing",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68638",
+            "lastName": "Bakewell",
+            "website": "none",
+            "comments": "Nance County is doing the investigation for the missing persons and remains. It should be noted that Mr. Miller went missing in Boone County Nebraska.",
+            "agency": "Nance County Sheriff's Department",
+            "address2": "",
+            "city": "Fullerton",
+            "address1": "209 Esther Street",
+            "jurisdiction": "County",
+            "title": "Chief Deputy",
+            "firstName": "Ben",
+            "phone": "1-308-536-2452",
+            "caseNumber": "11-128",
+            "dateReported": "June 08, 1940",
+            "state": "Nebraska"
+        },
+        "photos": {},
+        "caseInfo": {
+            "sex": "Male",
+            "weight": "165.0 to 185.0",
+            "height": "60.0 to 65.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "4655": {
+        "circumstances": {
+            "zip": "69210",
+            "circumstances": "Dean Bechtold was last seen in September 1994. He was picked up by 2 men in a 1979 Ford Pickup Truck near the above listed address. They headed west in the Pickup and Dean has not been heard from since.",
+            "city": "Ainsworth",
+            "county": "Brown",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "Very Brittle Bones",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar near Right shoulder. Wound stitched.",
+            "prosthetics": "",
+            "tattoos": "two interlocked hearts on forearm (unknown if left or right).\n\n\"Born Wild\" on arm (is on left forearm).\n\n\"FTW\" on arm (unknown if left or right).\n\nUnfinished Tattoo at time of disappearance of \"MO\" (would have been MONICA if completed after disappearance).",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "receding hairline",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        },
+        "investigatingAgency": {
+            "zip": "68701",
+            "lastName": "Svoboda",
+            "website": "",
+            "comments": "",
+            "agency": "Nebraska State Patrol",
+            "address2": "",
+            "city": "Norfolk",
+            "address1": "",
+            "jurisdiction": "State",
+            "title": "Sgt",
+            "firstName": "Galen",
+            "phone": "402-370-3456",
+            "caseNumber": "B2006-2491",
+            "dateReported": "October 17, 2006",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/6058",
+            "1": "https://www.findthemissing.org/en/photos/thumb/6074"
+        },
+        "caseInfo": {
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "160.0",
+            "height": "68.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "63": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Ashby was last seen on Park Avenue and South 29th Street.\nHe indicated he was going on a date but never arrived.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "He has a discoloration on his back, a discoloration on the forehead and a scar on the forehead",
+            "prosthetics": "",
+            "tattoos": "Tattoo of a \"unicorn\" on left arm. Tattoo of a \"skull with a dagger in it\" on right arm.",
+            "foreignObjects": "",
+            "hairColor": "Red/Auburn",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Det",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "67577H",
+            "dateReported": "January 05, 1993",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/67"},
+        "caseInfo": {
+            "ageLastSeen": "23 to 23 years old",
+            "race": "White",
+            "ethnicity": "Other",
+            "ageNow": "49 years old",
+            "sex": "Male",
+            "weight": "140.0",
+            "height": "73.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "19318": {
+        "circumstances": {
+            "zip": "68144",
+            "circumstances": "Was last seen on convenience store video on 12-10-12. His vehicle was located by family members in a parking lot near the Downtown Omaha Riverfront on 12-16-12. He had recently been suffering from depression.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "none",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Gray or Partially Gray",
+            "headHair": "Gray sides and balding on top",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Other",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "402-444-4127",
+            "caseNumber": "42117-Q",
+            "dateReported": "December 11, 2012",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/33766"},
+        "caseInfo": {
+            "dateEntered": "02/20/2013",
+            "ageLastSeen": "49 to years old",
+            "lastSeen": "December 10, 2012 00:00",
+            "race": "White",
+            "ethnicity": "Other",
+            "ageNow": "54 years old",
+            "sex": "Male",
+            "nickname": "Jim",
+            "weight": "185.0 to 195.0",
+            "height": "71.0 to 72.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "John",
+            "lastName": "Filippi",
+            "phone": "817-666-5424"
+        }
+    },
+    "2516": {
+        "circumstances": {
+            "zip": "68701",
+            "circumstances": "On August 13, 1987 a nine year old Norfolk, Nebraska girl disappeared and has not been seen alive since. Jillian â\u20acœJillâ\u20ac\u009d Cutshall was last seen near her babysitterâ\u20ac™s home in central Norfolk. An extensive search for her in the Norfolk area found nothing until in November of 1987. It was then that hunters found childrenâ\u20ac™s clothing in the Wood Duck wildlife area southwest of Stanton, Nebraska. The clothing was positively identified as being the clothing Jill was wearing at the time of her disappearance. An exhaustive search of the wildlife area resulted in no further findings or evidence of her disappearance.\nSince that time, Jill has remained on the minds of all area law enforcement that worked to find and bring her home. Jill has since been declared dead by the State of Nebraska and a Norfolk man is serving a life sentence for the Kidnapping of Jill from Norfolk. A second man has been interviewed numerous times and has never been charged with her disappearance. It is the hope that Jill can be located and brought home for the sake of her family and those that have never forgotten Jill. Jillâ\u20ac™s disappearance remains an open case with both Norfolk and Stanton County law enforcement always looking for information or a location of Jill.\nJillian is a white female, 4'6\" tall, weighs 65 pounds, has straight blond hair and blue eyes. She has a two inch vertical scar on the crown of her head and a horizontal scar on her right top lip. She was last seen wearing a purple shirt, blue jeans and white Nike Tennis shoes.\nCircumstances - Jill was last seen on the porch of the home where she was babysitting. This was about 4 blocks from her home. Jill has not been seen since that time.",
+            "city": "Norfolk",
+            "county": "Madison",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Pierced ears",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Two inch vertical scar on the crown of her head and a horizontal scar on her right top lip",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Blond/Strawberry",
+            "headHair": "Long",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        },
+        "investigatingAgency": {
+            "zip": "68701",
+            "lastName": "Bos",
+            "website": "",
+            "comments": "",
+            "agency": "Norfok Police Department",
+            "address2": "",
+            "city": "Norfolk",
+            "address1": "",
+            "jurisdiction": "Local",
+            "title": "Detective Sergeant",
+            "firstName": "Dave",
+            "phone": "(402) 644-8700",
+            "caseNumber": "87-7766",
+            "dateReported": "August 13, 1987",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/3544",
+            "1": "https://www.findthemissing.org/en/photos/thumb/3545",
+            "2": "https://www.findthemissing.org/en/photos/thumb/32197"
+        },
+        "caseInfo": {
+            "lastName": "Cutshall",
+            "ageLastSeen": "9 to 9 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "60.0",
+            "ncmec number": "600904",
+            "firstName": "Jillian",
+            "dateEntered": "07/17/2009",
+            "lastSeen": "August 14, 1987 00:00",
+            "ageNow": "40 years old",
+            "nickname": "",
+            "middleName": "Dee",
+            "status": "Missing",
+            "height": "54.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        }
+    },
+    "13261": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Brooklinn is thought to have been taken by her non-custodial father. They may have gone to Mexico. Brooklinn is bi-racial; Hispanic and White.",
+            "city": "South Sioux City",
+            "county": "Dakota",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "shoulder length",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68776",
+            "lastName": "Adams",
+            "website": "",
+            "comments": "",
+            "agency": "South Sioux City Police Department",
+            "address2": "",
+            "city": "South Sioux City",
+            "address1": "701 West 29th Street",
+            "jurisdiction": "Local",
+            "title": "Lieutenant",
+            "firstName": "Doug",
+            "phone": "402-494-7555",
+            "caseNumber": "11-0000-707",
+            "dateReported": "March 17, 2010",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/23436",
+            "1": "https://www.findthemissing.org/en/photos/thumb/23437",
+            "2": "https://www.findthemissing.org/en/photos/thumb/23438",
+            "3": "https://www.findthemissing.org/en/photos/thumb/48699"
+        },
+        "caseInfo": {
+            "dateEntered": "12/16/2011",
+            "ageLastSeen": "4 to 4 years old",
+            "lastSeen": "October 24, 2007 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "15 years old",
+            "sex": "Female",
+            "weight": "70.0",
+            "ncmec number": "1143288",
+            "height": "44.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "67": {
+        "circumstances": {
+            "zip": "68508",
+            "circumstances": "Regina walked out of Duggan's Pub at 11th and K St. carrying her guitar over her shoulder. The next morning, her vehicle was located across the street from the pub with the trunk ajar and her guitar inside. Her sister indicated that the time Regina went missing was approximately 1AM on Oct 17, 2000.",
+            "city": "Lincoln",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Multiple piercings in ears",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "Wore contact lenses",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Freckles",
+            "prosthetics": "",
+            "tattoos": "Tattoo of a small purple flower on her back",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68508",
+            "lastName": "Koziol",
+            "website": "",
+            "comments": "",
+            "agency": "Lincoln Police Department",
+            "address2": "",
+            "city": "Lincoln",
+            "address1": "575 S 10th St",
+            "jurisdiction": "Local",
+            "title": "Sgt.",
+            "firstName": "Ken",
+            "phone": "402-441-6966",
+            "caseNumber": "A0-116020",
+            "dateReported": "October 17, 2000",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/71",
+            "1": "https://www.findthemissing.org/en/photos/thumb/72",
+            "2": "https://www.findthemissing.org/en/photos/thumb/73"
+        },
+        "caseInfo": {
+            "lastName": "Bos",
+            "dateEntered": "12/12/2008",
+            "ageLastSeen": "40 to 40 years old",
+            "lastSeen": "October 17, 2000 10:15",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "58 years old",
+            "sex": "Female",
+            "nickname": "Gina Bos; Gina Williams; Regina Williams",
+            "weight": "105.0 to 120.0",
+            "middleName": "Marie",
+            "height": "66.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Kenneth",
+            "lastName": "Koziol",
+            "phone": "402 441-6966"
+        }
+    },
+    "69": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Raymond was last seen leaving a family member's residence in the vicinity of the 600 block of S. 27th St. in Omaha, NE. He contacted family to inform them he was leaving Nebraska and was moving to a family member's residence in Des Moines, IA but never arrived. His vehicle is also missing and is described as a green, four door, 1970's model Chevrolet.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar over right eye, lazy left eye some scarring on face due to chicken pox as a child,",
+            "prosthetics": "",
+            "tattoos": "Tattoo of a \"dagger\" with \"snake\" on forearm, several other tattoos on body",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": "previously fractured leg."
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Officer",
+            "firstName": "Jim",
+            "phone": "402-441-4128",
+            "caseNumber": "87277G",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/75"},
+        "caseInfo": {
+            "firstName": "Raymond",
+            "lastName": "Harris",
+            "ageLastSeen": "20 to 20 years old",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "67 years old",
+            "weight": "135.0 to 170.0",
+            "middleName": "Dale"
+        },
+        "regionalAdministrator": {
+            "firstName": "John",
+            "lastName": "Filippi",
+            "phone": "817-666-5424"
+        }
+    },
+    "40761": {
+        "circumstances": {
+            "zip": "68503",
+            "circumstances": "She may still be in the local area.",
+            "city": "Lincoln",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68508",
+            "lastName": "Barry",
+            "website": "",
+            "comments": "",
+            "agency": "Lincoln Police Department",
+            "address2": "",
+            "city": "Lincoln",
+            "address1": "575 South 10th Street",
+            "jurisdiction": "Local",
+            "title": "Investigator",
+            "firstName": "Michael",
+            "phone": "(402) 441-6000",
+            "caseNumber": "B6-062119",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/79134"},
+        "caseInfo": {
+            "lastName": "Velasquez",
+            "ageLastSeen": "16 to 16 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "150.0",
+            "ncmec number": "1273343",
+            "firstName": "Inicia",
+            "lastSeen": "July 10, 2016 00:00",
+            "ageNow": "18 years old",
+            "nickname": "",
+            "middleName": "",
+            "status": "Missing",
+            "height": "67.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "38125": {
+        "circumstances": {
+            "zip": "68111",
+            "circumstances": "Mark Estee is a drug and alcohol user and had not had contact for almost 1 year before he was reported missing",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Brown",
+            "skeletalInformation": "",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "402-444-4127",
+            "caseNumber": "AJ12017",
+            "dateReported": "October 01, 2016",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/73202"},
+        "caseInfo": {
+            "lastName": "Estee",
+            "ageLastSeen": "51 to 51 years old",
+            "lastSeen": "January 01, 2016 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "53 years old",
+            "sex": "Male",
+            "nickname": "",
+            "middleName": "Henry",
+            "height": "72.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "John",
+            "lastName": "Filippi",
+            "phone": "817-666-5424"
+        }
+    },
+    "4674": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Rodney last had contact with law enforcement in Omaha, NE on 03/14/1985. He may have left Nebraska and traveled to the Miami area with another man and a pregnant woman.",
+            "city": "Omaha",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Gray",
+            "fingersAndToeNails": "",
+            "eyeDescription": "He wore prescription contacts or glasses",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on his left collar bone",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Shaggy, medium length",
+            "rightEyeColor": "Gray",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68508",
+            "lastName": "Koziol",
+            "website": "",
+            "comments": "",
+            "agency": "Lincoln Police Department",
+            "address2": "",
+            "city": "Lincoln",
+            "address1": "575 S 10th St",
+            "jurisdiction": "Local",
+            "title": "Sgt",
+            "firstName": "Ken",
+            "phone": "402-441-6966",
+            "caseNumber": "A8-108213 or 4408-0887",
+            "dateReported": "January 15, 1985",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/5864",
+            "1": "https://www.findthemissing.org/en/photos/thumb/18089"
+        },
+        "caseInfo": {
+            "firstName": "Rodney",
+            "ageLastSeen": "20 to years old",
+            "ageNow": "52 years old",
+            "weight": "150.0",
+            "status": "Missing"
+        },
+        "regionalAdministrator": {
+            "firstName": "Kenneth",
+            "lastName": "Koziol",
+            "phone": "402 441-6966"
+        }
+    },
+    "2326": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Last seen in Lincoln, Nebraska.",
+            "city": "Lincoln",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Blond/Strawberry",
+            "headHair": "Blonde",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Ackles",
+            "website": "",
+            "comments": "",
+            "agency": "Adam's County Sheriff Department",
+            "address2": "",
+            "city": "Hastings",
+            "address1": "",
+            "jurisdiction": "Local",
+            "title": "Officer",
+            "firstName": "Jason",
+            "phone": "402-461-7181",
+            "caseNumber": "S1-817",
+            "dateReported": "September 22, 2001",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/3215",
+            "1": "https://www.findthemissing.org/en/photos/thumb/3216"
+        },
+        "caseInfo": {
+            "dateEntered": "06/16/2009",
+            "ageLastSeen": "47 to 47 years old",
+            "lastSeen": "September 20, 2001 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "55 years old",
+            "sex": "Female",
+            "nickname": "AKA: Marilyn Flesner, Marilyn Johnson",
+            "weight": "150.0",
+            "height": "64.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "John",
+            "lastName": "Filippi",
+            "phone": "817-666-5424"
+        }
+    },
+    "12939": {
+        "circumstances": {
+            "zip": "68107",
+            "circumstances": "Cindy ran away from home while 5-6 months pregnant on August 26, 2011.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "Cindy was 5-6 months pregnant when last seen.",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Cindy has a mole by her chin and another by her right eye.",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "Shoulder length",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S. 15th Street",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "James",
+            "phone": "402-444-5600",
+            "caseNumber": "RB26420Z",
+            "dateReported": "August 26, 2011",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/22762",
+            "1": "https://www.findthemissing.org/en/photos/thumb/22763",
+            "2": "https://www.findthemissing.org/en/photos/thumb/40754"
+        },
+        "caseInfo": {
+            "dateEntered": "11/14/2011",
+            "ageLastSeen": "15 to 15 years old",
+            "lastSeen": "August 26, 2011 00:00",
+            "race": "White",
+            "ethnicity": "Hispanic/Latino",
+            "ageNow": "21 years old",
+            "sex": "Female",
+            "weight": "115.0",
+            "height": "62.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "5555": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Ann left her residence in a 1991 Plymouth Voyager Van on the morning of 04/15/2008. She dropped one child off at school, stopped at Sunmart Grocery Store in Beatrice, NE, then dropped another child off at daycare. These are the last known sightings.",
+            "city": "Filley",
+            "county": "Gage",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Ann has her ears pierced.",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "Contact lenses or glasses",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "3\" scar on left calf",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Red/Auburn",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68310",
+            "lastName": "Sandersfeld",
+            "website": "http://www.gage-ne-sheriff.us/",
+            "comments": "",
+            "agency": "Gage County Sheriff's Office",
+            "address2": "",
+            "city": "Beatrice",
+            "address1": "612 Lincoln Street",
+            "jurisdiction": "County",
+            "title": "Investigator",
+            "firstName": "Rob",
+            "phone": "402-223-5222 xt 207",
+            "caseNumber": "2008-1891",
+            "dateReported": "April 15, 2008",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/7402",
+            "1": "https://www.findthemissing.org/en/photos/thumb/7581",
+            "2": "https://www.findthemissing.org/en/photos/thumb/10901",
+            "3": "https://www.findthemissing.org/en/photos/thumb/10902"
+        },
+        "caseInfo": {
+            "lastName": "Kelley",
+            "ageLastSeen": "36 to years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "130.0",
+            "firstName": "Ann",
+            "dateEntered": "03/18/2010",
+            "lastSeen": "April 15, 2008 09:55",
+            "ageNow": "46 years old",
+            "nickname": "Ann Marie Kelly",
+            "middleName": "Marie",
+            "status": "Missing",
+            "height": "64.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "4786": {
+        "circumstances": {
+            "zip": "68108",
+            "circumstances": "Vanderlei has been reported missing along with his wife, Jacqueline and 7 year old son. The son, Christopher was last seen at his school on Dec 17, 2009, where he was picked up by Jacqueline. They have not had contact with family or friends since that time.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Det",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "84144-X",
+            "dateReported": "December 18, 2009",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/6209",
+            "1": "https://www.findthemissing.org/en/photos/thumb/6592"
+        },
+        "caseInfo": {
+            "lastName": "Szczepanik",
+            "dateEntered": "01/21/2010",
+            "ageLastSeen": "36 to 36 years old",
+            "lastSeen": "December 14, 2009 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "45 years old",
+            "sex": "Male",
+            "nickname": "",
+            "weight": "160.0 to 170.0",
+            "height": "72.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "73": {
+        "circumstances": {
+            "zip": "68104",
+            "circumstances": "Jason went missing when he was 19 years old. His photo is shown aged to 27 years. Jason was last seen leaving his home to walk to Benson High School, where he was supposed to meet a coworker for a ride to work. He never arrived at the school and has not been heard from since. Jason's nickname is J.J.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Dept",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "James",
+            "phone": "402-444-5818",
+            "caseNumber": "RB85214T",
+            "dateReported": "June 14, 2001",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/79",
+            "1": "https://www.findthemissing.org/en/photos/thumb/2499",
+            "2": "https://www.findthemissing.org/en/photos/thumb/10665",
+            "3": "https://www.findthemissing.org/en/photos/thumb/36142"
+        },
+        "caseInfo": {
+            "dateEntered": "12/12/2008",
+            "ageLastSeen": "19 to 19 years old",
+            "lastSeen": "June 13, 2001 10:15",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "36 years old",
+            "sex": "Male",
+            "weight": "165.0",
+            "height": "73.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "9015": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Tyler was last seen off campus, near 5th and Nebraska Streets, walking toward her dorm room on the Peru State College campus. Her lip and eyebrow are pierced. Tyler was last seen wearing a teal long sleeve shirt, dark sweatpants, ear muffs, and a scarf.",
+            "city": "Peru",
+            "county": "Nemaha",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Tyler has her ears, lip and right eyebrow pierced.",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Brown",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "68305",
+            "lastName": "Lottman",
+            "website": "",
+            "comments": "",
+            "agency": "Nemaha County Sheriffs Office",
+            "address2": "",
+            "city": "Auburn",
+            "address1": "1805 North Street",
+            "jurisdiction": "County",
+            "title": "",
+            "firstName": "Brett",
+            "phone": "402-274-3139",
+            "caseNumber": "1751210",
+            "dateReported": "December 03, 2010",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/14430",
+            "1": "https://www.findthemissing.org/en/photos/thumb/14431"
+        },
+        "caseInfo": {
+            "dateEntered": "12/23/2010",
+            "ageLastSeen": "19 to 19 years old",
+            "lastSeen": "December 03, 2010 14:38",
+            "race": "Black/African American",
+            "ethnicity": "",
+            "ageNow": "26 years old",
+            "sex": "Female",
+            "nickname": "Ty",
+            "weight": "140.0",
+            "ncmec number": "1161374",
+            "height": "65.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "37101": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "John Steven \"Steve\" Conaway, of Council Bluffs, IA, was last seen between 10 and 10:30 p.m. on Monday, Feb. 9, 1998, leaving Buffalo Joe's Food & Spirits, located near Rosenblatt Stadium in Omaha, NE, where he'd gone with a friend to have a few beers.\n\nHe departed Buffalo Joe\u2019s driving his gold four-door 1989 Ford Taurus, Iowa license plate number 977-CLN. He has not been seen since then, and his vehicle also remains missing. He was reported missing to the Council Bluffs Police Department on Feb. 11, 1998.\n\nFarnerbocken, a distributing company where Conaway worked as a sales representative, reported him missing after he failed to appear for work.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Mustache and goatee",
+            "skeletalInformation": "Fractured right finger",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "Wears glasses",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "51503",
+            "lastName": "Kennedy",
+            "website": "http://www.councilbluffs-ia.gov/319/Police-Department",
+            "comments": "",
+            "agency": "Council Bluffs Police Department",
+            "address2": "",
+            "city": "Council Bluffs",
+            "address1": "227 S. 6th St.",
+            "jurisdiction": "Local",
+            "title": "Det.",
+            "firstName": "Amber",
+            "phone": "712-328-5737",
+            "caseNumber": "98-008374",
+            "dateReported": "February 09, 1998",
+            "state": "Iowa"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/70921",
+            "1": "https://www.findthemissing.org/en/photos/thumb/70951"
+        },
+        "caseInfo": {
+            "firstName": "John",
+            "ageLastSeen": "36 to 36 years old",
+            "race": "White",
+            "ageNow": "56 years old",
+            "weight": "160.0",
+            "middleName": "Steven",
+            "status": "Missing"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "39444": {
+        "circumstances": {
+            "zip": "68111",
+            "circumstances": "Mark Smith was last seen October 2016 by Omaha police in Omaha Nebraska, as of August 2017 there has been no sign of Mark. He hasn't contacted any family members or friends nor has he been found. He has no money nor a cell phone on person. He is originally from Aurora, IL.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Hair on his face",
+            "skeletalInformation": "",
+            "leftEyeColor": "Black",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "He was last seen with a low hair cut and a shag in the back of his head",
+            "rightEyeColor": "Black",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "James",
+            "lastName": "Reisinger",
+            "phone": "402-444-4127"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15th St",
+            "jurisdiction": "Local",
+            "title": "Det.",
+            "firstName": "Jim",
+            "phone": "402-444-4127",
+            "caseNumber": "AJ90700",
+            "dateReported": "August 12, 2017",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/76200"},
+        "caseInfo": {
+            "sex": "Male",
+            "weight": "150.0 to 170.0",
+            "height": "68.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "1770": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Rose was last seen at a relative's residence in the 1500 block of Pine St. in Omaha, NE. Rose often stays at homeless shelters.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Ears",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on left wrist; Scar on right hand",
+            "prosthetics": "",
+            "tattoos": "Tattoo of initials \"RF\" on right wrist, tattoo of the words \"Lone Star\" on left wrist; \"Leland\" on right hand",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "Brown/Black",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha PD",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "RB41242T",
+            "dateReported": "January 15, 2001",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/2318"},
+        "caseInfo": {
+            "firstName": "Rose",
+            "ageLastSeen": "36 to years old",
+            "race": "Native American",
+            "ageNow": "54 years old",
+            "weight": "130.0",
+            "middleName": "M",
+            "status": "Missing"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "2777": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "On 08/22/1992, Tony left his parents' house in Moorefield to go to Stockville to renew his driver's license. According to the DMV employees, he did not arrive.\n\nTony was driving a vehicle that belonged to his parents. He also took his dog, Butch, with him as well as fishing poles and tackle.",
+            "city": "Stockville",
+            "county": "Frontier",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Pierced left ear",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on back",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Curly",
+            "rightEyeColor": "Brown",
+            "deformities": "One leg shorter than the other"
+        },
+        "caseManager": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Rupp",
+            "website": "",
+            "comments": "",
+            "agency": "Frontier County Sheriff's Office",
+            "address2": "",
+            "city": "Stockville",
+            "address1": "",
+            "jurisdiction": "County",
+            "title": "Sheriff",
+            "firstName": "Dan",
+            "phone": "308 367-4411",
+            "caseNumber": "0820392",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/56991",
+            "1": "https://www.findthemissing.org/en/photos/thumb/56992"
+        },
+        "caseInfo": {
+            "ageLastSeen": "35 to years old",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "61 years old",
+            "sex": "Male",
+            "weight": "140.0",
+            "height": "68.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "2775": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Frederick was working in a city landfill on the day he went missing. His coworkers realized they hadn't seen him in a while and found that his vehicle and belongings were still there. It is suspected that Frederick was accidentally buried in the landfill. Extensive searches were done at the time but Frederick was not found.",
+            "city": "Grand Island",
+            "county": "Hall",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Green",
+            "fingersAndToeNails": "",
+            "eyeDescription": "Wore glasses",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on chest",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Bald",
+            "rightEyeColor": "Green",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Schultz",
+            "website": "",
+            "comments": "",
+            "agency": "Hall Co Sheriff",
+            "address2": "",
+            "city": "Grand Island",
+            "address1": "",
+            "jurisdiction": "County",
+            "title": "Investigator",
+            "firstName": "Gregg",
+            "phone": "308 385-5200",
+            "caseNumber": "CF903114",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {},
+        "caseInfo": {
+            "dateEntered": "08/31/2009",
+            "ageLastSeen": "69 to 69 years old",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "97 years old",
+            "sex": "Male",
+            "weight": "190.0",
+            "height": "66.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "John",
+            "lastName": "Filippi",
+            "phone": "817-666-5424"
+        }
+    },
+    "3027": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Michael left Lincoln voluntarily in November, 1998. He was known to have reached California later that month. He was locked up in a jail in Tijuana, Mexico in November 1998 and released on 12/23/98. His vehicle was left (abandoned) in Tijuana.",
+            "city": "Lincoln",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Green",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Tattoo of a marijuana plant on upper left arm/shoulder; Unknown tattoo on left arm",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Kenneth",
+            "lastName": "Koziol",
+            "phone": "402 441-6966"
+        },
+        "investigatingAgency": {
+            "zip": "68508",
+            "lastName": "Koziol",
+            "website": "",
+            "comments": "",
+            "agency": "Lincoln Police Department",
+            "address2": "",
+            "city": "Lincoln",
+            "address1": "575 S 10th St",
+            "jurisdiction": "Local",
+            "title": "Sergeant",
+            "firstName": "Ken",
+            "phone": "402-441-6966",
+            "caseNumber": "A2-113278",
+            "dateReported": "September 30, 2002",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/4533"},
+        "caseInfo": {
+            "firstName": "Michael",
+            "lastName": "Watkins",
+            "ageLastSeen": "49 to 49 years old",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "68 years old",
+            "middleName": "Lee",
+            "status": "Missing"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "2774": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Anna was last seen in Papillion in 1981.",
+            "city": "Papillion",
+            "county": "Sarpy",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Kathe",
+            "lastName": "Erhart",
+            "phone": "402-593-4322"
+        },
+        "investigatingAgency": {
+            "zip": "68046",
+            "lastName": "Erhart",
+            "website": "",
+            "comments": "POC for missing persons is Sgt Richards at NSP",
+            "agency": "Sarpy County Sheriff's Office",
+            "address2": "",
+            "city": "Papillion",
+            "address1": "1208 Golden Gate Drive",
+            "jurisdiction": "County",
+            "title": "Inv",
+            "firstName": "Kathe",
+            "phone": "402-593-4347",
+            "caseNumber": "2149-0889",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/35692",
+            "1": "https://www.findthemissing.org/en/photos/thumb/35693",
+            "2": "https://www.findthemissing.org/en/photos/thumb/35694",
+            "3": "https://www.findthemissing.org/en/photos/thumb/62212"
+        },
+        "caseInfo": {
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "140.0",
+            "height": "64.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "2376": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Jason was last seen in Gering, NE on 04/24/1993.",
+            "city": "Gering",
+            "county": "Scotts Bluff",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Pierced ear",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Green",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on forehead",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Brown",
+            "rightEyeColor": "Green",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "69341",
+            "lastName": "Jackson",
+            "website": "",
+            "comments": "",
+            "agency": "Gering PD",
+            "address2": "",
+            "city": "Gering",
+            "address1": "",
+            "jurisdiction": "Local",
+            "title": "Det",
+            "firstName": "James",
+            "phone": "308 436-5088",
+            "caseNumber": "93-02039",
+            "dateReported": "April 24, 1993",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/3316"},
+        "caseInfo": {
+            "lastName": "Bevins",
+            "dateEntered": "06/21/2009",
+            "ageLastSeen": "21 to 21 years old",
+            "lastSeen": "April 10, 1993 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "46 years old",
+            "sex": "Male",
+            "nickname": "",
+            "weight": "120.0",
+            "middleName": "A",
+            "height": "65.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "John",
+            "lastName": "Filippi",
+            "phone": "817-666-5424"
+        }
+    },
+    "14962": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "O'Grady was a homicide victim. Her boyfriend, Christopher Edwards, was prosecuted and successfully convicted for this criminal offense. O'Grady was never found.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Palm tree on lower back",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "shoulder length",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68116",
+            "lastName": "Pankonin",
+            "website": "",
+            "comments": "O'Grady was reported missing on 05/10/2006. Her boyfriend, Christopher Edwards was convicted of Murder 2nd Degree and Use of a Weapon to Commit a Felony on or about June 2007, without the presence of a body. O'Grady was never located.",
+            "agency": "Douglas County Sheriff's Office",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "3601 N. 156th Street",
+            "jurisdiction": "County",
+            "title": "Sgt",
+            "firstName": "John",
+            "phone": "402-444-4358",
+            "caseNumber": "B01548",
+            "dateReported": "May 10, 2006",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/62748",
+            "1": "https://www.findthemissing.org/en/photos/thumb/62749",
+            "2": "https://www.findthemissing.org/en/photos/thumb/62750",
+            "3": "https://www.findthemissing.org/en/photos/thumb/62751"
+        },
+        "caseInfo": {
+            "dateEntered": "06/08/2012",
+            "ageLastSeen": "19 to years old",
+            "lastSeen": "May 10, 2006 00:00",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "31 years old",
+            "sex": "Female",
+            "weight": "140.0",
+            "height": "60.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "13434": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Steven was last seen near the Plattsmouth Nebraska Missouri River toll bridge and is believed to have jumped into the river from the bridge. He has not been located",
+            "city": "Plattsmouth",
+            "county": "Cass",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68048",
+            "lastName": "Durkan",
+            "website": "",
+            "comments": "last seen exiting his vehicle on the Highway 34 toll bridge over the Missouri River.",
+            "agency": "Cass County Sheriff's Office",
+            "address2": "",
+            "city": "Plattsmouth",
+            "address1": "336 Main St.",
+            "jurisdiction": "County",
+            "title": "Investigator",
+            "firstName": "Douglas",
+            "phone": "402-296-9322",
+            "caseNumber": "CS10000769",
+            "dateReported": "February 08, 2010",
+            "state": "Nebraska"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/23488"},
+        "caseInfo": {
+            "lastName": "Applegate",
+            "dateEntered": "12/19/2011",
+            "ageLastSeen": "17 to 17 years old",
+            "lastSeen": "February 08, 2010 15:22",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "25 years old",
+            "sex": "Male",
+            "nickname": "",
+            "weight": "115.0",
+            "height": "69.0 to 70.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "John",
+            "lastName": "Filippi",
+            "phone": "817-666-5424"
+        }
+    },
+    "4677": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Nichols, mother of two small children, was last seen alive December 10, 1987, at her home in Gothenburg. Her husband reported her missing the next day, and she has never been seen since. The Nebraska State Patrol investigated the case and the family hired a private detective to no avail.\n\nAlthough authorities suspect Christi Jo Nichols is dead, her body never has been found. At first, police handled the disappearance as a missing persons case, but as time progressed it evolved into suspicion of murder.\n\nAn investigation revealed traces of Christi's blood in the couple's house and in the husbands car. Recent DNA tests have proved that the blood found was indeed Christi's.\n\nHer suitcase, along with her purse was found at a rest stop near Maxwell in 1988.\n\nChristi was in an abusive relationship and had been treated in an emergency room for injuries weeks before she disappeared. She was planning to leave her husband at the time of her disappearance.",
+            "city": "Gothenburg",
+            "county": "Dawson",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Pierced ears",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Green",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar left eye; scar on abdomen",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Green",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Audrey",
+            "lastName": "Meyer",
+            "phone": "402-479-4077"
+        },
+        "investigatingAgency": {
+            "zip": "69101",
+            "lastName": "",
+            "website": "",
+            "comments": "",
+            "agency": "Nebraska State Patrol",
+            "address2": "",
+            "city": "North Platte",
+            "address1": "",
+            "jurisdiction": "State",
+            "title": "",
+            "firstName": "",
+            "phone": "402-479-4049",
+            "caseNumber": "5501-1287",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/5866",
+            "1": "https://www.findthemissing.org/en/photos/thumb/6075"
+        },
+        "caseInfo": {
+            "firstName": "Christi",
+            "ageLastSeen": "22 to years old",
+            "ageNow": "52 years old",
+            "weight": "120.0",
+            "status": "Missing"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "1969": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Cannon was last seen at his residence in the 12600 block of Weir Street in Omaha, Nebraska sometime in late March 1995. He was involved with the Rainbow Family, a nomadic cult-type religious group, at the time of his disappearance. He has never been heard from again. Cannon was not reported missing until May 2004, nine years after he went missing; prior to then, the police had refused to accept a report. Few details are available in his case.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "Pierced Ears",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "grey or hazel",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Cannon's hair was buzz-cut with bangs at the time of his disappearance.",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha PD",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "11094-E",
+            "dateReported": "May 01, 2004",
+            "state": "Nebraska"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/2811",
+            "1": "https://www.findthemissing.org/en/photos/thumb/2812",
+            "2": "https://www.findthemissing.org/en/photos/thumb/2813"
+        },
+        "caseInfo": {
+            "dateEntered": "04/24/2009",
+            "ageLastSeen": "20 to years old",
+            "lastSeen": "March 01, 1995 03:47",
+            "race": "White",
+            "ethnicity": "Other",
+            "ageNow": "43 years old",
+            "sex": "Male",
+            "weight": "135.0 to 180.0",
+            "height": "69.0 to 74.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    },
+    "17514": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Leonel was last seen in Nebraska in 2009-2010",
+            "city": "Lincoln",
+            "county": "Lancaster",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "68508",
+            "lastName": "Koziol",
+            "website": "",
+            "comments": "",
+            "agency": "Lincoln Police Department",
+            "address2": "",
+            "city": "Lincoln",
+            "address1": "575 S 10th St",
+            "jurisdiction": "Local",
+            "title": "Sgt",
+            "firstName": "Ken",
+            "phone": "402-441-6966",
+            "caseNumber": "B0-058731",
+            "dateReported": "",
+            "state": "Nebraska"
+        },
+        "photos": {},
+        "caseInfo": {
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "150.0",
+            "height": "69.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Kenneth",
+            "lastName": "Koziol",
+            "phone": "402 441-6966"
+        }
+    },
+    "1769": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Sherman had a job interview in the downtown Omaha area on 7/19/01 that he went to. He never returned to the house he had been staying at, which was in the 3600 block of Bedford Avenue in Omaha.",
+            "city": "Omaha",
+            "county": "Douglas",
+            "state": "Nebraska"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Blond/Strawberry",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893"
+        },
+        "investigatingAgency": {
+            "zip": "68102",
+            "lastName": "Reisinger",
+            "website": "",
+            "comments": "",
+            "agency": "Omaha Police Department",
+            "address2": "",
+            "city": "Omaha",
+            "address1": "505 S 15 St",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Jim",
+            "phone": "(402) 444-4127",
+            "caseNumber": "RB96261T",
+            "dateReported": "July 19, 2001",
+            "state": "Nebraska"
+        },
+        "photos": {},
+        "caseInfo": {
+            "ageLastSeen": "19 to years old",
+            "race": "White",
+            "ethnicity": "",
+            "ageNow": "35 years old",
+            "sex": "Male",
+            "weight": "160.0",
+            "height": "67.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Melissa",
+            "lastName": "Gregory",
+            "phone": "1-817-304-0893",
+            "email": "Melissa.Gregory@unthsc.edu"
+        }
+    }
+}
