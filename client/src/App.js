@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import { Route, Switch } from 'react-router-dom'
-import NavBar from "./components/NavBar";
 import Login from "./pages/Login";
 import Landing from "./pages/Landing";
 import Search from "./pages/Search";
@@ -13,7 +12,6 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <NavBar />
         <Switch>
             <Route exact path='/' component={Login}/>
             <Route path='/landing' component={Landing}/>
