@@ -1,7 +1,7 @@
 import "./login.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
-import {Row, Col, Button, Container, Input} from 'react-materialize'
+import {Row, Col, Button} from 'react-materialize'
 import GoogleLogin from 'react-google-login';
 
 class Login extends Component {
@@ -20,39 +20,23 @@ class Login extends Component {
     }
     render() {
         return (
-            <Container>
-                <Row>
-                    <Col s={12} className="center-align">
+                <Row className="body-background-gradient">
+                    <Col s={5} className="login-gradient">
                         <Heading level={1}>Milk Carton</Heading>
-                    </Col>
-                </Row>
-                <Row>
-                    <Col s={6} offset="s3" className="center-align">
-                        <Input s={12} label="Email" />
-                        <Input s={12} label="Password" />
-                    </Col>
-                </Row>
-                <Row>
-                    <Col s={10} offset="s1" className="center-align login-buttons">
                         <Button className="button" waves='light'>Sign In</Button>
                         <Button className="button" waves='light'>New User</Button>
-                    </Col>
-                </Row>
-                <Row>
-                    <Col s={12} className="center-align">
-                    <GoogleLogin
-                        tag="a"
+                        <GoogleLogin
                         clientId="277659205285-9aqgv54koa3l693gcqcs2knt9lqrg9e9.apps.googleusercontent.com"
-                        buttonText="Authenticate through gmail/google sign in."
-                        className="google-login"
+                        buttonText="Login with Google"
+                        className="button"
                         onSuccess={this.handleLoginResponse}
                         onFailure={this.handleLoginResponse}
                         style={{}} // This clears out the style from the component
-                    />
+                        />
+                    </Col>
+                    <Col s={7} className="login-banner">
                     </Col>
                 </Row>
-                
-            </Container>
         );
     }
 }
