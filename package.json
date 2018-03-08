@@ -7,7 +7,8 @@
     "client": "node scripts/start-client.js",
     "test": "cd client && npm install && npm run-script build",
     "seed": "node scripts/seedDB.js",
-    "start": "concurrently \"nodemon server.js\" \"npm run client\"",
+    "startdev": "concurrently \"nodemon server.js\" \"npm run client\"",
+    "start": "cd client && npm install && npm run-script build && cd .. && node server.js",
     "scrape": "node scripts/scrapeNamUs.js"
   },
   "repository": {
