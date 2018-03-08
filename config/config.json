@@ -9,15 +9,15 @@
   "test": {
     "username": "root",
     "password": null,
-    "database": "database_test",
+    "database": "milkcarton_db",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
-    "host": "127.0.0.1",
+    "username": "g11ualwb1uxp1y93",
+    "password": "eclnehbajwjfvt35",
+    "database": "q2fat503916krhun",
+    "host": "yhrz9vns005e0734.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }

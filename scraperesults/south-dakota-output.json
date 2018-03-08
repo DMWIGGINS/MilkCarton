@@ -1,0 +1,1936 @@
+{
+    "88": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Unknown. Pamela dropped her mother off at her residence at approximately 6:00pm. Pamela's vehicle was located at her own residence.",
+            "city": "Watertown",
+            "county": "Codington",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "Ears pierced.",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "Brown",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar with discoloration underneath nose, surgical Scars on abdomen from Hysterectomy surgery.",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Sandy",
+            "headHair": "Sandy",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57501",
+            "lastName": "Bierne",
+            "website": "",
+            "comments": "ALT agency: Waterford, SD - contact Det. Dale Peterson",
+            "agency": "S.D. Div. of Criminal Investigation",
+            "address2": "",
+            "city": "Pierre",
+            "address1": "1302 East Highway 14, Suite 5",
+            "jurisdiction": "State",
+            "title": "SSA",
+            "firstName": "John",
+            "phone": "(605)773-3331",
+            "caseNumber": "0104565",
+            "dateReported": "December 10, 2001",
+            "state": "South Dakota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/100",
+            "1": "https://www.findthemissing.org/en/photos/thumb/4423"
+        },
+        "caseInfo": {
+            "lastName": "Dunn",
+            "ageLastSeen": "38 to 38 years old",
+            "race": "White",
+            "ethnicity": "Other",
+            "sex": "Female",
+            "weight": "120.0",
+            "firstName": "Pamela",
+            "dateEntered": "12/12/2008",
+            "lastSeen": "December 10, 2001 17:12",
+            "ageNow": "54 years old",
+            "nickname": "",
+            "middleName": "Jean",
+            "status": "Missing",
+            "height": "62.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "23505": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "unknown",
+            "city": "Huron",
+            "county": "Beadle",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "diabetic",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar right arm",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57350",
+            "lastName": "Ehlers",
+            "website": "",
+            "comments": "",
+            "agency": "Huron PD",
+            "address2": "",
+            "city": "Huron",
+            "address1": "239 Wisconsin Av SW",
+            "jurisdiction": "Local",
+            "title": "Det.",
+            "firstName": "Bill",
+            "phone": "605-353-8550",
+            "caseNumber": "",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/47666"},
+        "caseInfo": {
+            "lastName": "Ruggiero",
+            "ageLastSeen": "36 to years old",
+            "race": "Unsure",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "140.0",
+            "firstName": "David",
+            "dateEntered": "02/13/2014",
+            "lastSeen": "November 07, 2012 00:00",
+            "ageNow": "41 years old",
+            "nickname": "",
+            "middleName": "Paul",
+            "status": "Missing",
+            "height": "66.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "8699": {
+        "circumstances": {
+            "zip": "57104",
+            "circumstances": "Transient Lifestyle",
+            "city": "Sioux Falls",
+            "county": "Minnehaha",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Left Arm- serpent\nAbdomen- \"Dont cry BABY\"\nRight Arm- bug\nLeft ARM- eagle\nLeft ARM- knife",
+            "foreignObjects": "",
+            "hairColor": "Gray or Partially Gray",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Pat",
+            "lastName": "Mertes",
+            "phone": "605-978-6797"
+        },
+        "investigatingAgency": {
+            "zip": "57104",
+            "lastName": "Mertes",
+            "website": "",
+            "comments": "",
+            "agency": "Sioux Falls Police Department",
+            "address2": "",
+            "city": "Sioux Falls",
+            "address1": "320 West 4th Street",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Pat",
+            "phone": "605-367-7212",
+            "caseNumber": "10-69700",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/13933"},
+        "caseInfo": {
+            "lastName": "Harris",
+            "ageLastSeen": "70 to 70 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "120.0",
+            "firstName": "Stanley",
+            "dateEntered": "11/29/2010",
+            "lastSeen": "September 20, 2010 05:23",
+            "ageNow": "77 years old",
+            "nickname": "Harris Walker, James Fisher, Stan Walker Harris",
+            "middleName": "Walker",
+            "status": "Missing",
+            "height": "65.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "9404": {
+        "circumstances": {
+            "zip": "",
+            "city": "Sisseton",
+            "county": "Roberts",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Tattoo left hand",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Lunzman",
+            "website": "http://www.dci.sd.gov",
+            "comments": "",
+            "agency": "SD DCI/Aberdeen Field Office",
+            "address2": "",
+            "city": "Aberdeen",
+            "address1": "",
+            "jurisdiction": "State",
+            "title": "Special Agent",
+            "firstName": "Dave",
+            "phone": "605-380-2603",
+            "caseNumber": "10001655",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/15512",
+            "1": "https://www.findthemissing.org/en/photos/thumb/15513"
+        },
+        "caseInfo": {
+            "lastName": "Lufkins",
+            "ageLastSeen": "23 to 23 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "160.0",
+            "firstName": "Andrew",
+            "dateEntered": "02/02/2011",
+            "lastSeen": "April 07, 2010 15:50",
+            "ageNow": "31 years old",
+            "nickname": "A.J.",
+            "middleName": "Jon",
+            "status": "Missing",
+            "height": "73.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "4430": {
+        "circumstances": {
+            "zip": "57501",
+            "city": "Pierre",
+            "county": "Hughes",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Di Benedetto",
+            "website": "",
+            "comments": "",
+            "agency": "South Dakota Division of Criminal Investigation",
+            "address2": "",
+            "city": "Pierre",
+            "address1": "",
+            "jurisdiction": "State",
+            "title": "Special Agent",
+            "firstName": "Guy",
+            "phone": "605-773-7344",
+            "caseNumber": "0703592",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/5537"},
+        "caseInfo": {
+            "lastName": "Law",
+            "ageLastSeen": "55 to 55 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "125.0 to 130.0",
+            "firstName": "Linda",
+            "dateEntered": "12/30/2009",
+            "lastSeen": "August 16, 2002 08:40",
+            "ageNow": "70 years old",
+            "nickname": "Marie",
+            "middleName": "Marie",
+            "status": "Missing",
+            "height": "68.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "35793": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Pah Pow was last seen near her home on April 17, 2016 at 11pm. She did not show up for her shift at the DemKota Ranch and has had no contact with family and friends.",
+            "city": "Aberdeen",
+            "county": "Brown",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "",
+            "website": "",
+            "comments": "",
+            "agency": "SD DCI",
+            "address2": "",
+            "city": "",
+            "address1": "",
+            "jurisdiction": "",
+            "title": "",
+            "firstName": "",
+            "phone": "",
+            "caseNumber": "1602748",
+            "dateReported": "",
+            "state": ""
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/67490",
+            "1": "https://www.findthemissing.org/en/photos/thumb/67491",
+            "2": "https://www.findthemissing.org/en/photos/thumb/67492"
+        },
+        "caseInfo": {
+            "lastName": "Pow",
+            "ageLastSeen": "30 to 30 years old",
+            "race": "Asian or Pacific Islander",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "110.0",
+            "firstName": "Pah",
+            "dateEntered": "10/24/2016",
+            "lastSeen": "April 17, 2016 00:00",
+            "ageNow": "32 years old",
+            "nickname": "",
+            "middleName": "",
+            "status": "Missing",
+            "height": "62.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "23520": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "MP was last seen in Eagle Butte July 2013",
+            "city": "Eagle Butte",
+            "county": "Dewey",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "tattoo right shoulder",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "LeCompte",
+            "website": "",
+            "comments": "",
+            "agency": "Cheyenne River Sioux",
+            "address2": "",
+            "city": "Eagle Butte",
+            "address1": "",
+            "jurisdiction": "Other",
+            "title": "Chief",
+            "firstName": "",
+            "phone": "605-964-4567",
+            "caseNumber": "20132011",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {},
+        "caseInfo": {
+            "lastName": "Hoffman",
+            "ageLastSeen": "48 to years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "135.0",
+            "firstName": "Lester",
+            "dateEntered": "02/14/2014",
+            "lastSeen": "July 01, 2013 00:00",
+            "ageNow": "52 years old",
+            "nickname": "",
+            "middleName": "W",
+            "height": "65.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "23488": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "MP left Rapid City on foot headed for his home in Pine Ridge. MP was elderly, crippled and almost blind.",
+            "city": "Rapid City",
+            "county": "Pennington",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "MP is nearly blind",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar lower back between T7 to T 9",
+            "prosthetics": "",
+            "tattoos": "Tattoo of an Indian woman head, possibly on upper right arm",
+            "foreignObjects": "",
+            "hairColor": "Gray or Partially Gray",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": "Right tibia and fibula were both broken and tibia is now deformed; Pine Ridge Hospital has x rays"
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57701",
+            "lastName": "Keefe",
+            "website": "",
+            "comments": "",
+            "agency": "Rapid City PD",
+            "address2": "",
+            "city": "Rapid City",
+            "address1": "300 Kansas City St #200",
+            "jurisdiction": "Local",
+            "title": "Det.",
+            "firstName": "Wayne",
+            "phone": "605-394-4134",
+            "caseNumber": "04-14129",
+            "dateReported": "July 20, 2004",
+            "state": "South Dakota"
+        },
+        "photos": {},
+        "caseInfo": {
+            "lastName": "Whitecalf",
+            "ageLastSeen": "71 to 71 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "150.0",
+            "firstName": "Richard",
+            "dateEntered": "02/11/2014",
+            "lastSeen": "July 13, 2004 00:00",
+            "ageNow": "84 years old",
+            "nickname": "Rick Whitecalf",
+            "middleName": "Francis",
+            "status": "Missing",
+            "height": "66.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "17828": {
+        "circumstances": {
+            "zip": "57747",
+            "circumstances": "Catherine Tornquist was last seen in Hot Springs, SD.",
+            "city": "Hot Springs",
+            "county": "Fall River",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Gray or Partially Gray",
+            "headHair": "Long Gray/dark hair to the middle of her back",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57709",
+            "lastName": "West",
+            "website": "",
+            "comments": "",
+            "agency": "South Dakota Division of Criminal Investigation",
+            "address2": "",
+            "city": "Rapid City",
+            "address1": "PO Box 70",
+            "jurisdiction": "State",
+            "title": "Supervisory Special",
+            "firstName": "Patrick",
+            "phone": "605-394-2258 ext. 119",
+            "caseNumber": "1104977",
+            "dateReported": "October 07, 2011",
+            "state": "South Dakota"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/35428"},
+        "caseInfo": {
+            "lastName": "Tornquist",
+            "ageLastSeen": "56 to 56 years old",
+            "race": "White",
+            "ethnicity": "Other",
+            "sex": "Female",
+            "weight": "130.0",
+            "firstName": "Catherine",
+            "dateEntered": "10/18/2012",
+            "lastSeen": "October 04, 2011 19:30",
+            "ageNow": "62 years old",
+            "nickname": "",
+            "middleName": "Marie",
+            "status": "Missing",
+            "height": "60.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "35773": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Larissa was last known to be heading from Pine Ridge to Rapid City, SD. Information gathered has led detectives to believe Larissa is deceased. Detectives believe her body may have been disposed of within a 100-mile radius of Rapid City.",
+            "city": "Rapid City",
+            "county": "Pennington",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Bear claw on hand\n\"Luda\", \"Mom\" and \"Lisa\" on unknown locations on the body",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57701",
+            "lastName": "Gebhard",
+            "website": "",
+            "comments": "",
+            "agency": "Rapid City Police Department",
+            "address2": "",
+            "city": "Rapid City",
+            "address1": "300 Kansas City St # 302",
+            "jurisdiction": "",
+            "title": "Detective",
+            "firstName": "Ryan",
+            "phone": "605-394-4134",
+            "caseNumber": "2016-216159",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/67603",
+            "1": "https://www.findthemissing.org/en/photos/thumb/67604",
+            "2": "https://www.findthemissing.org/en/photos/thumb/68411"
+        },
+        "caseInfo": {
+            "lastName": "Lonehill",
+            "ageLastSeen": "21 to 21 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "120.0 to 130.0",
+            "firstName": "Larissa",
+            "dateEntered": "10/22/2016",
+            "lastSeen": "October 01, 2016 00:00",
+            "ageNow": "22 years old",
+            "nickname": "Lisa",
+            "middleName": "",
+            "status": "Missing",
+            "height": "63.0 to 64.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "34563": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Kevin Marshall was last seen on May 19, 2016 in Eagle Butte as he was leaving to attend his daughter's graduation ceremony in Rapid City, SD on May 21st. Kevin missed the graduation ceremony and hasn't been seen since.",
+            "city": "Eagle Butte",
+            "county": "Dewey",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "2011 broken jaw - fracture to the chin and may have a plate or pin",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on left top of head (approx. 1.5 inches long)\n\nCircle shaped birthmark on left elbow (1-1.5 inches in diameter)",
+            "prosthetics": "",
+            "tattoos": "Right forearm: \"Jewett\"\nLeft arm: initials \"CH\"\nLeft forearm: initials \"KDM\"\nLeft arm: Skull with joker hat\nRight side of neck: Medicine wheel (circle with cross in the center) - this tattoo has been filled in to make a larger unknown tattoo",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "Short",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57625",
+            "lastName": "LeBeau",
+            "website": "",
+            "comments": "",
+            "agency": "Cheyenne River Sioux Tribal Police",
+            "address2": "",
+            "city": "Eagle Butte",
+            "address1": "PO Box 590",
+            "jurisdiction": "",
+            "title": "Detective",
+            "firstName": "Larry",
+            "phone": "605-964-4700",
+            "caseNumber": "1611570",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/64651"},
+        "caseInfo": {
+            "lastName": "Marshall",
+            "ageLastSeen": "38 to 38 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "165.0 to 190.0",
+            "firstName": "Kevin",
+            "dateEntered": "07/27/2016",
+            "lastSeen": "May 19, 2016 00:00",
+            "ageNow": "39 years old",
+            "nickname": "",
+            "middleName": "Duane",
+            "status": "Missing",
+            "height": "70.0 to 71.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "23483": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Stanley Strole was last seen on 03/15/1979 in Aberdeen, SD.",
+            "city": "Aberdeen",
+            "county": "Brown",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57401",
+            "lastName": "",
+            "website": "",
+            "comments": "",
+            "agency": "Aberdeen PD",
+            "address2": "",
+            "city": "Aberdeen",
+            "address1": "114 2nd Ave SE",
+            "jurisdiction": "",
+            "title": "",
+            "firstName": "",
+            "phone": "605-626-7000",
+            "caseNumber": "44604",
+            "dateReported": "March 17, 1986",
+            "state": "South Dakota"
+        },
+        "photos": {},
+        "caseInfo": {
+            "lastName": "Strole",
+            "ageLastSeen": "37 to 37 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "150.0",
+            "firstName": "Stanley",
+            "dateEntered": "02/11/2014",
+            "lastSeen": "March 15, 1979 00:00",
+            "ageNow": "76 years old",
+            "nickname": "",
+            "middleName": "Alan",
+            "height": "71.0 to 73.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "42134": {
+        "circumstances": {
+            "zip": "57078",
+            "circumstances": "David was last seen leaving the Broadway Inn hotel on his cell phone heading north through the parking lot.",
+            "city": "Yankton",
+            "county": "Yankton",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "Typically clean shaven",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "Wears glasses",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Tattoo left forearm: Sleeve of soldier\nTattoo right arm: Demon sleeve\n\nUnknown tattoos on back, right hand and right leg; other tattoos of an hourglass and \"Carolina\" in unknown locations",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Light brown, typically worn very short or shaved",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57078",
+            "lastName": "Bass",
+            "website": "",
+            "comments": "",
+            "agency": "Yankton Police Department",
+            "address2": "Ste. 102",
+            "city": "Yankton",
+            "address1": "410 Walnut",
+            "jurisdiction": "Other",
+            "title": "Detective",
+            "firstName": "Stewart",
+            "phone": "605-668-5210",
+            "caseNumber": "201800513PD",
+            "dateReported": "January 19, 2018",
+            "state": "South Dakota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/82030",
+            "1": "https://www.findthemissing.org/en/photos/thumb/82031"
+        },
+        "caseInfo": {
+            "lastName": "Courtney",
+            "ageLastSeen": "40 to 40 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "160.0",
+            "firstName": "David",
+            "dateEntered": "02/08/2018",
+            "lastSeen": "January 04, 2018 23:00",
+            "ageNow": "40 years old",
+            "nickname": "Carolina",
+            "middleName": "Wayne",
+            "status": "Missing",
+            "height": "68.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "40010": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Donna was living in Rapid City with her mother and family. She left to take a bus to California to visit her father but it is unknown if she ever arrived. Donna was never seen or heard from again.",
+            "city": "Rapid City",
+            "county": "Pennington",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57701",
+            "lastName": "Keefe",
+            "website": "",
+            "comments": "",
+            "agency": "Rapid City Police Department",
+            "address2": "",
+            "city": "Rapid City",
+            "address1": "300 Kansas City St",
+            "jurisdiction": "",
+            "title": "Detective",
+            "firstName": "Wayne",
+            "phone": "605-394-4133",
+            "caseNumber": "17-211020",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/78087"},
+        "caseInfo": {
+            "lastName": "Larrabee",
+            "ageLastSeen": "16 to 16 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "120.0",
+            "firstName": "Donna",
+            "dateEntered": "09/28/2017",
+            "lastSeen": "November 17, 1976 00:00",
+            "ageNow": "57 years old",
+            "nickname": "",
+            "middleName": "Marie",
+            "status": "Missing",
+            "height": "66.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "4382": {
+        "circumstances": {
+            "zip": "57625",
+            "city": "Eagle Butte",
+            "county": "Dewey",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Black",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Black",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Laura",
+            "lastName": "Desmond",
+            "phone": "703-224-2150"
+        },
+        "investigatingAgency": {
+            "zip": "57747",
+            "lastName": "Evans",
+            "website": "",
+            "comments": "",
+            "agency": "Fall River County Sheriff's Office",
+            "address2": "",
+            "city": "Hot Springs",
+            "address1": "906 North River Street",
+            "jurisdiction": "County",
+            "title": "Sheriff",
+            "firstName": "Bob",
+            "phone": "605-745-4444",
+            "caseNumber": "63037R",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/5463",
+            "1": "https://www.findthemissing.org/en/photos/thumb/5464"
+        },
+        "caseInfo": {
+            "lastName": "Baldeagle",
+            "ageLastSeen": "12 to 12 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "110.0",
+            "ncmec number": "600185",
+            "firstName": "Sharon",
+            "dateEntered": "12/28/2009",
+            "lastSeen": "September 18, 1984 06:22",
+            "ageNow": "45 years old",
+            "nickname": "",
+            "middleName": "",
+            "status": "Missing",
+            "height": "63.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Brenda",
+            "lastName": "Galarza",
+            "phone": "703-837-6276",
+            "email": "namus@ncmec.org"
+        }
+    },
+    "39441": {
+        "circumstances": {
+            "zip": "57701",
+            "circumstances": "Olivia was last known to be living on the streets and at a rescue mission in Rapid City, SD. Family has not heard from her since August 2014 and there have been no sightings of Olivia or contact with friends.",
+            "city": "Rapid City",
+            "county": "Pennington",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "Ears and tongue",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "Almond shaped",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Top right back: \"Meila\"",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "Curly",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57754",
+            "lastName": "Jones",
+            "website": "",
+            "comments": "",
+            "agency": "Lead City Police Department",
+            "address2": "",
+            "city": "Lead",
+            "address1": "801 W Main St",
+            "jurisdiction": "",
+            "title": "Officer",
+            "firstName": "Scott",
+            "phone": "605-584-1615",
+            "caseNumber": "201702441",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/76160",
+            "1": "https://www.findthemissing.org/en/photos/thumb/76424"
+        },
+        "caseInfo": {
+            "lastName": "Derrek",
+            "ageLastSeen": "22 to 22 years old",
+            "race": "Black/African American",
+            "ethnicity": "Other",
+            "sex": "Female",
+            "weight": "105.0 to 110.0",
+            "firstName": "Olivia",
+            "dateEntered": "08/10/2017",
+            "lastSeen": "August 04, 2014 12:15",
+            "ageNow": "25 years old",
+            "nickname": "Liv",
+            "middleName": "Asia-Jacqueline",
+            "status": "Missing",
+            "height": "65.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "41980": {
+        "circumstances": {
+            "zip": "57732",
+            "city": "Deadwood",
+            "county": "Lawrence",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "Previously wore ear plugs",
+            "otherCharacteristics": "",
+            "facialHair": "Goatee",
+            "skeletalInformation": "",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "No glasses or contacts",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Back: \"Stay True\"\nRight side rib cage: \"OIEN\"\nRight pectoral: tattoo resembling a bear claw\nRight lower abdomen: unknown tattoo",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "Mainly worn short, buzzed",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57732",
+            "lastName": "Derby",
+            "website": "",
+            "comments": "",
+            "agency": "Lawrence County Sheriff's Office",
+            "address2": "",
+            "city": "Deadwood",
+            "address1": "80 Sherman St",
+            "jurisdiction": "County",
+            "title": "Detective",
+            "firstName": "Tom",
+            "phone": "605-578-2230",
+            "caseNumber": "",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/81674"},
+        "caseInfo": {
+            "lastName": "Oien",
+            "ageLastSeen": "28 to 28 years old",
+            "race": "White",
+            "ethnicity": "Other",
+            "sex": "Male",
+            "weight": "155.0 to 165.0",
+            "firstName": "Christopher",
+            "dateEntered": "01/29/2018",
+            "lastSeen": "January 15, 2018 01:30",
+            "ageNow": "28 years old",
+            "nickname": "",
+            "middleName": "David",
+            "status": "Missing",
+            "height": "71.0 to 72.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "31281": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Alejandro walked out of his brother's trailer house and hasn't been seen or heard from by family and friend since.",
+            "city": "Kyle",
+            "county": "Shannon",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57770",
+            "lastName": "Robinson",
+            "website": "",
+            "comments": "",
+            "agency": "Pine Ridge PD",
+            "address2": "US-18",
+            "city": "Pine Ridge",
+            "address1": "",
+            "jurisdiction": "Other",
+            "title": "Investigator",
+            "firstName": "Darrell",
+            "phone": "605-867-2931",
+            "caseNumber": "A0L316-I-15-087",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/59853"},
+        "caseInfo": {
+            "lastName": "Vasquez",
+            "ageLastSeen": "24 to 24 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "200.0",
+            "firstName": "Alejandro",
+            "dateEntered": "12/01/2015",
+            "lastSeen": "October 29, 2015 00:00",
+            "ageNow": "26 years old",
+            "nickname": "Alex Gay; \"Tank\"",
+            "middleName": "",
+            "status": "Missing",
+            "height": "67.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "24046": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "A civil Rights Activist, MP travelled to South Dakota from Alabama, to participate in the American Indian Movement (AIM) takeover of Wounded Knee.",
+            "city": "Pine Ridge",
+            "county": "Shannon",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "beard",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Boeckers",
+            "website": "",
+            "comments": "",
+            "agency": "FBI",
+            "address2": "",
+            "city": "Minneapolis",
+            "address1": "",
+            "jurisdiction": "Federal",
+            "title": "S/A",
+            "firstName": "Christopher",
+            "phone": "763-569-8000",
+            "caseNumber": "198A-MP-58339",
+            "dateReported": "",
+            "state": "Minnesota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/43554",
+            "1": "https://www.findthemissing.org/en/photos/thumb/43555"
+        },
+        "caseInfo": {
+            "lastName": "Robinson Jr.",
+            "ageLastSeen": "35 to years old",
+            "race": "Black/African American",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "200.0",
+            "firstName": "Perry",
+            "dateEntered": "04/01/2014",
+            "lastSeen": "April 01, 1973 00:00",
+            "ageNow": "80 years old",
+            "nickname": "Ray",
+            "middleName": "Ray",
+            "status": "Missing",
+            "height": "74.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "23497": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Grant was last seen on 04/03/2012 in Sioux Falls, SD.",
+            "city": "Sioux Falls",
+            "county": "Minnehaha",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Tattoos on chest and right shoulder",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Walsh",
+            "website": "",
+            "comments": "",
+            "agency": "Minnehaha county S/O",
+            "address2": "",
+            "city": "Sioux Falls",
+            "address1": "",
+            "jurisdiction": "County",
+            "title": "Sgt.",
+            "firstName": "Mike",
+            "phone": "605-367-4300",
+            "caseNumber": "12-2917",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/42420"},
+        "caseInfo": {
+            "lastName": "Cramer",
+            "ageLastSeen": "40 to 40 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "200.0",
+            "firstName": "Grant",
+            "dateEntered": "02/12/2014",
+            "lastSeen": "April 03, 2012 00:00",
+            "ageNow": "46 years old",
+            "nickname": "",
+            "middleName": "Robert",
+            "status": "Missing",
+            "height": "72.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "7193": {
+        "circumstances": {
+            "zip": "57103",
+            "city": "SIoux Falls",
+            "county": "Minnehaha",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Blue",
+            "fingersAndToeNails": "",
+            "eyeDescription": "Blind in left eye",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scar on abdomen",
+            "prosthetics": "",
+            "tattoos": "Knife with skull on the forearm",
+            "foreignObjects": "",
+            "hairColor": "Sandy",
+            "headHair": "",
+            "rightEyeColor": "Blue",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Pat",
+            "lastName": "Mertes",
+            "phone": "605-978-6797"
+        },
+        "investigatingAgency": {
+            "zip": "57104",
+            "lastName": "Mertes",
+            "website": "",
+            "comments": "",
+            "agency": "Sioux Falls Police Department",
+            "address2": "",
+            "city": "Sioux Falls",
+            "address1": "320 West 4th Street",
+            "jurisdiction": "Local",
+            "title": "Detective",
+            "firstName": "Pat",
+            "phone": "605-367-7212",
+            "caseNumber": "2004-74711",
+            "dateReported": "January 06, 1996",
+            "state": "South Dakota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/11106",
+            "1": "https://www.findthemissing.org/en/photos/thumb/11107"
+        },
+        "caseInfo": {
+            "lastName": "Odman Sr.",
+            "ageLastSeen": "53 to 53 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "175.0 to 190.0",
+            "firstName": "Robert",
+            "dateEntered": "05/18/2010",
+            "lastSeen": "January 06, 1996 21:44",
+            "ageNow": "75 years old",
+            "nickname": "",
+            "middleName": "Lue Verne",
+            "status": "Missing",
+            "height": "74.0 to 75.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "35701": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Richard was last seen on 08/16/2016 in Eagle Butte, SD.",
+            "city": "Eagle Butte",
+            "county": "Dewey",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Right forearm: \"7\"\nShoulder: An eagle\nShoulder: Outline of a flag with the word \"Huly\"",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "57625",
+            "lastName": "LeBeau",
+            "website": "",
+            "comments": "",
+            "agency": "Cheyenne River Tribal Police",
+            "address2": "",
+            "city": "Eagle Butte",
+            "address1": "PO Box 590",
+            "jurisdiction": "Other",
+            "title": "Detective",
+            "firstName": "Larry",
+            "phone": "605-964-4700",
+            "caseNumber": "CRA-16-81",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {"0": "https://www.findthemissing.org/en/photos/thumb/71981"},
+        "caseInfo": {
+            "lastName": "Larrabee Sr.",
+            "ageLastSeen": "40 to 40 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "165.0 to 180.0",
+            "firstName": "Richard",
+            "dateEntered": "10/17/2016",
+            "lastSeen": "August 16, 2016 00:00",
+            "ageNow": "42 years old",
+            "nickname": "",
+            "middleName": "Alexander",
+            "status": "Missing",
+            "height": "73.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "4433": {
+        "circumstances": {
+            "zip": "57717",
+            "circumstances": "Beverly Ann Ozuna-Ulrich has been missing since October 17, 2003. She was last seen at her home in Belle Fourche, Spearfish, South Dakota area.",
+            "city": "Belle Fourche",
+            "county": "Butte",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "Right eyebrow is pierced.",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "Tattoo \"Steven\" on upper arm.",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "Black/Graying;Hair may be medium to long.",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "describe": "NamUs RSS",
+            "relationship": "NamUs Staff",
+            "email": "Jessica.Hager@unthsc.edu"
+        },
+        "investigatingAgency": {
+            "zip": "57717",
+            "lastName": "Lamphere",
+            "website": "",
+            "comments": "SD DCI, S.A. Steve Ardis 605-391-6661 for further details",
+            "agency": "Butte county s/o",
+            "address2": "",
+            "city": "Belle Fourche",
+            "address1": "839 5th av #5",
+            "jurisdiction": "County",
+            "title": "Sheriff",
+            "firstName": "Fred",
+            "phone": "605-892-2737",
+            "caseNumber": "484-03",
+            "dateReported": "October 17, 2003",
+            "state": "South Dakota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/5541",
+            "1": "https://www.findthemissing.org/en/photos/thumb/5542",
+            "2": "https://www.findthemissing.org/en/photos/thumb/5543"
+        },
+        "caseInfo": {
+            "lastName": "Ozuna-Ulrich",
+            "ageLastSeen": "42 to 42 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "130.0",
+            "firstName": "Beverly",
+            "dateEntered": "12/30/2009",
+            "lastSeen": "October 17, 2003 09:38",
+            "ageNow": "57 years old",
+            "nickname": "\"Beverly Ann Ulrich\"",
+            "middleName": "Ann",
+            "status": "Missing",
+            "height": "61.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        }
+    },
+    "8614": {
+        "circumstances": {
+            "zip": "57104",
+            "city": "Sioux Falls",
+            "county": "Minnehaha",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "N/A",
+            "skeletalInformation": "",
+            "leftEyeColor": "Green",
+            "fingersAndToeNails": "",
+            "eyeDescription": "N/A",
+            "bodyHair": "N/A",
+            "amputations": "",
+            "scarsAndMarks": "",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Brown",
+            "headHair": "N/A",
+            "rightEyeColor": "Green",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Tim",
+            "lastName": "Hagen",
+            "phone": "605-978-6656"
+        },
+        "investigatingAgency": {
+            "zip": "57104",
+            "lastName": "Hagen",
+            "website": "",
+            "comments": "Foul Play expected- Victim never recovered",
+            "agency": "Sioux Falls Police Department",
+            "address2": "",
+            "city": "Sioux Falls",
+            "address1": "320 W. 4th St.",
+            "jurisdiction": "Local",
+            "title": "Sgt.",
+            "firstName": "Tim",
+            "phone": "605-978-6656",
+            "caseNumber": "1974-4456",
+            "dateReported": "March 07, 1974",
+            "state": "South Dakota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/13684",
+            "1": "https://www.findthemissing.org/en/photos/thumb/61029",
+            "2": "https://www.findthemissing.org/en/photos/thumb/61030"
+        },
+        "caseInfo": {
+            "lastName": "Lodermeier",
+            "ageLastSeen": "25 to 25 years old",
+            "race": "White",
+            "ethnicity": "Other",
+            "sex": "Female",
+            "weight": "105.0",
+            "firstName": "Ella Beth",
+            "dateEntered": "11/11/2010",
+            "lastSeen": "March 06, 1974 15:42",
+            "ageNow": "69 years old",
+            "nickname": "Beth",
+            "middleName": "",
+            "status": "Missing",
+            "height": "61.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "23091": {
+        "circumstances": {
+            "zip": "57385",
+            "circumstances": "Rachel Cyriacks was last seen the morning of Nov 13, 2013 in Woonsocket, SD. Rachel was driving a gray, 1995 Chev. Silverado pickup.",
+            "city": "Mitchell",
+            "county": "Davison",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "Noticeable dimple on right cheek",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Hazel",
+            "fingersAndToeNails": "",
+            "eyeDescription": "",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scars on abdomen",
+            "prosthetics": "",
+            "tattoos": "Left neck - word \"Bradley\" in black script\nLeft hip - blue Playboy bunny logo\nLower middle back - black tribal type heart\nRight forearm - two large red flowers, stars, tree and initials \"RJ\" / tattoo extends from wrist to elbow - photos of tattoos in IMAGES",
+            "foreignObjects": "",
+            "hairColor": "Sandy",
+            "headHair": "Brown or may be dyed with blond highlights",
+            "rightEyeColor": "Hazel",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jason",
+            "lastName": "Coenen",
+            "phone": "605-796-4511"
+        },
+        "investigatingAgency": {
+            "zip": "57501-8505",
+            "lastName": "Neuharth",
+            "website": "",
+            "comments": "",
+            "agency": "Division of Criminal Investigation - South Dakota",
+            "address2": "George Mickelson Criminal Justice Center",
+            "city": "Pierre",
+            "address1": "1302 E. Hwy. 14, Suite 5",
+            "jurisdiction": "State",
+            "title": "Special Agent",
+            "firstName": "Tyler",
+            "phone": "605-770-0311",
+            "caseNumber": "1306989",
+            "dateReported": "December 16, 2013",
+            "state": "South Dakota"
+        },
+        "photos": {
+            "0": "https://www.findthemissing.org/en/photos/thumb/41580",
+            "1": "https://www.findthemissing.org/en/photos/thumb/68429",
+            "2": "https://www.findthemissing.org/en/photos/thumb/68431",
+            "3": "https://www.findthemissing.org/en/photos/thumb/68433"
+        },
+        "caseInfo": {
+            "lastName": "Cyriacks",
+            "ageLastSeen": "30 to 30 years old",
+            "race": "White",
+            "ethnicity": "",
+            "sex": "Female",
+            "weight": "130.0 to 140.0",
+            "firstName": "Rachel",
+            "dateEntered": "01/03/2014",
+            "lastSeen": "November 11, 2013 00:00",
+            "ageNow": "34 years old",
+            "nickname": "",
+            "middleName": "Lucille",
+            "status": "Missing",
+            "height": "65.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    },
+    "14701": {
+        "circumstances": {
+            "zip": "",
+            "circumstances": "Terry was last seen on 11/14/1991 in Rapid City, SD.",
+            "city": "Rapid City",
+            "county": "Pennington",
+            "state": "South Dakota"
+        },
+        "characteristics": {
+            "piercings": "",
+            "otherCharacteristics": "",
+            "facialHair": "",
+            "skeletalInformation": "",
+            "leftEyeColor": "Brown",
+            "fingersAndToeNails": "",
+            "eyeDescription": "Previous right eye injury, has a glass eye",
+            "bodyHair": "",
+            "amputations": "",
+            "scarsAndMarks": "Scars on legs, wrists and abdomen",
+            "prosthetics": "",
+            "tattoos": "",
+            "foreignObjects": "",
+            "hairColor": "Black",
+            "headHair": "",
+            "rightEyeColor": "Brown",
+            "deformities": ""
+        },
+        "caseManager": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765"
+        },
+        "investigatingAgency": {
+            "zip": "",
+            "lastName": "Long",
+            "website": "",
+            "comments": "",
+            "agency": "BIA - Pine Ridge Agency",
+            "address2": "",
+            "city": "Pine Ridge",
+            "address1": "",
+            "jurisdiction": "Federal",
+            "title": "S/A",
+            "firstName": "John",
+            "phone": "605-867-2931 *285",
+            "caseNumber": "",
+            "dateReported": "",
+            "state": "South Dakota"
+        },
+        "photos": {},
+        "caseInfo": {
+            "lastName": "Good Voice Elk",
+            "ageLastSeen": "26 to 26 years old",
+            "race": "Native American",
+            "ethnicity": "",
+            "sex": "Male",
+            "weight": "180.0 to 190.0",
+            "firstName": "Terry",
+            "dateEntered": "05/11/2012",
+            "lastSeen": "November 14, 1991 00:00",
+            "ageNow": "53 years old",
+            "nickname": "Waters, Terry",
+            "middleName": "Joseph",
+            "height": "67.0 to 69.0"
+        },
+        "regionalAdministrator": {
+            "firstName": "Jessica",
+            "lastName": "Hager",
+            "phone": "817-374-2765",
+            "email": "Jessica.Hager@unthsc.edu"
+        }
+    }
+}
