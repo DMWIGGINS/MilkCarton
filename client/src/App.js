@@ -9,6 +9,12 @@ import Resources from "./pages/Resources"
 
 // The app component that is being rendered at the root in index.html
 class App extends Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+        loggedIn: false
+    };
+}
   render() {
     return (
       <div className="App">
