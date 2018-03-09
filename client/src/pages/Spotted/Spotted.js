@@ -4,7 +4,7 @@ import {Row, Col, Button, Container, Input} from 'react-materialize';
 import MyMapComponent from "../../components/GoogleMaps/GoogleMaps.js";
 
 
-class Search extends Component {
+class Spotted extends Component {
     render() {
         return (
             <Container>
@@ -32,4 +32,4 @@ class Search extends Component {
     }
 }
   
-export default Search;
+export default Spotted;

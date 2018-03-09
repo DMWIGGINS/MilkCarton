@@ -1,3 +1,9 @@
+body {
+    background-image: url(../../components/Views/milkcartons.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .login-buttons > button {
     margin: 0 10px;
 }
