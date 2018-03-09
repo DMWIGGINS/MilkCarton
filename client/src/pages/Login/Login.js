@@ -8,6 +8,7 @@ import logo from './milkcartonlogo.png';
 class Login extends Component {
     handleLoginResponse(response) {
         if (response.error == null) {
+            this.props.setLoginState(true);
             fetch('api/user/login', {
                 method: 'POST',
                 body: JSON.stringify(response.profileObj),
@@ -17,33 +18,54 @@ class Login extends Component {
             }).then(res => {
                 return res
             }).catch(err => err);
+        } else {
+            this.props.setLoginState(false);
         }
     }
+    handleLogout() {
+        this.props.setLoginState(false);
+    }
     render() {
+        let loginOrOut = null;
+        let savedCaseButton = null;
+        if (this.props.loggedIn) {
+            loginOrOut = (<Button 
+                className="login-buttons center-align black" 
+                waves='light' 
+                onClick= {this.handleLogout.bind(this)}>Logout</Button>)
+            savedCaseButton = (<Button 
+                className="login-buttons center-align black" 
+                waves='light' 
+                node="a" 
+                href="/saved">Saved Cases</Button>);
+        } else {
+            loginOrOut = (<GoogleLogin
+                clientId="277659205285-9aqgv54koa3l693gcqcs2knt9lqrg9e9.apps.googleusercontent.com"
+                buttonText="Login with Google"
+                className="login-buttons center-align black"
+                onSuccess={this.handleLoginResponse.bind(this)}
+                onFailure={this.handleLoginResponse.bind(this)}
+                style={{}} // This clears out the style from the component
+            />);
+        }
         return (
                 <Row className="body-background-gradient">
-                    <Col s={5} className="login-gradient">
+                    <Col s={12} m={5} className="login-gradient">
                     <div className="login-gradient-content">
                         <img className="logo" src={logo} alt={"logo"}/>
                         <Heading level={1}>Milk Carton</Heading>
-                        <GoogleLogin
-                        clientId="277659205285-9aqgv54koa3l693gcqcs2knt9lqrg9e9.apps.googleusercontent.com"
-                        buttonText="Login with Google"
-                        className="login-buttons center-align black"
-                        onSuccess={this.handleLoginResponse}
-                        onFailure={this.handleLoginResponse}
-                        style={{}} // This clears out the style from the component
-                        />
+                        {loginOrOut}
                         <div className="or-seperator">
                            <div className="line"></div>
                            <div className="or-text">or</div> 
                            <div className="line"></div> 
                         </div>
-                        <Button className="login-buttons center-align black" waves='light'>Search Cases</Button>
-                        <Button className="login-buttons black" waves='light'>Resources</Button>
+                        {savedCaseButton}
+                        <Button className="login-buttons center-align black" waves='light' node="a" href="/search">Search Cases</Button>
+                        <Button className="login-buttons black" waves='light' node="a" href="/resources">Resources</Button>
                         </div>
                     </Col>
-                    <Col s={7} className="login-banner center-align">
+                    <Col m={7} className="login-banner center-align">
                         <div>
                         <Heading level={2}>FIND MISSING PERSONS</Heading>
                         <Heading level={5}>Search Cases. Report Sightings. Save lives.</Heading>

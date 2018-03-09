@@ -90,3 +90,9 @@ body {
     font-weight: 200;
     margin: 0;
 }
+
+@media only screen and (max-width: 600px) {
+    .col.login-banner {
+        display: none;
+    }
+}
