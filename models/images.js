@@ -8,7 +8,7 @@ module.exports = (sequelize, DataTypes) => {
     photo: {
       type: DataTypes.STRING,
       allowNull: true
-    },
+    }
   }, {});
   Images.associate = function (models) {
     models.Images.belongsTo(models.Person, {
