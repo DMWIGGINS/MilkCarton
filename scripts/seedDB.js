@@ -3,6 +3,7 @@ const db = require("../models");
 const missingPersonResults = require("../results.json");
 
 function gatherData(results) {
+
     for (var key in results) {
         const currentCase = results[key];
         const missingPerson = {
@@ -11,11 +12,8 @@ function gatherData(results) {
             caseNumber: key,
 
             // circumstances
-            zip: currentCase.circumstances.zip,
             circumstances: currentCase.circumstances.circumstances,
-            city: currentCase.circumstances.city,
-            county: currentCase.circumstances.county,
-            state: currentCase.circumstances.state,
+
 
             // characteristics
             piercings: currentCase.characteristics.piercings,
@@ -76,8 +74,17 @@ function gatherData(results) {
             adminFirstName: currentCase.regionalAdministrator.firstName,
             adminLastName: currentCase.regionalAdministrator.lastName,
             adminPhone: currentCase.regionalAdministrator.phone,
-            email: currentCase.regionalAdministrator.email,
+            email: currentCase.regionalAdministrator.email
         }
+
+        // missingPerson.Sightings = [];
+        // missingPerson.Sightings.push({
+        //     caseNumber: key,
+        //     city: currentCase.circumstances.city,
+        //     state: currentCase.circumstances.state,
+        //     zip: currentCase.circumstances.zip,
+        //     county: currentCase.circumstances.county
+        // }),
 
         missingPerson.Images = [];
         for (var imageKey in currentCase.photos) {
@@ -86,15 +93,30 @@ function gatherData(results) {
                 photo: currentCase.photos[imageKey]
             })
         }
-        db.Person.create(missingPerson, {include: [db.Images]}).then(function (data, err){
+
+        // console.log(missingPerson.Images);
+        db.Person.create(missingPerson, {
+            include: [db.Images],
+            // include: [db.Sightings]
+        }).then(function (data, err) {
             if (err) {
                 console.log("Something went wrong...")
             } else {
                 console.log("That worked!")
             }
         })
+        // db.Person.insert(missingPerson, {
+        //     include: [db.Sightings],
+        // }).then(function (data, err) {
+        //     if (err) {
+        //         console.log("Something went wrong...")
+        //     } else {
+        //         console.log("That worked!")
+        //     }
+        // })
     }
 };
-// db.Person.bulkInsert('missingPersonData')
+
+
 
 gatherData(missingPersonResults);

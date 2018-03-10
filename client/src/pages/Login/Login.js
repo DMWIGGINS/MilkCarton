@@ -1,4 +1,5 @@
 import "./login.css";
+import "../common.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
 import {Row, Col, Button} from 'react-materialize'
@@ -50,8 +51,8 @@ class Login extends Component {
         }
         return (
                 <Row className="body-background-gradient">
-                    <Col s={12} m={5} className="login-gradient">
-                    <div className="login-gradient-content">
+                    <Col s={12} m={5} className="left-gradient">
+                    <div className="left-gradient-content">
                         <img className="logo" src={logo} alt={"logo"}/>
                         <Heading level={1}>Milk Carton</Heading>
                         {loginOrOut}
@@ -65,8 +66,8 @@ class Login extends Component {
                         <Button className="login-buttons black" waves='light' node="a" href="/resources">Resources</Button>
                         </div>
                     </Col>
-                    <Col m={7} className="login-banner center-align">
-                        <div>
+                    <Col m={7} className="right-banner center-align">
+                        <div className="right-banner-text">
                         <Heading level={2}>FIND MISSING PERSONS</Heading>
                         <Heading level={5}>Search Cases. Report Sightings. Save lives.</Heading>
                         </div>

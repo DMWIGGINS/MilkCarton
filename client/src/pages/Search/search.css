@@ -1,7 +1,5 @@
-body {
-    background-image: url(../../components/Views/milkcartons.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
+.col.right-banner.search-page {
+    align-items: center;
 }
 
 .login-buttons > button {
@@ -15,4 +13,13 @@ body {
 }
 .google-login:hover {
     text-decoration: underline;
+}
+
+.search-page .carousel {
+    height: 100%;
+}
+
+.search-page .carousel .carousel-item {
+    width: 400px;
+    height: 700px;
 }

@@ -6,24 +6,8 @@ module.exports = function (sequelize, DataTypes) {
             primaryKey: true,
             allowNull: false
         },
-        zip: {
-            type: DataTypes.STRING,
-            allowNull: true
-        },
         circumstances: {
             type: DataTypes.TEXT,
-            allowNull: true
-        },
-        city: {
-            type: DataTypes.STRING,
-            allowNull: true
-        },
-        county: {
-            type: DataTypes.STRING,
-            allowNull: true
-        },
-        state: {
-            type: DataTypes.STRING,
             allowNull: true
         },
         piercings: {
@@ -213,8 +197,7 @@ module.exports = function (sequelize, DataTypes) {
         height: {
             type: DataTypes.STRING,
             allowNull: true
-        },
-
+        }
     });
     Person.associate = function (models) {
         models.Person.hasMany(models.Images, {
@@ -224,11 +207,12 @@ module.exports = function (sequelize, DataTypes) {
     };
     // Person.associate = function (models) {
     //     models.Person.hasMany(models.Sightings, {
+    //         foreignKey: "caseNumber",
     //         onDelete: "cascade"
     //     });
     // };
     // Person.associate = function (models) {
-    //     models.Person.belongsTo(models.User, {
+    //     models.Person.hasMany(models.User, {
     //         foreignKey: {
     //             allowNull: false
     //         }
