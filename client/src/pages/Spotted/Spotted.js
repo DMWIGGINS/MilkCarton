@@ -1,8 +1,8 @@
 import "../common.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
-import {Row, Col, Button, Container, Input} from 'react-materialize';
-import MyMapComponent from "../../components/GoogleMaps/GoogleMaps.js";
+import {Row, Col, Input} from 'react-materialize';
+// import MyMapComponent from "../../components/GoogleMaps/GoogleMaps.js";
 
 
 class Spotted extends Component {
