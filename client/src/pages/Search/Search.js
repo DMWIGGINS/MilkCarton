@@ -221,13 +221,14 @@ class Search extends Component {
             return (<div>empty</div>)
         }
     }
+    //Render function that allows you to search and the return the carousel.
     render() {
         let carousel = this.getCarousel();
         return (
             <Row className="body-background-gradient">
                 <Col s={12} m={5} className="left-gradient">
                     <div className="left-gradient-content">
-                        <Heading level={1}>Search criteria</Heading>
+                        <Heading level={1}>Search Criteria</Heading>
                         <Input s={12} label="First name" />
                         <Input s={12} label="Last name" />
                         <Input s={12} label="Gender" />

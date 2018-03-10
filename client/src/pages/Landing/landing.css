@@ -9,10 +9,11 @@ body{
     background-repeat: no-repeat;
     background-size: auto;
 }
-.section{
-    padding-left: 100px;
-    padding-right: 100px;
+.card-panel{
+    padding-left: 200px;
+    padding-right: 200px;
     background-color: lightgray;
+    background-size:cover
 }
 .button-container{
     padding-block-end: 30px
