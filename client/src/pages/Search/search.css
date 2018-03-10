@@ -15,6 +15,10 @@
     text-decoration: underline;
 }
 
+.search-page .carousel {
+    height: 100%;
+}
+
 .search-page .carousel .carousel-item {
     width: 400px;
     height: auto;

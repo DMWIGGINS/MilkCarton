@@ -1,7 +1,8 @@
 import "./search.css";
 import "../common.css";
 import React, { Component } from 'react';
-import {Row, Col, Button, Container, Input, Carousel} from 'react-materialize';
+import Heading from "../../components/Heading";
+import {Row, Col, Button, Input, Carousel} from 'react-materialize';
 import MyMapComponent from "../../components/GoogleMaps/GoogleMaps.js";
 
 class Search extends Component {
@@ -70,8 +71,7 @@ class Search extends Component {
             "createdAt":"2018-03-08T00:01:27.000Z",
             "updatedAt":"2018-03-08T00:01:27.000Z",
             "UserId":null
-         },
-         {
+        },{
             "caseNumber":213,
             "zip":0,
             "circumstances":"Unknown. Dennis was last seen walking his dog at approximately 12:00pm in the vicinity of Chapel St. in Woodsville, NH. His dog was later found at his residence. Dennis left all personal belongings behind including his medication. Extensive searches have been conducted in frequented areas including White River, VT and wooded areas.",
@@ -128,8 +128,7 @@ class Search extends Component {
             "createdAt":"2018-03-08T00:01:27.000Z",
             "updatedAt":"2018-03-08T00:01:27.000Z",
             "UserId":null
-         },
-         {
+        },{
             "caseNumber":1815,
             "zip":0,
             "circumstances":"Tammy's photo is shown age-progressed to 30 years. She was last seen at approximately 8:00 a.m. on Court Street in Exeter, New Hampshire as she was walking to school. Tammy has a slender build, a fair complexion and she is cross-eyed.",
@@ -186,8 +185,7 @@ class Search extends Component {
             "createdAt":"2018-03-08T00:01:27.000Z",
             "updatedAt":"2018-03-08T00:01:27.000Z",
             "UserId":null
-         }
-        );
+        });
         this.setState({
             search: searchResults
         });
@@ -204,6 +202,13 @@ class Search extends Component {
                     </div>
                     <div className="card-content">
                         <p>{result.circumstances}</p>
+                        <MyMapComponent
+                            isMarkerShown
+                            googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places"
+                            loadingElement={<div style={{ height: `100%` }} />}
+                            containerElement={<div style={{ width: `100%`, height: `200px` }} />}
+                            mapElement={<div style={{ height: `200px` }} />}
+                        />
                     </div>
                 </div>
             </div>)
@@ -222,12 +227,12 @@ class Search extends Component {
             <Row className="body-background-gradient">
                 <Col s={12} m={5} className="left-gradient">
                     <div className="left-gradient-content">
-                        <h5>Search criteria</h5>
+                        <Heading level={1}>Search criteria</Heading>
                         <Input s={12} label="First name" />
                         <Input s={12} label="Last name" />
                         <Input s={12} label="Gender" />
                         <Input s={12} label="Location" />
-                        <Button waves='light' onClick={this.getSearchResults.bind(this)}>Search</Button>
+                        <Button waves='light' className="black" onClick={this.getSearchResults.bind(this)}>Search</Button>
                     </div>
                 </Col>
                 <Col m={7} className="right-banner search-page center-align">
@@ -239,11 +244,3 @@ class Search extends Component {
 }
   
 export default Search;
-
-{/* <MyMapComponent
-isMarkerShown
-googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places"
-loadingElement={<div style={{ height: `100%` }} />}
-containerElement={<div style={{ height: `400px` }} />}
-mapElement={<div style={{ height: `100%` }} />}
-/> */}
