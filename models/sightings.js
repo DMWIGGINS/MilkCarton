@@ -22,12 +22,12 @@ module.exports = (sequelize, DataTypes) => {
       allowNull: true
     }
   });
-  // Sightings.associate = function (models) {
-  //   models.Sightings.belongsTo(models.Person, {
-  //     foreignKey: 'caseNumber',
-  //     allowNull: false
+  Sightings.associate = function (models) {
+    models.Sightings.belongsTo(models.Person, {
+      foreignKey: 'caseNumber',
+      allowNull: false
 
-  //   });
-  // };
+    });
+  };
   return Sightings;
 };
