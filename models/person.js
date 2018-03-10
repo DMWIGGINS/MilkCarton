@@ -199,18 +199,18 @@ module.exports = function (sequelize, DataTypes) {
             allowNull: true
         }
     });
-    Person.associate = function (models) {
-        models.Person.hasMany(models.Images, {
-            foreignKey: "caseNumber",
-            onDelete: "cascade"
-        });
-    };
     // Person.associate = function (models) {
-    //     models.Person.hasMany(models.Sightings, {
+    //     models.Person.hasMany(models.Images, {
     //         foreignKey: "caseNumber",
     //         onDelete: "cascade"
     //     });
     // };
+    Person.associate = function (models) {
+        models.Person.hasMany(models.Sightings, {
+            foreignKey: "caseNumber",
+            onDelete: "cascade"
+        });
+    };
     // Person.associate = function (models) {
     //     models.Person.hasMany(models.User, {
     //         foreignKey: {
