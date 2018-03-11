@@ -40,9 +40,10 @@ class GoogleMap extends Component {
         // Loop through the location array which will include all of the
         // sightings
         for (var x = 0; x < this.props.locations.length; x++) {
+            let location = this.props.locations[x].city + ", " + this.props.locations[x].state
             // Pass each location into the geocoder to get lat/long
             geocoder.geocode({
-                'address': this.props.locations[x].city + ", " + this.props.locations[x].state
+                'address': location
             }, function (results, status) {
                 // If the location was converted into lat/long okay,
                 if (status === window.google.maps.GeocoderStatus.OK) {
