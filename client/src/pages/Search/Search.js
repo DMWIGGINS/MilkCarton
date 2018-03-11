@@ -2,8 +2,8 @@ import "./search.css";
 import "../common.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
-import {Row, Col, Button, Input, Carousel} from 'react-materialize';
-import MyMapComponent from "../../components/GoogleMaps/GoogleMaps.js";
+import {Row, Col, Button, Input} from 'react-materialize';
+import SearchCarousel from "../../components/Carousel"
 
 class Search extends Component {
     constructor(props) {
@@ -190,40 +190,8 @@ class Search extends Component {
             search: searchResults
         });
     }
-    getCarousel() {
-        let content = this.state.search.map(function(result) {
-            return (
-            <div key={result.caseNumber}>
-                <div className="card">
-                    <div className="card-image">
-                        <img src="https://images.askmen.com/1080x540/2017/01/04-123847-what_stoicism_teaches_us_about_how_to_be_a_man.jpg" alt="" />
-                        <span className="card-title">{result.firstName + " " + result.lastName}</span>
-                        <span>{result.state}</span>
-                    </div>
-                    <div className="card-content">
-                        <p>{result.circumstances}</p>
-                        <MyMapComponent
-                            isMarkerShown
-                            googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places"
-                            loadingElement={<div style={{ height: `100%` }} />}
-                            containerElement={<div style={{ width: `100%`, height: `200px` }} />}
-                            mapElement={<div style={{ height: `200px` }} />}
-                        />
-                    </div>
-                </div>
-            </div>)
-        })
-        if (content.length > 0) {
-            return (<Carousel>
-                {content}
-            </Carousel>)
-        } else {
-            return (<div>empty</div>)
-        }
-    }
     //Render function that allows you to search and the return the carousel.
     render() {
-        let carousel = this.getCarousel();
         return (
             <Row className="body-background-gradient">
                 <Col s={12} m={5} className="left-gradient">
@@ -237,7 +205,7 @@ class Search extends Component {
                     </div>
                 </Col>
                 <Col m={7} className="right-banner search-page center-align">
-                    {carousel}
+                    <SearchCarousel searchResults = {this.state.search}/>
                 </Col>
             </Row>
         );
