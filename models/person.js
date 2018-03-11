@@ -209,12 +209,5 @@ module.exports = function (sequelize, DataTypes) {
             onDelete: "cascade"
         });
     };
-    // Person.associate = function (models) {
-    //     models.Person.hasMany(models.User, {
-    //         foreignKey: {
-    //             allowNull: false
-    //         }
-    //     });
-    // };
     return Person;
 };

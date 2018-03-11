@@ -3,6 +3,7 @@ module.exports = (sequelize, DataTypes) => {
   var User = sequelize.define('User', {
     userID: {
       type: DataTypes.STRING,
+      primaryKey: true,
       allowNull: false
     },
     name: {
@@ -20,9 +21,6 @@ module.exports = (sequelize, DataTypes) => {
         isEmail: true
       }
     },
-  }, {});
-  // User.associate = function (models) {
-  //   models.User.hasMany(models.Person, {});
-  // };
+  });
   return User;
 };
