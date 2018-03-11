@@ -2,7 +2,7 @@ import "./landing.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
 import {Divider, Row, Col, Button, Container} from 'react-materialize'
-import Parallax from "react-materialize/lib/Parallax";
+// import Parallax from "react-materialize/lib/Parallax";
 
 const jumbotronStyle = {
     paddingBottom: '20px',

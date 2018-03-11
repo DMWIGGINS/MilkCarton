@@ -3,7 +3,6 @@ import { Route, Switch } from 'react-router-dom'
 import Login from "./pages/Login";
 import Landing from "./pages/Landing";
 import Search from "./pages/Search";
-import Saved from "./pages/Saved";
 import Spotted from "./pages/Spotted";
 import Resources from "./pages/Resources"
 
@@ -28,7 +27,6 @@ class App extends Component {
             <Route exact path='/' render={() => <Login loggedIn={this.state.loggedIn} setLoginState={this.setLoginState.bind(this)} />}/>
             <Route path='/landing' render={() => <Landing loggedIn={this.state.loggedIn}/>}/>
             <Route path='/search' render={() => <Search loggedIn={this.state.loggedIn}/>}/>
-            <Route path='/saved' render={() => <Saved loggedIn={this.state.loggedIn}/>}/>
             <Route path='/spotted' render={() => <Spotted loggedIn={this.state.loggedIn}/>}/>
             <Route path='/resources' render={() => <Resources loggedIn={this.state.loggedIn}/>}/>
         </Switch>

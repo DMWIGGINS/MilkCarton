@@ -1,31 +1,44 @@
-import "./carousel.css";
+// import "./carousel.css";
 import React, { Component } from 'react';
-import {Carousel} from 'react-materialize'
+import {Carousel} from 'react-materialize';
+import MyMapComponent from "../GoogleMaps/GoogleMaps.js";
 
 
-class Carousel extends Component{
-  render(){
-    return(
-          <Carousel options={{ fullWidth: true }}>
-              <div className='red'>
-                  <h2>First Panel</h2>
-                    <p className='white-text'>This is your first panel</p>
-              </div>
-              <div className='amber'>
-                  <h2>Second Panel</h2>
-                      <p className='white-text'>This is your second panel</p>
-              </div>
-              <div className='green'>
-                  <h2>Third Panel</h2>
-                      <p className='white-text'>This is your third panel</p>
-              </div>
-              <div className='blue'>
-                  <h2>Fourth Panel</h2>
-                      <p className='white-text'>This is your fourth panel</p>
-              </div>
-          </Carousel>
-          );
+
+class SearchCarousel extends Component{
+    getCarousel() {
+        let content = this.props.searchResults.map(function(result) {
+            return (
+            <div key={result.caseNumber}>
+                <div className="card">
+                    <div className="card-image">
+                        <img src="https://images.askmen.com/1080x540/2017/01/04-123847-what_stoicism_teaches_us_about_how_to_be_a_man.jpg" alt="" />
+                        <span className="card-title">{result.firstName + " " + result.lastName}</span>
+                        <span>{result.state}</span>
+                    </div>
+                    <div className="card-content">
+                        <p>{result.circumstances}</p>
+                        <MyMapComponent
+                            isMarkerShown
+                            googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places"
+                            loadingElement={<div style={{ height: `100%` }} />}
+                            containerElement={<div style={{ width: `100%`, height: `200px` }} />}
+                            mapElement={<div style={{ height: `200px` }} />}
+                        />
+                    </div>
+                </div>
+            </div>)
+        })
+        if (content.length > 0) {
+            return (<Carousel>
+                {content}
+            </Carousel>)
+        } else {
+            return (<div>empty</div>)
         }
-      }
-export default Carousel;
-
+    }
+    render(){
+        return this.getCarousel()
+    }
+}
+export default SearchCarousel;
