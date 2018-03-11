@@ -1,0 +1,22 @@
+.left-gradient {
+    height: 100vh;
+    opacity: .9;
+    background: linear-gradient(to right, rgba(169,3,41,1) 0%,rgba(143,2,34,1) 35%,rgba(109,0,25,1) 100%);
+    display: flex;
+    align-items: center;
+}
+
+.left-gradient-content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.right-gradient-content {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
