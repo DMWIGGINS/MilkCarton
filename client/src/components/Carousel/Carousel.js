@@ -36,6 +36,9 @@ class SearchCarousel extends Component{
         } else {
             return (<div>empty</div>)
         }
+
+     
+
     }
     render(){
         return this.getCarousel()
