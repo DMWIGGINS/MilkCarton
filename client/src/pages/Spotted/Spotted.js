@@ -2,9 +2,7 @@ import "../common.css";
 import "./spotted.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
-import {Row, Col, Button, Container, Input, Autocomplete} from 'react-materialize';
-import MyMapComponent from "../../components/GoogleMap/GoogleMap.js";
-
+import {Row, Col, Autocomplete} from 'react-materialize';
 
 class Spotted extends Component {
     render() {
@@ -21,13 +19,6 @@ class Spotted extends Component {
                         </div>
                         <div className="card-content">
                             {/* <p>{result.circumstances}</p> */}
-                            <MyMapComponent
-                            isMarkerShown
-                            googleMapURL="https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=geometry,drawing,places"
-                            loadingElement={<div style={{ height: `100%` }} />}
-                            containerElement={<div style={{ width: `100%`, height: `200px` }} />}
-                            mapElement={<div style={{ height: `200px` }} />}
-                            />
                         </div>     
                     </div>
                 </div>

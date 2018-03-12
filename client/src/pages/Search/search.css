@@ -87,3 +87,14 @@
 .search-form input[type=text]:focus {
     border-bottom: 2px solid white;
 }
+
+@media only screen and (max-width: 600px) {
+    .search-page .left-gradient {
+        display: block;
+        overflow-y: scroll;
+    }
+
+    .search-page .left-gradient-content {
+        height: auto;
+    }
+}
