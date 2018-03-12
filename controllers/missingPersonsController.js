@@ -1,7 +1,10 @@
 const db = require("../models");
-// Defining methods for the missingPersonsControlle
 
-function missingPersonsSearch (req, res) {
+// Defining methods for the missingPersonsController
+
+
+
+function missingPersonsSearch(req, res) {
 
   if ((req.params.firstName !== null) && (req.params.lastName !== null)) {
     db.People.findAll({
@@ -34,7 +37,7 @@ function missingPersonsSearch (req, res) {
       }
     });
   } else {
-    Sightings.findAll({
+    db.Sightings.findAll({
       where: {
         city: req.params.city,
         state: req.params.state
@@ -63,25 +66,25 @@ function missingPersonsSearch (req, res) {
       }
     })
   }
-}
+};
 
 function logSighting(req, res) {
-  db.Sightings
-    .create({
-      caseNumber: req.body.caseNumber,
-      city: req.body.caseNumber,
-      state: req.body.state
-    }).then(function (data, err) {
-      if (data) {
-        console.log(data);
-        res.status(200).end();
-      } else if (err) {
-        // If an error occurred, send a generic server failure
-        console.log(err);
-        res.status(500).end();
-      }
-    })
-}
+  db.Sightings.create({
+    caseNumber: req.body.caseNumber,
+    city: req.body.caseNumber,
+    state: req.body.state
+  }).then(function (data, err) {
+    if (data) {
+      console.log(data);
+      res.status(200).end();
+    } else if (err) {
+      // If an error occurred, send a generic server failure
+      console.log(err);
+      res.status(500).end();
+    }
+  })
+};
+
 
 
 router.get("/search", function (req, res) {
