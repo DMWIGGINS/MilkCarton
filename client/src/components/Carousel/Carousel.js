@@ -65,6 +65,8 @@ class SearchCarousel extends Component {
             )
         }
 
+
+
     }
     render() {
         return this.getCarousel()

@@ -6,7 +6,7 @@ const session = require("express-session");
 const bodyParser = require("body-parser");
 const port = process.env.PORT || 3001;
 // Import routes and give the server access to them.
-const routes = require("./routes");
+// const routes = require("./routes");
 const app = express();
 
 ///////////////////////////////////////////////////////////////////////////////////////
@@ -21,7 +21,7 @@ app.use(bodyParser.json());
 // Serve up static assets
 app.use(express.static("client/build"));
 // Add routes, both API and view
-app.use(routes);
+// app.use(routes);
 
 
 //Models

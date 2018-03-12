@@ -137,6 +137,19 @@ class Search extends Component {
             search: searchResults
         });
     }
+
+    // handleFormSubmit = event => {
+    //     event.preventDefault();
+    //     if (this.state.title && this.state.author) {
+    //       API.saveBook({
+    //         title: this.state.title,
+    //         author: this.state.author,
+    //         synopsis: this.state.synopsis
+    //       })
+    //         .then(res => this.loadBooks())
+    //         .catch(err => console.log(err));
+    //     }
+    //   };
     //Render function that allows you to search and the return the carousel.
     render() {
         let desktopCarousel = <SearchCarousel searchResults={this.state.search}/>; 
