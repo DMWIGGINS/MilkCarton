@@ -18,3 +18,4 @@ export default {
     return axios.post("/spotted", sightingData);
   }
 };
+
