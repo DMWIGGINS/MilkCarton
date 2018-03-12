@@ -175,8 +175,8 @@ class Search extends Component {
                         <Input s={12} label="City" />
                         <Input s={12} label="State" />
                         <Button waves='light' className="black" onClick={this.getSearchResults.bind(this)}>Search</Button> 
-                        {mobileCarousel}
                     </div>
+                    {mobileCarousel}
                 </Col>
                 <Col m={7} className="right-banner center-align">
                     {desktopCarousel}

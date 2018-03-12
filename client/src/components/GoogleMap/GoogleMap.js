@@ -1,7 +1,6 @@
 import "./googlemap.css";
 //import "../common.css";
 import React, { Component } from 'react';
-import {Row, Col, Button, Input} from 'react-materialize';
 
 // Breaking the Sighting Map into a component because we will be reusing it on 
 // both the Search and Spotted pages
@@ -27,18 +26,18 @@ class GoogleMap extends Component {
             }
         }
 
-    //     // Instantiating a new map, then getting a handle on the area of the
-    //     // DOM in which it will render (in this case the div where ref="map") 
-    //     // and then passing in the default options defined above
+        // Instantiating a new map, then getting a handle on the area of the
+        // DOM in which it will render (in this case the div where ref="map") 
+        // and then passing in the default options defined above
         let map = new window.google.maps.Map(this.refs.map, options);
         let bounds = new window.google.maps.LatLngBounds();
 
-    //     // Instantiat Geocoder which will take in physical addresses
-    //     // and convert them into longitude and latitude
+        // Instantiat Geocoder which will take in physical addresses
+        // and convert them into longitude and latitude
         let geocoder = new window.google.maps.Geocoder();
         
-    //     // Loop through the location array which will include all of the
-    //     // sightings
+        // Loop through the location array which will include all of the
+        // sightings
         for (var x = 0; x < this.props.locations.length; x++) {
             let location = this.props.locations[x].city + ", " + this.props.locations[x].state
             // Pass each location into the geocoder to get lat/long
@@ -58,8 +57,8 @@ class GoogleMap extends Component {
             });
         }
         // Wait two seconds (padding for the carousel to render) then take 
-    //     // in all the markers on the map and set the viewport to the 
-    //     // given bounds
+        // in all the markers on the map and set the viewport to the 
+        // given bounds
         setTimeout(function(){
             map.fitBounds(bounds);
         }, 2000)
