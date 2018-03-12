@@ -1,15 +1,20 @@
 import axios from "axios";
+
+
 export default {
   
-  
-  
-  // Gets the book with the given id
-  missingPersonSearch: function() {
+  // Gets the results of the missing person search using first and last name
+  findMissingPersonByName: function(personData) {
+    return axios.get("/search");
+  },
+
+  // Gets the results of the missing person search using city and state  
+  findMissingPersonByLocation: function(personData) {
     return axios.get("/search");
   },
   
-  // Saves a book to the database
-  logSighting: function() {
-    return axios.post("/spotted", bookData);
+  // Posts a new sighting of a missing person to the database
+  createSighting: function(sightingData) {
+    return axios.post("/spotted", sightingData);
   }
 };
