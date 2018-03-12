@@ -204,19 +204,10 @@ module.exports = function (sequelize, DataTypes) {
             foreignKey: "caseNumber",
             onDelete: "cascade"
         });
+        models.Person.hasMany(models.Sightings, {
+            foreignKey: "caseNumber",
+            onDelete: "cascade"
+        });
     };
-    // Person.associate = function (models) {
-    //     models.Person.hasMany(models.Sightings, {
-    //         foreignKey: "caseNumber",
-    //         onDelete: "cascade"
-    //     });
-    // };
-    // Person.associate = function (models) {
-    //     models.Person.hasMany(models.User, {
-    //         foreignKey: {
-    //             allowNull: false
-    //         }
-    //     });
-    // };
     return Person;
 };

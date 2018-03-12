@@ -14,7 +14,6 @@ function gatherData(results) {
             // circumstances
             circumstances: currentCase.circumstances.circumstances,
 
-
             // characteristics
             piercings: currentCase.characteristics.piercings,
             otherCharacteristics: currentCase.characteristics.otherCharacteristics,
@@ -77,14 +76,6 @@ function gatherData(results) {
             email: currentCase.regionalAdministrator.email
         }
 
-        // missingPerson.Sightings = [];
-        // missingPerson.Sightings.push({
-        //     caseNumber: key,
-        //     city: currentCase.circumstances.city,
-        //     state: currentCase.circumstances.state,
-        //     zip: currentCase.circumstances.zip,
-        //     county: currentCase.circumstances.county
-        // }),
 
         missingPerson.Images = [];
         for (var imageKey in currentCase.photos) {
@@ -94,10 +85,18 @@ function gatherData(results) {
             })
         }
 
+        missingPerson.Sightings = [];
+        missingPerson.Sightings.push({
+            caseNumber: key,
+            city: currentCase.circumstances.city,
+            state: currentCase.circumstances.state,
+            zip: currentCase.circumstances.zip,
+            county: currentCase.circumstances.county
+        })
+
         // console.log(missingPerson.Images);
         db.Person.create(missingPerson, {
-            include: [db.Images],
-            // include: [db.Sightings]
+            include: [db.Images, db.Sightings],
         }).then(function (data, err) {
             if (err) {
                 console.log("Something went wrong...")
@@ -105,18 +104,7 @@ function gatherData(results) {
                 console.log("That worked!")
             }
         })
-        // db.Person.insert(missingPerson, {
-        //     include: [db.Sightings],
-        // }).then(function (data, err) {
-        //     if (err) {
-        //         console.log("Something went wrong...")
-        //     } else {
-        //         console.log("That worked!")
-        //     }
-        // })
     }
 };
-
-
 
 gatherData(missingPersonResults);

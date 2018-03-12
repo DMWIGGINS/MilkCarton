@@ -3,7 +3,7 @@ import "./spotted.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
 import {Row, Col, Button, Container, Input, Autocomplete} from 'react-materialize';
-import MyMapComponent from "../../components/GoogleMaps/GoogleMaps.js";
+import MyMapComponent from "../../components/GoogleMap/GoogleMap.js";
 
 
 class Spotted extends Component {
