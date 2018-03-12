@@ -140,14 +140,20 @@ class Search extends Component {
 
     // handleFormSubmit = event => {
     //     event.preventDefault();
-    //     if (this.state.title && this.state.author) {
-    //       API.saveBook({
-    //         title: this.state.title,
-    //         author: this.state.author,
-    //         synopsis: this.state.synopsis
+    //     if (this.state.firstName && this.state.lastName) {
+    //       API.findPerson({
+    //         firstName: this.state.firstName,
+    //         lastName: this.state.lastName,
     //       })
-    //         .then(res => this.loadBooks())
+    //         .then(res => this.loadPeople())
     //         .catch(err => console.log(err));
+    //     } else if (this.state.city && this.state.state) {
+    //         API.findSighting({
+    //             city: this.state.city,
+    //             state: this.state.state,
+    //           })
+    //             .then(res => this.loadSightings())
+    //             .catch(err => console.log(err));
     //     }
     //   };
     //Render function that allows you to search and the return the carousel.
@@ -166,8 +172,8 @@ class Search extends Component {
                         <Heading level={1}>Search Criteria</Heading>
                         <Input s={12} label="First name" />
                         <Input s={12} label="Last name" />
-                        <Input s={12} label="Gender" />
-                        <Input s={12} label="Location" />
+                        <Input s={12} label="City" />
+                        <Input s={12} label="State" />
                         <Button waves='light' className="black" onClick={this.getSearchResults.bind(this)}>Search</Button> 
                         {mobileCarousel}
                     </div>

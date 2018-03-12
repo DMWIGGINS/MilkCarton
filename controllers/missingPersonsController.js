@@ -52,8 +52,8 @@ function missingPersonsSearch(req, res) {
         for (var i = 0; i < data.length; i++) {
           searchResults = {
             firstName: data[i].firstName,
-            lastName: data[i].lastName,
             city: data[i].city,
+            lastName: data[i].lastName,
             state: data[i].state,
             circumstances: data[i].circumstances,
             race: data[i].race,
