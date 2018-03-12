@@ -9,9 +9,22 @@ class Search extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            search: []
+            search: [],
+            width: window.innerWidth
         };
     }
+    componentWillMount() {
+        window.addEventListener('resize', this.handleWindowSizeChange);
+    }
+
+    componentWillUnmount() {
+        window.removeEventListener('resize', this.handleWindowSizeChange);
+    }
+
+    handleWindowSizeChange = () => {
+        this.setState({ width: window.innerWidth });
+    }
+
     getSearchResults() {
         let searchResults = [];
         searchResults.push({
@@ -46,6 +59,11 @@ class Search extends Component {
                     city: "North Hampton",
                     state: "New Hampshire"
                 }
+            ],
+            "Images": [
+                {
+                    photo: "https://www.findthemissing.org/en/photos/thumb/232"
+                }
             ]
         },{
             "caseNumber":213,
@@ -73,6 +91,11 @@ class Search extends Component {
                 },{
                     city: "Salisbury",
                     state: "Massachusetts"
+                }
+            ],
+            "Images": [
+                {
+                    photo: "https://www.findthemissing.org/en/photos/thumb/233"
                 }
             ]
         },{
@@ -103,6 +126,11 @@ class Search extends Component {
                     city: "Woodstock",
                     state: "Vermont"
                 }
+            ],
+            "Images": [
+                {
+                    photo: "https://www.findthemissing.org/en/photos/thumb/2423"
+                }
             ]
         });
         this.setState({
@@ -124,20 +152,28 @@ class Search extends Component {
     //   };
     //Render function that allows you to search and the return the carousel.
     render() {
+        let desktopCarousel = <SearchCarousel searchResults={this.state.search}/>; 
+        let mobileCarousel;
+        if (this.state.width <= 600) {
+            mobileCarousel = <SearchCarousel searchResults={this.state.search} options={{ fullWidth: true }}/>;
+            desktopCarousel = null;
+        }
+
         return (
-            <Row className="body-background-gradient">
+            <Row className="body-background-gradient search-page">
                 <Col s={12} m={5} className="left-gradient">
-                    <div className="left-gradient-content">
+                    <div className="left-gradient-content search-form">
                         <Heading level={1}>Search Criteria</Heading>
                         <Input s={12} label="First name" />
                         <Input s={12} label="Last name" />
                         <Input s={12} label="Gender" />
                         <Input s={12} label="Location" />
-                        <Button waves='light' className="black" onClick={this.getSearchResults.bind(this)}>Search</Button>
+                        <Button waves='light' className="black" onClick={this.getSearchResults.bind(this)}>Search</Button> 
+                        {mobileCarousel}
                     </div>
                 </Col>
-                <Col m={7} className="right-banner search-page center-align">
-                    <SearchCarousel searchResults = {this.state.search}/>
+                <Col m={7} className="right-banner center-align">
+                    {desktopCarousel}
                 </Col>
             </Row>
         );

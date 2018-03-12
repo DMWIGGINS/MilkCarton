@@ -43,7 +43,7 @@ class Login extends Component {
             loginOrOut = (<GoogleLogin
                 clientId="277659205285-9aqgv54koa3l693gcqcs2knt9lqrg9e9.apps.googleusercontent.com"
                 buttonText="Login with Google"
-                className="login-buttons center-align black"
+                className="btn login-buttons center-align black"
                 onSuccess={this.handleLoginResponse.bind(this)}
                 onFailure={this.handleLoginResponse.bind(this)}
                 style={{}} // This clears out the style from the component
