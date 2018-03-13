@@ -32,6 +32,7 @@ function logSighting(req, res) {
 router.get("/api/searchMissingPersons", function (req, res) {
   ssn = req.session;
   db.Person.findAll({
+      limit: 50,
       where: {
         lastName: {
           [Op.like]: "%" + req.query.lastName + "%"

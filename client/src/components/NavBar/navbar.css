@@ -1,5 +1,7 @@
 .nav-wrapper{
-    background-color:red
+    background-color: rgba(130,63,73, .8);
+    z-index: 1;
+    box-shadow: 5px 0px 5px black;
 }
 .brand{
 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
