@@ -3,8 +3,7 @@ import "../common.css";
 import React, { Component } from 'react';
 import {Row, Col, Container} from 'react-materialize'
 import Heading from "../../components/Heading";
-import logo from '../milkcartonlogo.png';
-import API from "../../utils/API.js";
+import logo from '../milkcartonlogo.png'
 
 
 class Resources extends Component {
@@ -34,7 +33,7 @@ class Resources extends Component {
   
 export default Resources;
 
-{/* <Row className="card-panel grey lighten-2 " style={jumbotronStyle}>
+/* <Row className="card-panel grey lighten-2 " style={jumbotronStyle}>
     <Row>
         <Col s={12} l={12} className="center-align">
             <div>
@@ -56,6 +55,6 @@ export default Resources;
     <Col s={10} offset="s1">
         <Divider/>
     </Col>
-</Row>
+</Row> */
 
- */}
+ 
