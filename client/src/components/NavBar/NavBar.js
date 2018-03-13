@@ -1,6 +1,6 @@
 import "./navbar.css";
 import React, { Component } from 'react';
-import {Navbar, NavItem, Row, Col} from 'react-materialize'
+import {Navbar, NavItem} from 'react-materialize'
 
 class NavBar extends Component {
     render() {
