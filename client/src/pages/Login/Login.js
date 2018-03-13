@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 import Heading from "../../components/Heading";
 import {Row, Col, Button} from 'react-materialize'
 import GoogleLogin from 'react-google-login';
-import logo from './milkcartonlogo.png';
+import logo from '../milkcartonlogo.png';
 import API from "../../utils/API.js";
 
 class Login extends Component {
