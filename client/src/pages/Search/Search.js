@@ -136,7 +136,7 @@ class Search extends Component {
 
         return (
             <Row className="body-background-gradient search-page">
-            <NavBar />
+            <NavBar user={this.props.user} />
                 <Col s={12} m={5} className="left-gradient">
                     <div className="left-gradient-content search-form">
                         <Heading level={1}>Search Criteria</Heading>
