@@ -17,7 +17,7 @@ class Resources extends Component {
                     <div
                     className="left-gradient-content">
                     <img className="logo" src={logo} alt={"logo"}/>
-                        <Heading level={4}>Useful Links and Resources</Heading>
+                        <Heading level={3}>Useful Links and Resources</Heading>
                         <p><a target="_blank" rel="noopener noreferrer" href="https://www.namus.gov/">National Missing and Unidentified Persons System</a></p>
                         <p><a target="_blank" rel="noopener noreferrer" href="http://www.missingkids.com/">National Center for Missing & Exploited Children</a></p>
                         <p><a target="_blank" rel="noopener noreferrer" href="https://www.mentalhealth.gov/basics">Mental Health</a></p>
@@ -25,7 +25,14 @@ class Resources extends Component {
                         <p><a target="_blank" rel="noopener noreferrer" href="https://www.alz.org/care/alzheimers-dementia-wandering.asp">Wandering and Dementia</a></p>
                         </div>
                     </Col>
-            </Row>
+                    
+                    <Col m={7} className="right-banner center-align">
+                       <div className="right-banner-text">
+                 <Heading level={2}>FIND MISSING PERSONS</Heading>
+     <Heading level={5}>Search Cases. Report Sightings. Save lives.</Heading>
+     </div>
+ </Col>
+ </Row>
         );
     }
 }
