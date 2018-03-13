@@ -3,8 +3,19 @@ import "./spotted.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
 import {Row, Col, Autocomplete} from 'react-materialize';
+import API from "../../utils/API.js";
 
 class Spotted extends Component {
+    constructor(props) {
+        super(props);
+        this.state = {
+            currentCase: {}
+        }
+        let spotted = this;
+        API.getCaseByNumber(props.case).then(function(res) {
+            spotted.setState({currentCase: res.data});
+        })
+    }
     render() {
         return (
             <Row className="body-background-gradient">
@@ -14,8 +25,7 @@ class Spotted extends Component {
                     <div className="card">
                         <div className="card-image">
                             <img src="https://images.askmen.com/1080x540/2017/01/04-123847-what_stoicism_teaches_us_about_how_to_be_a_man.jpg" alt="" />
-                            {/* <span className="card-title">{result.firstName + " " + result.lastName}</span>
-                            <span>{result.state}</span> */}
+                            <span className="card-title">{this.state.currentCase.firstName + " " + this.state.currentCase.lastName}</span>
                         </div>
                         <div className="card-content">
                             {/* <p>{result.circumstances}</p> */}

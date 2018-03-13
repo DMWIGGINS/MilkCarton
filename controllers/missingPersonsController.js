@@ -75,6 +75,35 @@ router.get("/api/searchMissingPersons", function (req, res) {
     });
 });
 
+router.get("/api/case/getByNumber", function (req, res) {
+    ssn = req.session;
+
+    db.Person.findAll({
+        where: {
+            caseNumber: req.query.caseNumber
+        },
+        include: [
+            {
+            model: db.Images,
+                where: {
+                    caseNumber: db.Sequelize.col('Person.caseNumber')
+                }
+            }, {
+            model: db.Sightings,
+                where: {
+                    caseNumber: db.Sequelize.col('Person.caseNumber')
+                }
+            }
+        ]
+    }).then(function (data, err) {
+        if (err) {
+            res.status(500).end();
+        } else {
+            res.json(data[0]);
+        }
+    });
+});
+
 router.post("/spotted", function (req, res) {
     logSighting(req, res);
 });

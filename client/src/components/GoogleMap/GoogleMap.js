@@ -60,7 +60,6 @@ class GoogleMap extends Component {
         // in all the markers on the map and set the viewport to the 
         // given bounds
         window.google.maps.event.addListenerOnce(map, "tilesloaded", function(){
-            console.log("Test2");
             setTimeout(function() {
                 map.fitBounds(bounds);
             }, 1000)
