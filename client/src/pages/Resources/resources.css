@@ -1,6 +1,10 @@
 body {
-    background-image: url(../../components/Views/milkcartons.jpg);
+    /* background-image: url(../../components/Views/milkcartons.jpg); */
+    background-color: black;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+a {
+    color: white;
+}

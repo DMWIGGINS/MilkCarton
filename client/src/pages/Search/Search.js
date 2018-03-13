@@ -6,6 +6,7 @@ import {Row, Col, Button, Input} from 'react-materialize';
 import SearchCarousel from "../../components/Carousel";
 import AutocompleteLocation from "../../components/AutocompleteLocation";
 import NavBar from "../../components/NavBar";
+import logo from '../milkcartonlogo.png'
 import API from "../../utils/API.js";
 
 class Search extends Component {
@@ -139,7 +140,8 @@ class Search extends Component {
             <NavBar user={this.props.user} />
                 <Col s={12} m={5} className="left-gradient">
                     <div className="left-gradient-content search-form">
-                        <Heading level={1}>Search Criteria</Heading>
+                    <img className="logo" src={logo} alt={"logo"}/>
+                        <Heading level={2}>Search Criteria</Heading>
                         <Input s={12} label="First name" ref="firstName"/>
                         <Input s={12} label="Last name" ref="lastName"/>
                         <AutocompleteLocation ref="location"/>
