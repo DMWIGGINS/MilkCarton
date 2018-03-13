@@ -7,7 +7,6 @@ import SearchCarousel from "../../components/Carousel";
 import AutocompleteLocation from "../../components/AutocompleteLocation";
 import NavBar from "../../components/NavBar";
 import API from "../../utils/API.js";
-import { stat } from "fs";
 
 class Search extends Component {
     constructor(props) {
@@ -109,7 +108,7 @@ class Search extends Component {
 
         // Loop through all the available provinces
         for (var i = provinces.length - 1; i >= 0; i--) {
-            if (provinces[i].short == state) {
+            if (provinces[i].short === state) {
                 state = provinces[i].name;
             }
         }

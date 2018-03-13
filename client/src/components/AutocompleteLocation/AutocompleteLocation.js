@@ -21,7 +21,7 @@ class AutocompleteLocation extends Component {
 
         const autocompleteFormField = this.refs.location;
 
-        let autoComplete = new window.google.maps.places.Autocomplete(autocompleteFormField, options);
+        new window.google.maps.places.Autocomplete(autocompleteFormField, options);
 	}
 
 
