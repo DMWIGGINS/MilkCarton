@@ -2,14 +2,17 @@ import axios from "axios";
 
 
 export default {
+  getCaseByNumber: function(number) {
+    return axios.get("/api/case/getByNumber?caseNumber=" + number);
+  },
   checkLogin: function() {
-    return axios.get("api/user/checkLogin");
+    return axios.get("/api/user/checkLogin");
   },
   login: function(profile) {
-    return axios.post("api/user/login", profile);
+    return axios.post("/api/user/login", profile);
   },
   logout: function() {
-    return axios.post("api/user/logout");
+    return axios.post("/api/user/logout");
   },
   // Gets the results of the missing person using all search criteria
   searchMissingPerson: function(firstName, lastName, city, state) {

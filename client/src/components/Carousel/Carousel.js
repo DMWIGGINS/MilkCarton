@@ -6,10 +6,7 @@ import GoogleMap from "../GoogleMap";
 
 class SearchCarousel extends Component {
     getCarousel() {
-        let content = this
-            .props
-            .searchResults
-            .map(function (result) {
+        let content = this.props.searchResults.map(function (result) {
                 return (
                     <div key={result.caseNumber}>
                         <div className="card">
@@ -17,7 +14,7 @@ class SearchCarousel extends Component {
                                 <Heading level={5}>
                                     <b>{result.firstName + " " + result.lastName}</b>
                                 </Heading>
-                                <a className="btn-floating halfway-fab waves-effect waves-light red darken-4">
+                                <a className="btn-floating halfway-fab waves-effect waves-light red darken-4" href={"/spotted/" + result.caseNumber}>
                                     <i className="material-icons">remove_red_eye</i>
                                 </a>
                             </div>
