@@ -12,16 +12,21 @@ class Login extends Component {
         if (response.error == null) {
             let login = this;
             API.login(response.profileObj).then(function() {
-                login.props.setLoginState(true);
+                login.props.setLoginState(true, {
+                    userID: response.profileObj.googleId, 
+                    name: response.profileObj.name, 
+                    image: response.profileObj.imageUrl, 
+                    email: response.profileObj.email
+                });
             });
         } else {
-            this.props.setLoginState(false);
+            this.props.setLoginState(false, null);
         }
     }
     handleLogout() {
         let login = this;
         API.logout().then(function() {
-            login.props.setLoginState(false);
+            login.props.setLoginState(false, null);
         });
     }
     render() {

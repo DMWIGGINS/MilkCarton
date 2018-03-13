@@ -8,6 +8,17 @@ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 font-stretch: wider;
 font-size-adjust: inherit;
 }
+.brand .brand-logo-wrapper {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    height: 100%;
+}
+.brand .user-image {
+    height: 40px;
+    border-radius: 50%;
+    padding-left: .75rem;
+}
 .route{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-weight: lighter;

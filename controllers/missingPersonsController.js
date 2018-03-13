@@ -105,14 +105,11 @@ router.get("/api/case/getByNumber", function (req, res) {
     });
 });
 
-router.post("/spotted", function (req, res) {
-    logSighting(req, res);
-});
-
 router.get("/api/user/checkLogin", function (req, res) {
     ssn = req.session;
     res.json({
-        status: (ssn.currentUser != null)
+        status: (ssn.currentUser != null),
+        user: ssn.currentUser
     });
 })
 

@@ -20,7 +20,7 @@ class Spotted extends Component {
     render() {
         return (
             <Row className="body-background-gradient">
-            <NavBar />
+            <NavBar user={this.props.user} />
                 <Col s={12} m={5} className="left-gradient">
                 <div className="left-gradient-content">
                 <Heading className="heading" level={2}>Spotted</Heading> 

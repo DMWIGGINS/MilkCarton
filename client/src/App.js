@@ -12,16 +12,18 @@ class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            loggedIn: false
+            loggedIn: false,
+            currentUser: null
         };
         let app = this;
         API.checkLogin().then(function(res) {
-            app.setLoginState(res.data.status)
+            app.setLoginState(res.data.status, res.data.user)
         });
     }
-    setLoginState(loggedIn) {
+    setLoginState(loggedIn, user) {
         this.setState({
-            loggedIn: loggedIn
+            loggedIn: loggedIn,
+            currentUser: user
         });
     }
 
@@ -30,11 +32,11 @@ class App extends Component {
         return (
         <div className="App">
             <Switch>
-                <Route exact path='/' render={() => <Login loggedIn={this.state.loggedIn} setLoginState={this.setLoginState.bind(this)} />}/>
-                <Route path='/landing' render={() => <Landing loggedIn={this.state.loggedIn}/>}/>
-                <Route path='/search' render={() => <Search loggedIn={this.state.loggedIn} />}/>
-                <Route path='/spotted/:id' render={(props) => <Spotted loggedIn={this.state.loggedIn} case={props.match.params.id}/>}/>
-                <Route path='/resources' render={() => <Resources loggedIn={this.state.loggedIn}/>}/>
+                <Route exact path='/' render={() => <Login loggedIn={this.state.loggedIn} setLoginState={this.setLoginState.bind(this)} user={this.state.currentUser} />}/>
+                <Route path='/landing' render={() => <Landing loggedIn={this.state.loggedIn} user={this.state.currentUser}/>}/>
+                <Route path='/search' render={() => <Search loggedIn={this.state.loggedIn} user={this.state.currentUser} />}/>
+                <Route path='/spotted/:id' render={(props) => <Spotted loggedIn={this.state.loggedIn} user={this.state.currentUser} case={props.match.params.id}/>}/>
+                <Route path='/resources' render={() => <Resources loggedIn={this.state.loggedIn} user={this.state.currentUser}/>}/>
             </Switch>
         </div>
         );
