@@ -92,6 +92,14 @@
     border-bottom: 2px solid white;
 }
 
+.error-div {
+    background-color: #ff194e;
+    text-align: center;
+    padding: 10px;
+    color: white;
+    width: 100%;
+}
+
 @media only screen and (max-width: 600px) {
     .search-page .left-gradient {
         display: block;

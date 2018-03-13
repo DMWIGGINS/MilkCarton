@@ -1,3 +1,6 @@
+nav .nav-wrapper {
+    position: static;
+}
 .nav-wrapper{
     background-color: black;
     z-index: 1;

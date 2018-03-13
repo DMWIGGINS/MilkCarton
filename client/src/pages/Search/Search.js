@@ -14,7 +14,8 @@ class Search extends Component {
         super(props);
         this.state = {
             search: [],
-            width: window.innerWidth
+            width: window.innerWidth,
+            error: ""
         };
     }
     componentWillMount() {
@@ -37,7 +38,9 @@ class Search extends Component {
         let commaIndex = location.indexOf(",");
 
         if (firstName === "" && lastName === "" && commaIndex === -1) {
-            window.alert("Please enter a property formated location \"City, State\"");
+            this.setState({
+                error: "Please enter a property formated location \"City, State\""
+            });
             return;
         }
         let city = location.substring(0, commaIndex).trim();
@@ -120,9 +123,17 @@ class Search extends Component {
         });
         API.searchMissingPerson(firstName, lastName, city, state).then(function(res){
             console.log(res.data);
-            search.setState({
-                search: res.data
-            });
+            if (res.data.length > 0) {
+                search.setState({
+                    search: res.data,
+                    error: ""
+                });
+            } else {
+                search.setState({
+                    search: res.data,
+                    error: "No results found"
+                });
+            }
         });
     };
 
@@ -130,9 +141,14 @@ class Search extends Component {
     render() {
         let desktopCarousel = <SearchCarousel searchResults={this.state.search}/>; 
         let mobileCarousel;
+        let errorDiv;
         if (this.state.width <= 600) {
             mobileCarousel = <SearchCarousel searchResults={this.state.search} options={{ fullWidth: true }}/>;
             desktopCarousel = null;
+        }
+
+        if (this.state.error !== "") {
+            errorDiv = (<div className="error-div">{this.state.error}</div>);
         }
 
         return (
@@ -142,6 +158,7 @@ class Search extends Component {
                     <div className="left-gradient-content search-form">
                     <img className="logo" src={logo} alt={"logo"}/>
                         <Heading level={2}>Search Criteria</Heading>
+                        {errorDiv}
                         <Input s={12} label="First name" ref="firstName"/>
                         <Input s={12} label="Last name" ref="lastName"/>
                         <AutocompleteLocation ref="location"/>

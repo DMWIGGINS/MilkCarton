@@ -37,11 +37,12 @@ class Login extends Component {
                 className="login-buttons center-align black" 
                 waves='light' 
                 onClick= {this.handleLogout.bind(this)}>Logout</Button>)
+            /* Commented out since saved is not enabled
             savedCaseButton = (<Button 
                 className="login-buttons center-align black" 
                 waves='light' 
                 node="a" 
-                href="/saved">Saved Cases</Button>);
+                href="/saved">Saved Cases</Button>);*/
         } else {
             loginOrOut = (<GoogleLogin
                 clientId="277659205285-9aqgv54koa3l693gcqcs2knt9lqrg9e9.apps.googleusercontent.com"
