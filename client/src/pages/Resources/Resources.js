@@ -1,7 +1,7 @@
 import "./resources.css";
 import "../common.css";
 import React, { Component } from 'react';
-import {Row, Col, Container} from 'react-materialize'
+import {Row, Col} from 'react-materialize'
 import Heading from "../../components/Heading";
 import NavBar from "../../components/NavBar";
 import logo from '../milkcartonlogo.png'
@@ -32,28 +32,3 @@ class Resources extends Component {
   
 export default Resources;
 
-/* <Row className="card-panel grey lighten-2 " style={jumbotronStyle}>
-    <Row>
-        <Col s={12} l={12} className="center-align">
-            <div>
-                <Heading level={1}>Milk Carton</Heading>
-                <Heading level={4}> #/# </Heading>
-            </div>
-        </Col>
-    </Row>   
-    <Row>
-        <Col s={6} className="right-align">
-                <h6>Open cases</h6>
-        </Col>
-        <Col s={6} className="left-align">
-                <h6>Total cases</h6>
-        </Col>
-    </Row>
-</Row>
-<Row>
-    <Col s={10} offset="s1">
-        <Divider/>
-    </Col>
-</Row> */
-
- 
