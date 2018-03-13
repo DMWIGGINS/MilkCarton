@@ -3,8 +3,8 @@ import "../common.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
 import {Row, Col, Button, Input} from 'react-materialize';
-import SearchCarousel from "../../components/Carousel"
-import API from "../../utils/API"
+import SearchCarousel from "../../components/Carousel";
+import API from "../../utils/API.js";
 
 class Search extends Component {
     constructor(props) {
@@ -26,43 +26,23 @@ class Search extends Component {
         this.setState({ width: window.innerWidth });
     }
 
-   
-
-    state = {
-        searchResults: [],
-        firstName: "",
-        lastName: "",
-        city: "",
-        state: ""
-      };
-
-      handleInputChange = event => {
-        const { name, value } = event.target;
-        this.setState({
-          [name]: value
+    getSearchResults() {
+        let lastName = this.refs.lastName.input.value;
+        let firstName = this.refs.firstName.input.value;
+        let city = this.refs.city.input.value;
+        let state = this.refs.state.input.value;
+        let search = this;
+        search.setState({
+            search: []
         });
-      };
+        API.searchMissingPerson(firstName, lastName, city, state).then(function(res){
+            console.log(res.data);
+            search.setState({
+                search: res.data
+            });
+        });
+    };
 
-    handleFormSubmit = event => {
-        event.preventDefault();
-        if (this.state.firstName && this.state.lastName) {
-            console.log("I'm in the search by name conditional");
-          API.findPerson({
-            firstName: this.state.firstName,
-            lastName: this.state.lastName,
-          })
-            .then(res => this.loadPeople())
-            .catch(err => console.log(err));
-        } else if (this.state.city && this.state.state) {
-            console.log("I'm in the search by city and state conditional");
-            API.findSighting({
-                city: this.state.city,
-                state: this.state.state,
-              })
-                .then(res => this.loadSightings())
-                .catch(err => console.log(err));
-        }
-      };
     //Render function that allows you to search and the return the carousel.
     render() {
         let desktopCarousel = <SearchCarousel searchResults={this.state.search}/>; 
@@ -77,17 +57,11 @@ class Search extends Component {
                 <Col s={12} m={5} className="left-gradient">
                     <div className="left-gradient-content search-form">
                         <Heading level={1}>Search Criteria</Heading>
-                        <Input s={12} label="First name" value={this.state.firstName} 
-                        onChange={this.handleInputChange} name="firstName"/>
-                        <Input s={12} label="Last name" value={this.state.lastName} 
-                        onChange={this.handleInputChange} name="lastName"/>
-                        <Input s={12} label="City" value={this.state.city} 
-                        onChange={this.handleInputChange} name="city"/>
-                        <Input s={12} label="State" value={this.state.state} 
-                        onChange={this.handleInputChange} name="city"/>
-                        <Button waves='light' className="black" onClick={this.handleFormSubmit}>
-                            
-                            Search</Button> 
+                        <Input s={12} label="First name" ref="firstName"/>
+                        <Input s={12} label="Last name" ref="lastName"/>
+                        <Input s={12} label="City" ref="city"/>
+                        <Input s={12} label="State" ref="state"/>
+                        <Button waves='light' className="black" onClick={this.getSearchResults.bind(this)}>Search</Button> 
                     </div>
                     {mobileCarousel}
                 </Col>
