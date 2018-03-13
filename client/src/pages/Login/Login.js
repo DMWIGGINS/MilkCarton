@@ -5,26 +5,24 @@ import Heading from "../../components/Heading";
 import {Row, Col, Button} from 'react-materialize'
 import GoogleLogin from 'react-google-login';
 import logo from './milkcartonlogo.png';
+import API from "../../utils/API.js";
 
 class Login extends Component {
     handleLoginResponse(response) {
         if (response.error == null) {
-            this.props.setLoginState(true);
-            fetch('api/user/login', {
-                method: 'POST',
-                body: JSON.stringify(response.profileObj),
-                headers: {
-                    'Content-Type': 'application/json'
-                }
-            }).then(res => {
-                return res
-            }).catch(err => err);
+            let login = this;
+            API.login(response.profileObj).then(function() {
+                login.props.setLoginState(true);
+            });
         } else {
             this.props.setLoginState(false);
         }
     }
     handleLogout() {
-        this.props.setLoginState(false);
+        let login = this;
+        API.logout().then(function() {
+            login.props.setLoginState(false);
+        });
     }
     render() {
         let loginOrOut = null;

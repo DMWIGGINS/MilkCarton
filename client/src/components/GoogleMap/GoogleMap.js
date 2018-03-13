@@ -59,9 +59,12 @@ class GoogleMap extends Component {
         // Wait two seconds (padding for the carousel to render) then take 
         // in all the markers on the map and set the viewport to the 
         // given bounds
-        setTimeout(function(){
-            map.fitBounds(bounds);
-        }, 2000)
+        window.google.maps.event.addListenerOnce(map, "tilesloaded", function(){
+            console.log("Test2");
+            setTimeout(function() {
+                map.fitBounds(bounds);
+            }, 1000)
+        })
 	}
 
 
