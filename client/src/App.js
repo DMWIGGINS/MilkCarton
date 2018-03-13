@@ -5,6 +5,7 @@ import Landing from "./pages/Landing";
 import Search from "./pages/Search";
 import Spotted from "./pages/Spotted";
 import Resources from "./pages/Resources"
+import API from "./utils/API.js";
 
 // The app component that is being rendered at the root in index.html
 class App extends Component {
@@ -13,6 +14,11 @@ class App extends Component {
       this.state = {
           loggedIn: false
       };
+      let app = this;
+      API.checkLogin().then(function(res) {
+        debugger
+          app.setLoginState(res.data.status)
+      });
   }
   setLoginState(loggedIn) {
       this.setState({
