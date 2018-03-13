@@ -36,6 +36,10 @@ body {
     align-items: center;
 }
 
+.left-gradient input[type=text] {
+    color: white;
+}
+
 .left-gradient-content {
     width: 100%;
     height: 100%;

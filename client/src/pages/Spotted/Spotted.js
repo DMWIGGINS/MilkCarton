@@ -2,6 +2,7 @@ import "../common.css";
 import "./spotted.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
+import NavBar from "../../components/NavBar";
 import {Row, Col, Autocomplete, Input, Button} from 'react-materialize';
 import API from "../../utils/API.js";
 
@@ -19,6 +20,7 @@ class Spotted extends Component {
     render() {
         return (
             <Row className="body-background-gradient">
+            <NavBar />
                 <Col s={12} m={5} className="left-gradient">
                 <div className="left-gradient-content">
                 <Heading className="heading" level={2}>Spotted</Heading> 

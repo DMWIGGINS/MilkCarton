@@ -1,3 +1,5 @@
+const fs = require('fs');
+const path = require('path');
 const Sequelize = require("sequelize");
 const db = require("../models");
 const missingPersonResults = require("../results.json");
@@ -107,4 +109,11 @@ function gatherData(results) {
     }
 };
 
-gatherData(missingPersonResults);
+//gatherData(missingPersonResults);
+
+
+fs.readdirSync(path.join(__dirname, "../scraperesults")).forEach(file => {
+    //console.log(file);
+    var results = require(path.join(__dirname, "../scraperesults/" + file));
+    gatherData(results);
+});
