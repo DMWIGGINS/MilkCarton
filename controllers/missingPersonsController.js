@@ -1,12 +1,14 @@
+var express = require("express");
+var router = express.Router();
 const db = require("../models");
+
 
 // Defining methods for the missingPersonsController
 
-
-
 function missingPersonsSearch(req, res) {
-
+console.log("In controller missingPersonsSearch")
   if ((req.params.firstName !== null) && (req.params.lastName !== null)) {
+    console.log("In the conditional of first and last name")
     db.People.findAll({
       where: {
         firstName: req.params.firstName,
@@ -14,6 +16,7 @@ function missingPersonsSearch(req, res) {
       },
       include: [db.Images, db.Sightings]
     }).then(function (data, err) {
+      console.log("In the then of the first and last name conditional in controller")
       if (err) {
         console.log(err);
         res.status(500).end();
@@ -37,13 +40,18 @@ function missingPersonsSearch(req, res) {
       }
     });
   } else {
+    console.log("In the conditional of city and state")
+  }
     db.Sightings.findAll({
+
       where: {
         city: req.params.city,
         state: req.params.state
       },
       include: [db.Person, db.Images]
     }).then(function (data, err) {
+      console.log("In the then of the first and last name conditional in controller")
+      
       if (err) {
         console.log(err);
         res.status(500).end();
@@ -65,15 +73,17 @@ function missingPersonsSearch(req, res) {
         }
       }
     })
-  }
-};
+  };
+
 
 function logSighting(req, res) {
+  console.log("I'm in the logSighting function of the controller")
   db.Sightings.create({
     caseNumber: req.body.caseNumber,
     city: req.body.caseNumber,
     state: req.body.state
   }).then(function (data, err) {
+    console.log("I'm in the then part of the create Sightings in the controller")
     if (data) {
       console.log(data);
       res.status(200).end();
