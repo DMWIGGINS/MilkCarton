@@ -3,8 +3,10 @@ import "./spotted.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
 import NavBar from "../../components/NavBar";
-import {Row, Col, Autocomplete, Form, Label, Input, Button} from 'react-materialize';
+import {Row, Col, Autocomplete, Form, Input, Button} from 'react-materialize';
 import API from "../../utils/API.js";
+import logo from '../milkcartonlogo.png'
+
 
 class Spotted extends Component {
     constructor(props) {
@@ -23,6 +25,7 @@ class Spotted extends Component {
             <NavBar user={this.props.user} />
                 <Col s={12} m={5} className="left-gradient">
                 <div className="left-gradient-content">
+                <img className="logo" src={logo} alt={"logo"}/>                
                 <Heading className="heading" level={2}>Spotted</Heading> 
                 <Heading className="heading" level={5}>{this.state.currentCase.firstName + " " + this.state.currentCase.lastName}</Heading>   
                     <Form method="POST" action="send">
@@ -34,7 +37,7 @@ class Spotted extends Component {
                     <Input name='date' type='date' onChange={function(e, value) {'Date Spotted'}} />
                     </Row>
                     <Row>
-                    <Input type='textarea' name="details" title='Notes from Siting'/>
+                    <Input type='textarea' name="details" title='Notes from Sighting'/>
                     </Row>
                     <div>
                     <Button type="submit" waves='light'>Send Information</Button>
