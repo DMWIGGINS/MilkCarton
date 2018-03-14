@@ -2,7 +2,6 @@
 import React, {Component} from 'react';
 import Heading from "../Heading";
 import {Carousel} from 'react-materialize';
-import {Row} from 'react-materialize'
 import GoogleMap from "../GoogleMap";
 
 class SearchCarousel extends Component {
