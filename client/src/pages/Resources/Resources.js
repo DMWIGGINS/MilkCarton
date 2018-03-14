@@ -24,15 +24,26 @@ class Resources extends Component {
                         <p><a target="_blank" rel="noopener noreferrer" href="https://www.drugabuse.gov/publications/drugfacts/understanding-drug-use-addiction">Understanding Drug Use and Addiction</a></p>
                         <p><a target="_blank" rel="noopener noreferrer" href="https://www.alz.org/care/alzheimers-dementia-wandering.asp">Wandering and Dementia</a></p>
                         </div>
-                    </Col>
-                    
-                    <Col m={7} className="right-banner center-align">
-                       <div className="right-banner-text">
-                 <Heading level={2}>FIND MISSING PERSONS</Heading>
-     <Heading level={5}>Search Cases. Report Sightings. Save lives.</Heading>
-     </div>
- </Col>
- </Row>
+                </Col>
+                <Col s={12} m={5}className="resources-right-side">
+                    <div>
+                        <div className="card">
+                            <div className="card-content left-align">
+                                <Heading level={5}>
+                                </Heading>
+                                <a className="btn-floating halfway-fab waves-effect waves-light red darken-4">
+                                    <i className="material-icons">remove_red_eye</i>
+                                </a>
+                            </div>
+                            <div className="card-image left-align">
+                               
+                                </div>
+                            </div>
+                        </div>
+                </Col>
+            </Row>
+                  
+
         );
     }
 }
