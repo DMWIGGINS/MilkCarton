@@ -3,7 +3,7 @@ import "./spotted.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
 import NavBar from "../../components/NavBar";
-import {Row, Col, Autocomplete, Input, Button} from 'react-materialize';
+import {Row, Col, Autocomplete, Form, Label, Input, Button} from 'react-materialize';
 import API from "../../utils/API.js";
 
 class Spotted extends Component {
@@ -25,19 +25,21 @@ class Spotted extends Component {
                 <div className="left-gradient-content">
                 <Heading className="heading" level={2}>Spotted</Heading> 
                 <Heading className="heading" level={5}>{this.state.currentCase.firstName + " " + this.state.currentCase.lastName}</Heading>   
-                    <Autocomplete s={12} type="first name" title='First Name' data={{'FirstName': null,}}/>
-                    <Autocomplete s={12} type="last name" title='Last Name' data={{'LastName': null,}} />
-                    <Autocomplete s={12} type="last seen" title='Last Seen' data={{'LastSeen': null,}} />
-                    <Autocomplete s={12} title='State' data={{'State': null,}} />
+                    <Form method="POST" action="send">
+                    <Autocomplete s={12} name="first-name" type="first name" title='First Name' data={{'FirstName': null,}}/>
+                    <Autocomplete s={12} name="last-name" type="last name" title='Last Name' data={{'LastName': null,}} />
+                    <Autocomplete s={12} name="case-number" type="case-number" title='case-number' data={{'case-number': null,}} />
+                    <Autocomplete s={12} name="location" title='State' data={{'State': null,}} />
                     <Row>
-                    <Input name='on' type='date' onChange={function(e, value) {'Date Spotted'}} />
+                    <Input name='date' type='date' onChange={function(e, value) {'Date Spotted'}} />
                     </Row>
                     <Row>
-                    <Input type='textarea' title='Notes from Siting'/>
+                    <Input type='textarea' name="details" title='Notes from Siting'/>
                     </Row>
                     <div>
-                    <Button waves='light'>Spotted</Button>
-                    </div>                 
+                    <Button type="submit" waves='light'>Send Information</Button>
+                    </div>   
+                    </Form>              
                 </div>
                 </Col>
                 <Col s={12} m={7} className="right-gradient">

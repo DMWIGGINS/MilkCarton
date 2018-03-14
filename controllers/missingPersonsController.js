@@ -159,8 +159,10 @@ router.post('/send', (req, res) => {
       <p>There has been a sighting.</p>
       <h3>Sighting Details</h3>
       <ul>  
-        <li>Name: ${req.body.name}</li>
-        <li>Case Number: ${req.body.number}</li>
+        <li>First Name: ${req.body.first-name}</li>
+        <li>Last Name: ${req.body.last-name}</li>
+        <li>Case Number: ${req.body.case-number}</li>
+        <li>Date Seen: ${req.body.date}</li>
         <li>Location: ${req.body.location}</li>
       </ul>
       <h3>Details</h3>
@@ -169,7 +171,7 @@ router.post('/send', (req, res) => {
 
     // create reusable transporter object using the default SMTP transport
     let transporter = nodemailer.createTransport({
-        host: 'mail.YOURDOMAIN.com',
+        host: 'smpt.gmail.com',
         port: 587,
         secure: false, // true for 465, false for other ports
         auth: {
