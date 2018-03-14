@@ -34,10 +34,9 @@ class Resources extends Component {
             <br/> <br/>
             <Heading level={5}>The App</Heading>
             <span>In the mid-1980s, the United States began printing advertisements on milk cartons to draw attention to a missing child. This mobile responsive web application is a digital milk carton that allows users immediate access to missing person information as well as the ability to easily report sightings to the proper authorities.</span>
-            <br/>
-            <Heading level={5}></Heading>
-            <span>
-                </span>
+            <br/> <br/>
+            <Heading level={5}>The Why</Heading>
+            <span>People go missing for a variety of reasons.  Contributing factors include: anxiety, mental illness, escaping an abusive relationship or domestic violence, alcohol or drug abuse, kidnapping, foul play,homelessness, and dementia.  Provided are some links to resources addressing many of these factors and how to help.</span>
             <hr/>
                </CardPanel>
                </Col>
