@@ -1,7 +1,7 @@
 import "./resources.css";
 import "../common.css";
 import React, { Component } from 'react';
-import {Row, Col} from 'react-materialize'
+import {Row, Col, CardPanel} from 'react-materialize'
 import Heading from "../../components/Heading";
 import NavBar from "../../components/NavBar";
 import logo from '../milkcartonlogo.png'
@@ -11,7 +11,7 @@ class Resources extends Component {
 
     render() {
         return (
-            <Row className="body-background-gradient search-page">
+            <Row className="body-background-gradient resources-page">
              <NavBar user={this.props.user} />
                 <Col s={12} m={5}className="left-gradient">
                     <div
@@ -25,25 +25,23 @@ class Resources extends Component {
                         <p><a target="_blank" rel="noopener noreferrer" href="https://www.alz.org/care/alzheimers-dementia-wandering.asp">Wandering and Dementia</a></p>
                         </div>
                 </Col>
-                <Col s={12} m={5}className="resources-right-side">
-                    <div>
-                        <div className="card">
-                            <div className="card-content left-align">
-                                <Heading level={5}>
-                                </Heading>
-                                <a className="btn-floating halfway-fab waves-effect waves-light red darken-4">
-                                    <i className="material-icons">remove_red_eye</i>
-                                </a>
-                            </div>
-                            <div className="card-image left-align">
-                               
-                                </div>
-                            </div>
-                        </div>
-                </Col>
-            </Row>
-                  
-
+               <Col s={12} m={7}>
+               <CardPanel className="right-gradient" textClassName="grey text">
+               <br/>
+            <hr/>
+               <Heading level={5}>The Need</Heading>
+            <span>Anyone, regardless of gender, age, ethnicity, or educational background may become a missing person.  In the United States today, there are over 14,000 open missing persons cases. Of those 14,000 missing persons cases, how many do you know of? Do you know how many people are currently missing in your town, county, or state? How would you identify a missing person? If you were out and about and saw a missing person, how would you report it? Who would you report it to?</span>
+            <br/> <br/>
+            <Heading level={5}>The App</Heading>
+            <span>In the mid-1980s, the United States began printing advertisements on milk cartons to draw attention to a missing child. This mobile responsive web application is a digital milk carton that allows users immediate access to missing person information as well as the ability to easily report sightings to the proper authorities.</span>
+            <br/>
+            <Heading level={5}></Heading>
+            <span>
+                </span>
+            <hr/>
+               </CardPanel>
+               </Col>
+        </Row>    
         );
     }
 }
