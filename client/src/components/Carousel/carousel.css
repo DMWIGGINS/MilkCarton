@@ -1,0 +1,9 @@
+.favorites-button.btn-floating.halfway-fab {
+    right: 80px;
+}
+
+.card-content h5 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

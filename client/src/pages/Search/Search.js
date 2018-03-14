@@ -15,6 +15,7 @@ class Search extends Component {
         this.state = {
             search: [],
             width: window.innerWidth,
+            searchSaved: false,
             error: ""
         };
     }
@@ -30,7 +31,23 @@ class Search extends Component {
         this.setState({ width: window.innerWidth });
     }
 
+    toggleSearchSaved(e) {
+        this.setState({
+            searchSaved: this.refs.searchSaved.checked
+        })
+    }
 
+    updateSearchData(caseData) {
+        let newResults = this.state.search;
+        for (var i = 0; i < newResults.length; i++) {
+            if (newResults[i].caseNumber === caseData.caseNumber) {
+                newResults[i] = caseData;
+                this.setState({
+                    searchResults: newResults
+                })
+            }
+        }
+    }
     getSearchResults() {
         let lastName = this.refs.lastName.input.value;
         let firstName = this.refs.firstName.input.value;
@@ -121,7 +138,7 @@ class Search extends Component {
         search.setState({
             search: []
         });
-        API.searchMissingPerson(firstName, lastName, city, state).then(function(res){
+        API.searchMissingPerson(firstName, lastName, city, state, this.state.searchSaved).then(function(res){
             console.log(res.data);
             if (res.data.length > 0) {
                 search.setState({
@@ -139,16 +156,26 @@ class Search extends Component {
 
     //Render function that allows you to search and the return the carousel.
     render() {
-        let desktopCarousel = <SearchCarousel searchResults={this.state.search}/>; 
+        let desktopCarousel = <SearchCarousel searchResults={this.state.search} loggedIn={this.props.loggedIn} updateSearchData={this.updateSearchData.bind(this)}/>; 
         let mobileCarousel;
+        let searchSavedToggle;
         let errorDiv;
         if (this.state.width <= 600) {
-            mobileCarousel = <SearchCarousel searchResults={this.state.search} options={{ fullWidth: true }}/>;
+            mobileCarousel = <SearchCarousel searchResults={this.state.search} loggedIn={this.props.loggedIn} updateSearchData={this.updateSearchData.bind(this)} options={{ fullWidth: true }}/>;
             desktopCarousel = null;
         }
 
         if (this.state.error !== "") {
             errorDiv = (<div className="error-div">{this.state.error}</div>);
+        }
+
+        if (this.props.loggedIn === true) {
+            searchSavedToggle = (<div className="toggle-search-saved">
+                <label className="show-saved-case-label">Search only saved cases</label>
+                <div className="switch show-saved-cases">
+                    <label className="show-saved-case-label">Off<input type="checkbox" ref="searchSaved" onChange={this.toggleSearchSaved.bind(this)}/><span className="lever"></span>On</label>
+                </div>
+            </div>)
         }
 
         return (
@@ -162,6 +189,7 @@ class Search extends Component {
                         <Input s={12} label="First name" ref="firstName"/>
                         <Input s={12} label="Last name" ref="lastName"/>
                         <AutocompleteLocation ref="location"/>
+                        {searchSavedToggle}
                         <Button waves='light' className="black" onClick={this.getSearchResults.bind(this)}>Search</Button> 
                     </div>
                     {mobileCarousel}

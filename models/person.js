@@ -208,6 +208,10 @@ module.exports = function (sequelize, DataTypes) {
             foreignKey: "caseNumber",
             onDelete: "cascade"
         });
+        models.Person.hasMany(models.Saved, {
+            foreignKey: "caseNumber",
+            onDelete: "cascade"
+        });
     };
     return Person;
 };

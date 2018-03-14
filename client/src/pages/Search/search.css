@@ -91,6 +91,16 @@
 .search-form input[type=text]:focus {
     border-bottom: 2px solid white;
 }
+.search-form .toggle-search-saved {
+    text-align: center;
+}
+.search-form .show-saved-case-label {
+    font-size: 1rem;
+    color: #e6e6e6;
+}
+.search-form .show-saved-cases {
+    margin-bottom: 20px;
+}
 
 .error-div {
     background-color: #ff194e;

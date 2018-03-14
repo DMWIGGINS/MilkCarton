@@ -2,6 +2,12 @@ import axios from "axios";
 
 
 export default {
+  saveCase: function(number, saved) {
+    return axios.post("/api/case/save", {
+      caseNumber: number,
+      saved: saved
+    });
+  },
   getCaseByNumber: function(number) {
     return axios.get("/api/case/getByNumber?caseNumber=" + number);
   },
@@ -15,8 +21,8 @@ export default {
     return axios.post("/api/user/logout");
   },
   // Gets the results of the missing person using all search criteria
-  searchMissingPerson: function(firstName, lastName, city, state) {
-    return axios.get("/api/searchMissingPersons?firstName=" + firstName + "&lastName=" + lastName + "&city=" + city + "&state=" + state); 
+  searchMissingPerson: function(firstName, lastName, city, state, searchSaved) {
+    return axios.get("/api/searchMissingPersons?firstName=" + firstName + "&lastName=" + lastName + "&city=" + city + "&state=" + state + "&searchSaved=" + searchSaved); 
   },
   
   // Gets the results of the missing person search using first and last name

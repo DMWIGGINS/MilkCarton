@@ -37,47 +37,61 @@ function logSighting(req, res) {
 // Route that handles the search functionality for missin persons cases
 router.get("/api/searchMissingPersons", function (req, res) {
     ssn = req.session;
-    db.Person.findAll({
-            limit: 10,
+
+    // Setup default tables to include in query
+    let includedTables = [{
+            model: db.Images,
             where: {
-                lastName: {
-                    [Op.like]: req.query.lastName + "%"
+                caseNumber: db
+                .Sequelize
+                .col('Person.caseNumber')
+            }
+        },{
+            model: db.Sightings,
+            where: {
+                caseNumber: db.Sequelize.col('Person.caseNumber'),
+                city: {
+                    [Op.like]: "%" + req.query.city + "%"
                 },
-                firstName: {
-                    [Op.like]: req.query.firstName + "%"
+                state: {
+                    [Op.like]: "%" + req.query.state + "%"
                 }
-            },
-            include: [{
-                model: db.Images,
-                where: {
-                    caseNumber: db
-                        .Sequelize
-                        .col('Person.caseNumber')
-                }
-            }, {
-                model: db.Sightings,
-                where: {
-                    caseNumber: db
-                        .Sequelize
-                        .col('Person.caseNumber'),
-                    city: {
-                        [Op.like]: "%" + req.query.city + "%"
-                    },
-                    state: {
-                        [Op.like]: "%" + req.query.state + "%"
-                    }
-                }
-            }]
-        })
-        .then(function (data, err) {
-            if (err) {
-                res
-                    .status(500)
-                    .end();
-            } else {
-                res.json(data);
+            }
+        }
+    ]
+
+    // If asked to return saved cases then do so
+    if (ssn.currentUser != null) {
+        includedTables.push({
+            model: db.Saved,
+            required: (req.query.searchSaved === "true"),
+            where: {
+                caseNumber: db.Sequelize.col('Person.caseNumber'),
+                userID: ssn.currentUser.userID
             }
         });
+    }
+
+    db.Person.findAll({
+        limit: 10,
+        where: {
+            lastName: {
+                [Op.like]: req.query.lastName + "%"
+            },
+            firstName: {
+                [Op.like]: req.query.firstName + "%"
+            }
+        },
+        include: includedTables
+    }).then(function (data, err) {
+      if (err) {
+        res
+          .status(500)
+          .end();
+      } else {
+        res.json(data);
+      }
+    });
 });
 
 router.get("/api/case/getByNumber", function (req, res) {
@@ -105,6 +119,35 @@ router.get("/api/case/getByNumber", function (req, res) {
             res.json(data[0]);
         }
     });
+});
+
+router.post("/api/case/save", function (req, res) {
+    ssn = req.session;
+    if (req.body.saved === "false") {
+        db.Saved.create({
+            caseNumber: req.body.caseNumber, 
+            userID: ssn.currentUser.userID
+        }).then(function (data, err) {
+            if (err) {
+                res.status(500).end();
+            } else {
+                res.status(200).end();
+            }
+        });
+    } else {
+        db.Saved.destroy({
+            where: {
+                caseNumber: req.body.caseNumber, 
+                userID: ssn.currentUser.userID
+            }
+        }).then(function (data, err) {
+            if (err) {
+                res.status(500).end();
+            } else {
+                res.status(200).end();
+            }
+        });
+    }
 });
 
 router.get("/api/user/checkLogin", function (req, res) {
