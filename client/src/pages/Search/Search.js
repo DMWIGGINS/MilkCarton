@@ -188,7 +188,7 @@ class Search extends Component {
                         {errorDiv}
                         <Input s={12} label="First name" ref="firstName"/>
                         <Input s={12} label="Last name" ref="lastName"/>
-                        <AutocompleteLocation ref="location"/>
+                        <AutocompleteLocation types={['(cities)']} restrictions={{country: "us"}} ref="location"/>
                         {searchSavedToggle}
                         <Button waves='light' className="black" onClick={this.getSearchResults.bind(this)}>Search</Button> 
                     </div>

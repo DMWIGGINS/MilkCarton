@@ -2,6 +2,12 @@ import axios from "axios";
 
 
 export default {
+  sendEmail: function(caseData, spottedData) {
+    return axios.post("/api/sendEmail", {
+      caseData: caseData,
+      spottedData: spottedData
+    });
+  },
   saveCase: function(number, saved) {
     return axios.post("/api/case/save", {
       caseNumber: number,
