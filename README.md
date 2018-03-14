@@ -3,7 +3,7 @@
 
 ### The Need
 
-Anyone, regardless of gender, age, ethnicity, or educational background may become a missing person.  In the United States today, there are over 14,000 open missing persons cases. Of those 14,000 missing persons cases, how many do you know of? Do you know how many people are currently missing in your town, county, or state? How would you identify a missing person? If you were out and about and saw a missing person, how would you report it? Who would you report it too?
+Anyone, regardless of gender, age, ethnicity, or educational background may become a missing person.  In the United States today, there are over 14,000 open missing persons cases. Of those 14,000 missing persons cases, how many do you know of? Do you know how many people are currently missing in your town, county, or state? How would you identify a missing person? If you were out and about and saw a missing person, how would you report it? Who would you report it to?
 
 ### The App
 
