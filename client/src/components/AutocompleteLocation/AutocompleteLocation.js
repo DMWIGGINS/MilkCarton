@@ -15,8 +15,8 @@ class AutocompleteLocation extends Component {
     componentDidMount() {
 
         var options = {
-            types: ['(cities)'],
-            componentRestrictions: {country: "us"}
+            types: this.props.types,
+            componentRestrictions: this.props.restrictions
         }
 
         const autocompleteFormField = this.refs.location;

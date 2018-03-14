@@ -197,54 +197,56 @@ router.get('/', (req, res) => {
     res.render('email');
 });
 
-router.post('/send', (req, res) => {
+router.post("/api/sendEmail", function (req, res) {
+    ssn = req.session;
+
+    var caseData = req.body.caseData;
+    var spottedData = req.body.spottedData;
     const output = `
-      <p>There has been a sighting.</p>
-      <h3>Sighting Details</h3>
-      <ul>  
-        <li>First Name: ${req.body.first-name}</li>
-        <li>Last Name: ${req.body.last-name}</li>
-        <li>Case Number: ${req.body.case-number}</li>
-        <li>Date Seen: ${req.body.date}</li>
-        <li>Location: ${req.body.location}</li>
-      </ul>
-      <h3>Details</h3>
-      <p>${req.body.deatils}</p>
+        <p>There has been a sighting.</p>
+        <h3>Sighting Details</h3>
+        <ul>  
+            <li>First Name: ${caseData.firstName}</li>
+            <li>Last Name: ${caseData.lastName}</li>
+            <li>Case Number: ${caseData.caseNumber}</li>
+            <li>Date Seen: ${spottedData.date}</li>
+            <li>Location: ${spottedData.location}</li>
+        </ul>
+        <h3>Details</h3>
+        <p>${spottedData.details}</p>
     `;
+  
+    // Generate test SMTP service account from ethereal.email
+    // Only needed if you don't have a real mail account for testing
+    nodemailer.createTestAccount((err, account) => {
+        var transporter = nodemailer.createTransport({
+            service: 'gmail',
+            auth: {
+                user: 'noreply.milkcarton@gmail.com',
+                pass: 'MissingPerson'
+            }
+        });
 
-    // create reusable transporter object using the default SMTP transport
-    let transporter = nodemailer.createTransport({
-        host: 'smpt.gmail.com',
-        port: 587,
-        secure: false, // true for 465, false for other ports
-        auth: {
-            user: 'YOUREMAIL', // generated ethereal user
-            pass: 'YOURPASSWORD' // generated ethereal password
-        },
-        tls: {
-            rejectUnauthorized: false
-        }
-    });
+        // setup email data with unicode symbols
+        let mailOptions = {
+            from: ssn.currentUser.name + "<" + ssn.currentUser.email + ">", // sender address
+            to: 'katie.e.deangelis@gmail.com', // list of receivers
+            subject: "(Case Number - " + caseData.caseNumber + ") " + caseData.firstName + " " + caseData.lastName + " - Spotted", // Subject line
+            // text: 'We have spotted them ' + spottedData.location, // plain text body
+            html: output
+        };
 
-    // setup email data with unicode symbols
-    let mailOptions = {
-        from: '"Nodemailer Contact" <your@email.com>', // sender address
-        to: 'RECEIVEREMAILS', // list of receivers
-        subject: 'Node Contact Request', // Subject line
-        text: 'Hello world?', // plain text body
-        html: output // html body
-    };
+        // send mail with defined transport object
+        transporter.sendMail(mailOptions, (error, info) => {
+            if (error) {
+                return console.log(error);
+            }
+            console.log('Message sent: %s', info.messageId);
+            // Preview only available when sending through an Ethereal account
+            console.log('Preview URL: %s', nodemailer.getTestMessageUrl(info));
 
-    // send mail with defined transport object
-    transporter.sendMail(mailOptions, (error, info) => {
-        if (error) {
-            return console.log(error);
-        }
-        console.log('Message sent: %s', info.messageId);
-        console.log('Preview URL: %s', nodemailer.getTestMessageUrl(info));
-
-        res.render('contact', {
-            msg: 'Email has been sent'
+            // Message sent: <b658f8ca-6296-ccf4-8306-87d57a0b4321@example.com>
+            // Preview URL: https://ethereal.email/message/WaQKMgKddxQDoou...
         });
     });
 });
