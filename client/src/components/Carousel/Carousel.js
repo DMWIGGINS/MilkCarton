@@ -44,7 +44,6 @@ class SearchCarousel extends Component {
                 }
             }
             return (
-                <div>
                 <div key={result.caseNumber}>
                     <div className="card">
                         <div className="card-content left-align">
@@ -77,7 +76,6 @@ class SearchCarousel extends Component {
                                     {result.height}</div>
                             </div>
                             </div>
-                        </div>
                         <div className="card-sightings">
                             <div className="or-seperator">
                                 <div className="line"></div>
