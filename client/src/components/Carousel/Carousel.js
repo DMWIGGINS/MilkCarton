@@ -8,6 +8,7 @@ class SearchCarousel extends Component {
     getCarousel() {
         let content = this.props.searchResults.map(function (result) {
                 return (
+                    <div>
                     <div key={result.caseNumber}>
                         <div className="card">
                             <div className="card-content left-align">
@@ -47,6 +48,7 @@ class SearchCarousel extends Component {
                                 <GoogleMap locations={result.Sightings}/>
                             </div>
                         </div>
+                    </div>
                     </div>
                 )
             })
