@@ -35,8 +35,9 @@ class Spotted extends Component {
             <NavBar user={this.props.user} />
                 <Col s={12} m={5} className="left-gradient">
                 <div className="left-gradient-content">
-                <img className="logo" src={logo} alt={"logo"}/>                
-                <Heading className="heading" level={2}>Spotted</Heading> 
+                <img className="logo" src={logo} alt={"logo"}/>
+                <div className="center-align">                
+                <Heading className="heading" level={2}>Spotted</Heading></div> 
                 <Heading className="heading" level={5}>{this.state.currentCase.firstName + " " + this.state.currentCase.lastName}</Heading>   
                 {/* <Form method="POST" action="send"> */}
                 <Autocomplete s={12} name="first-name" type="first name" title='First Name' data={{'FirstName': null,}} ref="firstName"/>
