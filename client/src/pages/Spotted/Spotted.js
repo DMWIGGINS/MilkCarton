@@ -3,7 +3,7 @@ import "./spotted.css";
 import React, { Component } from 'react';
 import Heading from "../../components/Heading";
 import NavBar from "../../components/NavBar";
-import {Row, Col, Input, Button} from 'react-materialize';
+import {Row, Col, Input, Toast, Button} from 'react-materialize';
 import API from "../../utils/API.js";
 import logo from '../milkcartonlogo.png';
 import AutocompleteLocation from "../../components/AutocompleteLocation";
@@ -44,7 +44,7 @@ class Spotted extends Component {
                 <Input s={12} label="Date seen" name='date' type='date' ref="date"/>
                 <AutocompleteLocation types={['address']} restrictions={{country: "us"}} ref="location"/>
                 <Input s={12} type='textarea' name="details" label='Notes from Sighting' ref="details"/>
-                <Button type="submit" waves='light' onClick={this.sendEmail.bind(this)}>Send Information</Button>
+                <Toast type="submit" waves='light' onClick={this.sendEmail.bind(this)} toast="Sent! Thank you for helping find this missing person.">Send Information</Toast>
                 </div>
                 </Col>
                 <Col s={12} m={7} className="right-gradient">
