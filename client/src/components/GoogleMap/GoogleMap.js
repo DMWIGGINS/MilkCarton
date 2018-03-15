@@ -52,7 +52,7 @@ class GoogleMap extends Component {
                         position: results[0].geometry.location
                     });
                     // Add markers to the maps boundaries
-                    bounds.extend(marker.getPosition());
+                    bounds.extend(marker.getPosition());                    
                 }
             });
         }
@@ -62,6 +62,11 @@ class GoogleMap extends Component {
         window.google.maps.event.addListenerOnce(map, "tilesloaded", function(){
             setTimeout(function() {
                 map.fitBounds(bounds);
+
+                let zoom = map.getZoom();
+                if (zoom > 8) {
+                    map.setZoom(8);
+                }
             }, 1000)
         })
 	}
