@@ -24,3 +24,26 @@
     flex-direction: column;
     align-items: center;
 }
+
+.right-gradient.right-spotted {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+.right-spotted .card {
+    width: 400px;
+    height: 465px;
+}
+.left-gradient.left-spotted .card {
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    .left-gradient.left-spotted .card {
+        display: block;
+    }
+    .right-gradient.right-spotted {
+        display: none;
+    }
+}
