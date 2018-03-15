@@ -199,7 +199,10 @@ router.get('/', (req, res) => {
 
 router.post("/api/sendEmail", function (req, res) {
     ssn = req.session;
-
+    if (ssn.currentUser == null) {
+        return res.status(500).end();
+    }
+    
     var caseData = req.body.caseData;
     var spottedData = req.body.spottedData;
     const output = `

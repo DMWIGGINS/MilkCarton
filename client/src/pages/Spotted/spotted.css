@@ -6,6 +6,11 @@
     align-items: center;
 }
 
+.left-gradient.left-spotted {
+    position: relative;
+    z-index: 1;
+}
+
 .left-gradient-content {
     width: 100%;
     display: flex;
@@ -39,11 +44,67 @@
     display: none;
 }
 
+.spotted-form .picker__holder {
+    background: rgba(0,0,0,0.5);
+}
+.spotted-form .picker__box {
+    border: none;
+}
+.spotted-form .picker__date-display {
+    background-color: #a90329;
+}
+.spotted-form .picker__weekday-display,
+.spotted-form .picker__day--selected, 
+.spotted-form .picker__day--selected:hover, 
+.spotted-form .picker--focused .picker__day--selected,
+.spotted-form .picker__nav--prev:hover, 
+.spotted-form .picker__nav--next:hover {
+    background-color: rgba(109, 0, 25, .8);
+}
+.spotted-form .picker__nav--prev:hover:before {
+    border-right: 0.75em solid white;
+}
+.spotted-form .picker__nav--next:hover:before {
+    border-left: 0.75em solid white;
+}
+
+.spotted-form .picker__day.picker__day--today:not(.picker__day--selected),
+.spotted-form .picker__close, 
+.spotted-form .picker__today {
+    color: #a90329;
+}
+
+.spotted-form .input-field label {
+    color: rgb(230, 230, 230);
+}
+.spotted-form textarea.materialize-textarea:focus:not([readonly]) + label,
+.spotted-form input[type=text]:focus + label {
+    color: white;
+    font-weight: bold;
+}
+.spotted-form input[type=text]:not([readonly]),
+.spotted-form textarea.materialize-textarea:not([readonly]),
+.spotted-form input[type=text] {
+    border-bottom: 1px solid rgb(230, 230, 230);
+}
+.spotted-form input[type=text]:focus:not([readonly]),
+.spotted-form textarea.materialize-textarea:focus:not([readonly])
+.spotted-form input[type=text]:focus {
+    border-bottom: 2px solid white;
+}
+.spotted-form input[type=text]:focus:not([readonly]),
+.spotted-form textarea.materialize-textarea:focus:not([readonly]) {
+    box-shadow: 0 1px 0 0 white;
+}
 @media only screen and (max-width: 600px) {
     .left-gradient.left-spotted .card {
         display: block;
     }
     .right-gradient.right-spotted {
         display: none;
+    }
+
+    .left-spotted .left-gradient-content {
+        overflow-y: scroll;
     }
 }
