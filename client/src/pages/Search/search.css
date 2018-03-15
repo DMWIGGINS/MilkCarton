@@ -66,12 +66,9 @@
     margin-bottom: 20px;
 }
 
-.error-div {
-    background-color: #ff194e;
-    text-align: center;
-    padding: 10px;
-    color: white;
-    width: 100%;
+.search-form .switch label input[type=checkbox]:checked+.lever,
+.search-form .switch label input[type=checkbox]:checked+.lever:after {
+    background-color: green;
 }
 
 @media only screen and (max-width: 600px) {
