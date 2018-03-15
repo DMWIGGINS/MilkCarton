@@ -36,7 +36,8 @@ body {
     align-items: center;
 }
 
-.left-gradient input[type=text] {
+.left-gradient input[type=text],
+.left-gradient textarea {
     color: white;
 }
 
