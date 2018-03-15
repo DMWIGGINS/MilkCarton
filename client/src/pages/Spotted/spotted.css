@@ -99,6 +99,7 @@
 @media only screen and (max-width: 600px) {
     .left-gradient.left-spotted .card {
         display: block;
+        width: 100%;
     }
     .right-gradient.right-spotted {
         display: none;
