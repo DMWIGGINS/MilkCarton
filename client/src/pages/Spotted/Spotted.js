@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 import Heading from "../../components/Heading";
 import NavBar from "../../components/NavBar";
 import CaseCard from "../../components/CaseCard";
-import {Row, Col, Input, Button} from 'react-materialize';
+import {Row, Col, Input, Toast} from 'react-materialize';
 import API from "../../utils/API.js";
 import logo from '../milkcartonlogo.png';
 import AutocompleteLocation from "../../components/AutocompleteLocation";
@@ -40,13 +40,15 @@ class Spotted extends Component {
                 <Col s={12} m={5} className="left-gradient left-spotted">
                     <div className="left-gradient-content">
                         <img className="logo" src={logo} alt={"logo"}/>                
-                        <Heading className="heading" level={2}>Spotted</Heading> 
+                        <div className="center-align">                
+                            <Heading className="heading" level={2}>Spotted</Heading>
+                        </div> 
                         <CaseCard case={this.state.currentCase} loggedIn={false}/> 
                         <div className="spotted-form">
                             <Input s={12} label="Date seen" name='date' type='date' ref="date"/>
                             <AutocompleteLocation types={['address']} restrictions={{country: "us"}} ref="location"/>
                             <Input s={12} type='textarea' name="details" label='Notes from Sighting' ref="details"/>
-                            <Button type="submit" waves='light' onClick={this.sendEmail.bind(this)}>Send Information</Button>
+                            <Toast type="submit" waves='light' onClick={this.sendEmail.bind(this)} toast="Sent! Thank you for helping find this missing person.">Send Information</Toast>
                         </div>
                     </div>
                 </Col>

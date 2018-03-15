@@ -184,7 +184,8 @@ class Search extends Component {
                 <Col s={12} m={5} className="left-gradient">
                     <div className="left-gradient-content search-form">
                     <img className="logo" src={logo} alt={"logo"}/>
-                        <Heading level={2}>Search Criteria</Heading>
+                    <div className="center-align">
+                        <Heading level={2}>Search Criteria</Heading></div>
                         {errorDiv}
                         <Input s={12} label="First name" ref="firstName"/>
                         <Input s={12} label="Last name" ref="lastName"/>

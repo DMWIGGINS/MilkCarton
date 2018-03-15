@@ -17,7 +17,8 @@ class Resources extends Component {
                     <div
                     className="left-gradient-content">
                     <img className="logo" src={logo} alt={"logo"}/>
-                        <Heading level={3}>Useful Links and Resources</Heading>
+                    <div className="center-align">
+                        <Heading level={3}>Useful Links and Resources</Heading></div>
                         <p><a target="_blank" rel="noopener noreferrer" href="https://www.namus.gov/">National Missing and Unidentified Persons System</a></p>
                         <p><a target="_blank" rel="noopener noreferrer" href="http://www.missingkids.com/">National Center for Missing & Exploited Children</a></p>
                         <p><a target="_blank" rel="noopener noreferrer" href="https://www.mentalhealth.gov/basics">Mental Health</a></p>
