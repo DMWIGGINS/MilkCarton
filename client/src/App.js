@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import { Route, Switch } from 'react-router-dom'
 import Login from "./pages/Login";
-import Landing from "./pages/Landing";
 import Search from "./pages/Search";
 import Spotted from "./pages/Spotted";
 import Resources from "./pages/Resources"
